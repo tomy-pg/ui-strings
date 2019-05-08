@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-05-07 16:26-0700\n"
-"PO-Revision-Date: 2019-05-08 16:06+0000\n"
+"PO-Revision-Date: 2019-05-08 17:56+0000\n"
 "Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
 "Language-Team: French <http://35.182.138.61/projects/test-project/"
 "component-1/fr/>\n"
@@ -27,5 +27,6 @@ msgid "Government of British Columbia"
 msgstr "Gouvernement de la Colombie Britannique"
 
 #: /Users/tomyreyes/desktop/weblate/main.py:7
+#, fuzzy
 msgid "Canadian Citizenship"
 msgstr "Citoyenneté canadienne"
