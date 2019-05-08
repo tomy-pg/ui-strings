@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-05-07 16:26-0700\n"
-"PO-Revision-Date: 2019-05-08 00:19+0000\n"
-"Last-Translator: Tomy Reyes <tomyleereyes@gmail.com>\n"
+"PO-Revision-Date: 2019-05-08 16:05+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
 "Language-Team: French <http://35.182.138.61/projects/test-project/"
 "component-1/fr/>\n"
 "Language: fr\n"
@@ -23,6 +23,7 @@ msgid "Arrival Advisor"
 msgstr "Conseiller à l'arrivée"
 
 #: /Users/tomyreyes/desktop/weblate/main.py:6
+#, fuzzy
 msgid "Government of British Columbia"
 msgstr "Gouvernement de la Colombie Britannique"
 
