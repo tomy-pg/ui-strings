@@ -3,206 +3,208 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-28 20:07+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-05-28 20:07+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Chinese (Traditional) <https://35.182.138.61/projects/"
+"test-project/questionnaire/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.5.1\n"
 
 msgid "How long have you been living in Canada?"
-msgstr ""
+msgstr "您已經在加拿大居住多久？"
 
 msgid "Do you have any of the following important Canadian documents?"
-msgstr ""
+msgstr "您有以下重要的加拿大在地文件嗎？"
 
 msgid "Are you arriving with children under 18 years? If yes, how old?"
-msgstr ""
+msgstr "您有18 歲以下同行的孩童嗎？ 如果有，幾歲？"
 
 msgid "What is your current housing situation?"
-msgstr ""
+msgstr "您目前的居住情況？"
 
 msgid "What is your current level of English?"
-msgstr ""
+msgstr "您目前的居住情況？"
 
 msgid "What is your status in Canada?"
-msgstr ""
+msgstr "您目前在加拿大的簽證身份？"
 
 msgid "What is your current work situation?"
-msgstr ""
+msgstr "您目前的工作情況？"
 
 msgid "What kinds of health care are you looking for?"
-msgstr ""
+msgstr "您需要哪些醫療護理的服務？"
 
 msgid "Do you need financial assistance or low-income support?"
-msgstr ""
+msgstr "您有經濟協助或低收入戶服務的需求嗎？"
 
 msgid "Anything else you're interested in? Select all that apply"
-msgstr ""
+msgstr "您對於以下其他項目有興趣嗎？ 可複選"
 
 msgid "More than 1 year"
-msgstr ""
+msgstr "一年以上"
 
 msgid "Less than 1 year"
-msgstr ""
+msgstr "未滿一年"
 
 msgid "I am planning to move to Canada"
-msgstr ""
+msgstr "我計畫移民加拿大"
 
 msgid "I have a Social Insurance Number"
-msgstr ""
+msgstr "我有社會保險號碼（SIN）"
 
 msgid "I have a Canadian bank account"
-msgstr ""
+msgstr "我有加拿大銀行戶頭"
 
 msgid "I have a Permanent Resident Card"
-msgstr ""
+msgstr "我持有永久居民卡（PR）"
 
 msgid "I have registered for MSP (Medical Services Plan)"
-msgstr ""
+msgstr "我已註冊加拿大醫療保險計劃 (MSP)"
 
 msgid "I have a BC Services Card (health card)"
-msgstr ""
+msgstr "我有 BC 省服務卡 (Health Card)"
 
 msgid "I have a BC Driver's Licence"
-msgstr ""
+msgstr "我有 BC 省駕駛執照"
 
 msgid "Under 5 years old"
-msgstr ""
+msgstr "未滿五歲"
 
 msgid "5-12 years old"
-msgstr ""
+msgstr "5 - 12歲"
 
 msgid "13-18 years old"
-msgstr ""
+msgstr "13 - 18歲"
 
 msgid "Pregnant (the child is not yet born)"
-msgstr ""
+msgstr "懷有身孕"
 
 msgid "No children"
-msgstr ""
+msgstr "沒有小孩"
 
 msgid "I want to rent a place to live"
-msgstr ""
+msgstr "我想租房"
 
 msgid "I want to buy a home"
-msgstr ""
+msgstr "我想買房"
 
 msgid "I am already renting a home"
-msgstr ""
+msgstr "我已租房"
 
 msgid "I already own a home"
-msgstr ""
+msgstr "我已買房"
 
 msgid "None"
-msgstr ""
+msgstr "無"
 
 msgid "Beginner (Canadian Language Benchmarks 1-4)"
-msgstr ""
+msgstr "初學者（加拿大語言等級標準1-4）"
 
 msgid "Intermediate (Canadian Language Benchmarks 5-8)"
-msgstr ""
+msgstr "中級（加拿大語言等級標準5-8）"
 
 msgid "Fluent (Canadian Language Benchmarks 9-12)"
-msgstr ""
+msgstr "流利（加拿大語言等級標準 9-12）"
 
 msgid "Permanent resident"
-msgstr ""
+msgstr "永久居民"
 
 msgid "Permanent Resident - Refugee Class or Protected Person"
-msgstr ""
+msgstr "永久居民 - 難民與須受保護人士"
 
 msgid "Refugee claimant"
-msgstr ""
+msgstr "難民申請者"
 
 msgid "Temporary Foreign Worker"
-msgstr ""
+msgstr "臨時外籍工作者"
 
 msgid "Student visa"
-msgstr ""
+msgstr "學生簽證"
 
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 msgid "I am looking for work"
-msgstr ""
+msgstr "我在找工作"
 
 msgid "I want to learn about my rights at work"
-msgstr ""
+msgstr "我想了解我工作的權利"
 
 msgid "I have my own business or want to start my own business"
-msgstr ""
+msgstr "我有自己的公司，或者有計劃創業"
 
 msgid "General health care and learning about health care costs"
-msgstr ""
+msgstr "了解關於一般醫療保健的項目與其費用"
 
 msgid "I need urgent medical attention (for emergencies, call 9-1-1)"
-msgstr ""
+msgstr "我需要緊急的醫療照顧 （緊急事故請撥打9-1-1）"
 
 msgid "Prescription medication"
-msgstr ""
+msgstr "處方藥物"
 
 msgid "Mental health support"
-msgstr ""
+msgstr "心理健康輔助"
 
 msgid "Eye doctors"
-msgstr ""
+msgstr "眼科醫生"
 
 msgid "Dentists"
-msgstr ""
+msgstr "牙醫"
 
 msgid "Support for disabilities"
-msgstr ""
+msgstr "殘障人士支援服務"
 
 msgid "Help finding information about services"
-msgstr ""
+msgstr "幫助查尋有關服務的訊息"
 
 msgid "Help managing stress"
-msgstr ""
+msgstr "幫助管理情緒壓力"
 
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 msgid "No"
-msgstr ""
+msgstr "否"
 
 msgid "I have low income support"
-msgstr ""
+msgstr "我有得到低收入的支助。"
 
 msgid "Adult education and training"
-msgstr ""
+msgstr "成人教育與訓練"
 
 msgid "Becoming a Canadian citizen"
-msgstr ""
+msgstr "成為加拿大公民"
 
 msgid "Legal help"
-msgstr ""
+msgstr "法律援助"
 
 msgid "Banking and financial management"
-msgstr ""
+msgstr "資金與財務管理"
 
 msgid "Taxes"
-msgstr ""
+msgstr "稅務"
 
 msgid "LGBTQ2 services"
-msgstr ""
+msgstr "多元性別族群服務"
 
 msgid "Francophone services"
-msgstr ""
+msgstr "法語服務"
 
 msgid "Support for seniors (age 65+)"
-msgstr ""
+msgstr "年長者的支援服務 (65 歲以上)"
 
 msgid "Driving in BC"
-msgstr ""
+msgstr "在BC省開車"
 
 msgid "Public transportation"
-msgstr ""
+msgstr "大眾運輸工具"
 
 msgid "Help with abuse and violence"
-msgstr ""
+msgstr "家暴與受虐者援助"
 
 msgid "Community services and organizations"
-msgstr ""
+msgstr "社區服務和組織"
