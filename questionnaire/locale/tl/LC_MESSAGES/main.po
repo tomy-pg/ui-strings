@@ -3,206 +3,217 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-28 20:05+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-05-28 20:06+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Tagalog <https://35.182.138.61/projects/test-project/"
+"questionnaire/tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1 && n != 2 && n != 3 && (n % 10 == 4 "
+"|| n % 10 == 6 || n % 10 == 9);\n"
+"X-Generator: Weblate 3.5.1\n"
 
 msgid "How long have you been living in Canada?"
-msgstr ""
+msgstr "Gaano ka na katagal naninirahan sa Canada?"
 
 msgid "Do you have any of the following important Canadian documents?"
 msgstr ""
+"Mayroon ka bang alinman sa sumusunod na mahahalagang dokumentong Pang-"
+"Canadian?"
 
 msgid "Are you arriving with children under 18 years? If yes, how old?"
 msgstr ""
+"Dumating ka ba kasama ang mga anak na wala pang 18 taong gulang? Kung oo, "
+"ilang taon?"
 
 msgid "What is your current housing situation?"
-msgstr ""
+msgstr "Ano ang kasalukuyan mong sitwasyon sa pabahay?"
 
 msgid "What is your current level of English?"
-msgstr ""
+msgstr "Ano ang kasalukuyan mong antas sa English?"
 
 msgid "What is your status in Canada?"
-msgstr ""
+msgstr "Ano ang katayuan mo sa Canada?"
 
 msgid "What is your current work situation?"
-msgstr ""
+msgstr "Ano ang kasalukuyan mong kalagayan sa trabaho?"
 
 msgid "What kinds of health care are you looking for?"
-msgstr ""
+msgstr "Anong mga uri ng pangangalang pangkalusugan ang hinahanap mo?"
 
 msgid "Do you need financial assistance or low-income support?"
-msgstr ""
+msgstr "Kailangan mo ba ng pinansiyal na tulong o suporta sa mababang kita?"
 
 msgid "Anything else you're interested in? Select all that apply"
-msgstr ""
+msgstr "Kailangan mo ba ng pinansiyal na tulong o suporta sa mababang kita?"
 
 msgid "More than 1 year"
-msgstr ""
+msgstr "Mahigit 1 taon"
 
 msgid "Less than 1 year"
-msgstr ""
+msgstr "Kulang 1 taon"
 
 msgid "I am planning to move to Canada"
-msgstr ""
+msgstr "Binabalak kong lumipat sa Canada"
 
 msgid "I have a Social Insurance Number"
-msgstr ""
+msgstr "May Social Insurance Number ako"
 
 msgid "I have a Canadian bank account"
-msgstr ""
+msgstr "May Canadian bank account ako"
 
 msgid "I have a Permanent Resident Card"
-msgstr ""
+msgstr "May Permanent Resident card ako"
 
 msgid "I have registered for MSP (Medical Services Plan)"
-msgstr ""
+msgstr "Nagparehistro ako sa MSP (Medical Services Plan)"
 
 msgid "I have a BC Services Card (health card)"
-msgstr ""
+msgstr "May BC Services Card (health card) ako"
 
 msgid "I have a BC Driver's Licence"
-msgstr ""
+msgstr "May Lisensya ako sa Pagmamaneho sa BC"
 
 msgid "Under 5 years old"
-msgstr ""
+msgstr "May Lisensya ako sa Pagmamaneho sa BC"
 
 msgid "5-12 years old"
-msgstr ""
+msgstr "5-12 taong gulang"
 
 msgid "13-18 years old"
-msgstr ""
+msgstr "13-18 taong gulang"
 
 msgid "Pregnant (the child is not yet born)"
-msgstr ""
+msgstr "Buntis (hindi pa naisisilang)"
 
 msgid "No children"
-msgstr ""
+msgstr "Walang mga anak"
 
 msgid "I want to rent a place to live"
-msgstr ""
+msgstr "Nais kong magrenta ng lugar na titirhan"
 
 msgid "I want to buy a home"
-msgstr ""
+msgstr "Nais kong bumili ng bahay"
 
 msgid "I am already renting a home"
-msgstr ""
+msgstr "Nagrerenta na ako ng bahay"
 
 msgid "I already own a home"
-msgstr ""
+msgstr "May sarili na akong bahay"
 
 msgid "None"
-msgstr ""
+msgstr "Wala"
 
 msgid "Beginner (Canadian Language Benchmarks 1-4)"
-msgstr ""
+msgstr "Baguhan (Canadian Language Benchmarks 1-4)"
 
 msgid "Intermediate (Canadian Language Benchmarks 5-8)"
-msgstr ""
+msgstr "Katamtaman (Canadian Language Benchmarks 5-8)"
 
 msgid "Fluent (Canadian Language Benchmarks 9-12)"
-msgstr ""
+msgstr "Matatas (Canadian Language Benchmarks 9-12)"
 
 msgid "Permanent resident"
-msgstr ""
+msgstr "Permanenteng Residente"
 
 msgid "Permanent Resident - Refugee Class or Protected Person"
-msgstr ""
+msgstr "Permanenteng Residente - Uring Takas o Pinoprotektahang Tao"
 
 msgid "Refugee claimant"
-msgstr ""
+msgstr "Naghahabol na Takas"
 
 msgid "Temporary Foreign Worker"
-msgstr ""
+msgstr "Pansamantalang Banyagang Manggagawa"
 
 msgid "Student visa"
-msgstr ""
+msgstr "Student visa"
 
 msgid "Other"
-msgstr ""
+msgstr "Iba pa"
 
 msgid "I am looking for work"
-msgstr ""
+msgstr "Naghahanap ako ng trabaho"
 
 msgid "I want to learn about my rights at work"
-msgstr ""
+msgstr "Gusto kong malaman ang mga karapatan ko sa trabaho"
 
 msgid "I have my own business or want to start my own business"
-msgstr ""
+msgstr "May sarili akong negosyo o nais kong magsimula ng sariling negosyo"
 
 msgid "General health care and learning about health care costs"
 msgstr ""
+"Pangkalahatang pangangalaga sa kalusugan at pag-alam tungkol sa halaga ng "
+"pangangalagang pangkalusugan"
 
 msgid "I need urgent medical attention (for emergencies, call 9-1-1)"
 msgstr ""
+"Kailangan ko ng agarang medikal na atensyon (para sa mga emergency, tumawag "
+"sa 9-1-1)"
 
 msgid "Prescription medication"
-msgstr ""
+msgstr "Resita ng gamot"
 
 msgid "Mental health support"
-msgstr ""
+msgstr "Tulong sa kalusugang pangkaisipan"
 
 msgid "Eye doctors"
-msgstr ""
+msgstr "Mga doktor sa mata"
 
 msgid "Dentists"
-msgstr ""
+msgstr "Mga dentista"
 
 msgid "Support for disabilities"
-msgstr ""
+msgstr "Suporta sa mga kapansanan"
 
 msgid "Help finding information about services"
-msgstr ""
+msgstr "Tumulong sa paghahanap ng impormasyon tungkol sa mga serbisyo"
 
 msgid "Help managing stress"
-msgstr ""
+msgstr "Tumulong na pangasiwaan ang stress"
 
 msgid "Yes"
-msgstr ""
+msgstr "Oo"
 
 msgid "No"
-msgstr ""
+msgstr "Hindi"
 
 msgid "I have low income support"
-msgstr ""
+msgstr "May suporta ako sa mababang kita"
 
 msgid "Adult education and training"
-msgstr ""
+msgstr "Edukasyon ng adulto at pagsasanay"
 
 msgid "Becoming a Canadian citizen"
-msgstr ""
+msgstr "Pagiging mamamayan ng Canada"
 
 msgid "Legal help"
-msgstr ""
+msgstr "Legal na tulong"
 
 msgid "Banking and financial management"
-msgstr ""
+msgstr "Pangangasiwa sa Pagbabangko at pananalapi"
 
 msgid "Taxes"
-msgstr ""
+msgstr "Mga buwis"
 
 msgid "LGBTQ2 services"
-msgstr ""
+msgstr "Mga serbisyo ng LGBTQ2"
 
 msgid "Francophone services"
-msgstr ""
+msgstr "Mga serbisyo ng Francophone"
 
 msgid "Support for seniors (age 65+)"
-msgstr ""
+msgstr "Tulong para sa mga senyor (edad 65+)"
 
 msgid "Driving in BC"
-msgstr ""
+msgstr "Pagmamaneho sa BC"
 
 msgid "Public transportation"
-msgstr ""
+msgstr "Pampublikong transportasyon"
 
 msgid "Help with abuse and violence"
-msgstr ""
+msgstr "Pagtulong sa pang-aabuso at karahasan"
 
 msgid "Community services and organizations"
-msgstr ""
+msgstr "Mga serbisyo ng komunidad at mga organisasyon"
