@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-28 19:52+0000\n"
+"PO-Revision-Date: 2019-05-28 19:52+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: French <https://35.182.138.61/projects/test-project/"
+"questionnaire/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.5.1\n"
+
 msgid "How long have you been living in Canada?"
 msgstr "Depuis combien de temps habitez-vous au Canada?"
 
@@ -26,7 +42,9 @@ msgid "Do you need financial assistance or low-income support?"
 msgstr "Avez-vous besoin d’aide financière ou de soutien pour gens à faible revenu?"
 
 msgid "Anything else you're interested in? Select all that apply"
-msgstr "Y a-t-il d’autres sujets qui vous intéressent? Sélectionnez toutes les réponses appropriées."
+msgstr ""
+"Y a-t-il d’autres sujets qui vous intéressent? Sélectionnez toutes les "
+"réponses appropriées"
 
 msgid "More than 1 year"
 msgstr "Plus d’un an"
@@ -53,7 +71,7 @@ msgid "I have a BC Services Card (health card)"
 msgstr "J’ai une carte BC Services (carte santé)"
 
 msgid "I have a BC Driver's Licence"
-msgstr "J’ai un permis de conduire de la C.-B."
+msgstr "J’ai un permis de conduire de la C.-B"
 
 msgid "Under 5 years old"
 msgstr "Moins de 5 ans"
@@ -155,7 +173,7 @@ msgid "No"
 msgstr "Non"
 
 msgid "I have low income support"
-msgstr "J’ai droit à du soutien pour gens à faible revenu."
+msgstr "J’ai droit à du soutien pour gens à faible revenu"
 
 msgid "Adult education and training"
 msgstr "Éducation et formation des adultes"
@@ -192,4 +210,3 @@ msgstr "Aide dans le cas de mauvais traitements et de violence"
 
 msgid "Community services and organizations"
 msgstr "Services et organisations communautaires"
-
