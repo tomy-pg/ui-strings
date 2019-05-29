@@ -46,6 +46,7 @@ msgstr ""
 "Y a-t-il d’autres sujets qui vous intéressent? Sélectionnez toutes les "
 "réponses appropriées"
 
+msgctxt "questionDurationInCanada"
 msgid "More than 1 year"
 msgstr "Plus d’un an"
 
