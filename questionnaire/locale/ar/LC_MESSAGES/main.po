@@ -1,49 +1,5 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 19:58+0000\n"
-"PO-Revision-Date: 2019-05-28 20:00+0000\n"
-"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
-"Language-Team: Arabic <https://35.182.138.61/projects/test-project/"
-"questionnaire/ar/>\n"
-"Language: ar\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.5.1\n"
-
 msgid "How long have you been living in Canada?"
 msgstr "كم مضى عليك من الوقت مقيما في كندا؟"
-
-msgid "Do you have any of the following important Canadian documents?"
-msgstr "هل لديك أي من الوثائق الكندية الهامة التالية؟"
-
-msgid "Are you arriving with children under 18 years? If yes, how old?"
-msgstr "هل وصلت معك أطفال أقل من 18 سنة؟ لو كانت الإجابة نعم، كم عمرهم؟"
-
-msgid "What is your current housing situation?"
-msgstr "ما هو موقفك الحالي من السكن؟"
-
-msgid "What is your current level of English?"
-msgstr "ما هو مستوى إجادتك الحالي للغة الإنكليزية؟"
-
-msgid "What is your status in Canada?"
-msgstr "ما هو وضعك في كندا؟"
-
-msgid "What is your current work situation?"
-msgstr "ما هو وضعك الحالي من ناحية العمل؟"
-
-msgid "What kinds of health care are you looking for?"
-msgstr "ما هي أنواع الرعاية الصحية التي تبحث عنها؟"
-
-msgid "Do you need financial assistance or low-income support?"
-msgstr "هل تريد مساعدة مالية أو دعم موجه لأصحاب الدخل المتدني؟"
-
-msgid "Anything else you're interested in? Select all that apply"
-msgstr "هل يوجد شيء آخر يهمك؟ اختر كل ما ينطبق"
 
 msgid "More than 1 year"
 msgstr "أكثر من سنة واحدة"
@@ -53,6 +9,9 @@ msgstr "أقل من سنة واحدة"
 
 msgid "I am planning to move to Canada"
 msgstr "أعتزم الانتقال إلى كندا"
+
+msgid "Do you have any of the following important Canadian documents?"
+msgstr "هل لديك أي من الوثائق الكندية الهامة التالية؟"
 
 msgid "I have a Social Insurance Number"
 msgstr "لدي رقم ضمان اجتماعي"
@@ -72,6 +31,9 @@ msgstr "لدي بطاقة خدمات بريتيش كولومبيا (البطاق
 msgid "I have a BC Driver's Licence"
 msgstr "لدي رخصة قيادة خاصة ببريتيش كولومبيا"
 
+msgid "Are you arriving with children under 18 years? If yes, how old?"
+msgstr "هل وصلت معك أطفال أقل من 18 سنة؟ لو كانت الإجابة نعم، كم عمرهم؟"
+
 msgid "Under 5 years old"
 msgstr "أقل من 5 سنوات"
 
@@ -87,6 +49,9 @@ msgstr "حبلى (لم يولد بعد)"
 msgid "No children"
 msgstr "لا يوجد أطفال"
 
+msgid "What is your current housing situation?"
+msgstr "ما هو موقفك الحالي من السكن؟"
+
 msgid "I want to rent a place to live"
 msgstr "أرغب في تأجير مسكن"
 
@@ -99,6 +64,9 @@ msgstr "لقد استأجرت مسكن بالفعل"
 msgid "I already own a home"
 msgstr "أملك منزل بالفعل"
 
+msgid "What is your current level of English?"
+msgstr "ما هو مستوى إجادتك الحالي للغة الإنكليزية؟"
+
 msgid "None"
 msgstr "لا شيء"
 
@@ -110,6 +78,9 @@ msgstr "متوسط (بين 5 و8 على المعيار الكندي للغة)"
 
 msgid "Fluent (Canadian Language Benchmarks 9-12)"
 msgstr "فصيح (بين 9 و12 على المعيار الكندي للغة)"
+
+msgid "What is your status in Canada?"
+msgstr "ما هو وضعك في كندا؟"
 
 msgid "Permanent resident"
 msgstr "مقيم دائم"
@@ -129,6 +100,9 @@ msgstr "تأشيرة طالب"
 msgid "Other"
 msgstr "أخرى"
 
+msgid "What is your current work situation?"
+msgstr "ما هو وضعك الحالي من ناحية العمل؟"
+
 msgid "I am looking for work"
 msgstr "أبحث عن عمل"
 
@@ -137,6 +111,9 @@ msgstr "أرغب في التعرف على المزيد عن حقوقي في مك
 
 msgid "I have my own business or want to start my own business"
 msgstr "أملك نشاطي التجاري الخاص أو أرغب في تأسيس نشاطي التجاري"
+
+msgid "What kinds of health care are you looking for?"
+msgstr "ما هي أنواع الرعاية الصحية التي تبحث عنها؟"
 
 msgid "General health care and learning about health care costs"
 msgstr "رعاية صحية عامة والتعرف على تكلفة الرعاية الصحية"
@@ -159,11 +136,8 @@ msgstr "طبيب أسنان"
 msgid "Support for disabilities"
 msgstr "مساعدة موجهة لأصحاب الاحتياجات الخاصة"
 
-msgid "Help finding information about services"
-msgstr "أبحث عن المساعدة في إيجاد معلومات عن الخدمات"
-
-msgid "Help managing stress"
-msgstr "أبحث عن المساعدة في التعامل مع الإجهاد"
+msgid "Do you need financial assistance or low-income support?"
+msgstr "هل تريد مساعدة مالية أو دعم موجه لأصحاب الدخل المتدني؟"
 
 msgid "Yes"
 msgstr "نعم"
@@ -173,6 +147,9 @@ msgstr "لا"
 
 msgid "I have low income support"
 msgstr "أحصل على دعم موجه لأصحاب الدخل المحدود"
+
+msgid "Anything else you're interested in? Select all that apply"
+msgstr "هل يوجد شيء آخر يهمك؟ اختر كل ما ينطبق"
 
 msgid "Adult education and training"
 msgstr "تعليم الكبار وتدريبهم"
@@ -209,3 +186,4 @@ msgstr "مساعدة متعلقة بالعنف والإساءة"
 
 msgid "Community services and organizations"
 msgstr "خدمات المجتمع ومنظمات المجتمع المدني"
+
