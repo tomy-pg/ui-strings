@@ -1,33 +1,6 @@
 msgid "How long have you been living in Canada?"
 msgstr ""
 
-msgid "Do you have any of the following important Canadian documents?"
-msgstr ""
-
-msgid "Are you arriving with children under 18 years? If yes, how old?"
-msgstr ""
-
-msgid "What is your current housing situation?"
-msgstr ""
-
-msgid "What is your current level of English?"
-msgstr ""
-
-msgid "What is your status in Canada?"
-msgstr ""
-
-msgid "What is your current work situation?"
-msgstr ""
-
-msgid "What kinds of health care are you looking for?"
-msgstr ""
-
-msgid "Do you need financial assistance or low-income support?"
-msgstr ""
-
-msgid "Anything else you're interested in? Select all that apply"
-msgstr ""
-
 msgid "More than 1 year"
 msgstr ""
 
@@ -35,6 +8,9 @@ msgid "Less than 1 year"
 msgstr ""
 
 msgid "I am planning to move to Canada"
+msgstr ""
+
+msgid "Do you have any of the following important Canadian documents?"
 msgstr ""
 
 msgid "I have a Social Insurance Number"
@@ -55,6 +31,9 @@ msgstr ""
 msgid "I have a BC Driver's Licence"
 msgstr ""
 
+msgid "Are you arriving with children under 18 years? If yes, how old?"
+msgstr ""
+
 msgid "Under 5 years old"
 msgstr ""
 
@@ -70,6 +49,9 @@ msgstr ""
 msgid "No children"
 msgstr ""
 
+msgid "What is your current housing situation?"
+msgstr ""
+
 msgid "I want to rent a place to live"
 msgstr ""
 
@@ -82,6 +64,9 @@ msgstr ""
 msgid "I already own a home"
 msgstr ""
 
+msgid "What is your current level of English?"
+msgstr ""
+
 msgid "None"
 msgstr ""
 
@@ -92,6 +77,9 @@ msgid "Intermediate (Canadian Language Benchmarks 5-8)"
 msgstr ""
 
 msgid "Fluent (Canadian Language Benchmarks 9-12)"
+msgstr ""
+
+msgid "What is your status in Canada?"
 msgstr ""
 
 msgid "Permanent resident"
@@ -112,6 +100,9 @@ msgstr ""
 msgid "Other"
 msgstr ""
 
+msgid "What is your current work situation?"
+msgstr ""
+
 msgid "I am looking for work"
 msgstr ""
 
@@ -119,6 +110,9 @@ msgid "I want to learn about my rights at work"
 msgstr ""
 
 msgid "I have my own business or want to start my own business"
+msgstr ""
+
+msgid "What kinds of health care are you looking for?"
 msgstr ""
 
 msgid "General health care and learning about health care costs"
@@ -142,10 +136,7 @@ msgstr ""
 msgid "Support for disabilities"
 msgstr ""
 
-msgid "Help finding information about services"
-msgstr ""
-
-msgid "Help managing stress"
+msgid "Do you need financial assistance or low-income support?"
 msgstr ""
 
 msgid "Yes"
@@ -155,6 +146,9 @@ msgid "No"
 msgstr ""
 
 msgid "I have low income support"
+msgstr ""
+
+msgid "Anything else you're interested in? Select all that apply"
 msgstr ""
 
 msgid "Adult education and training"

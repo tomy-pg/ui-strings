@@ -1,53 +1,5 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 20:05+0000\n"
-"PO-Revision-Date: 2019-05-28 20:06+0000\n"
-"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
-"Language-Team: Tagalog <https://35.182.138.61/projects/test-project/"
-"questionnaire/tl/>\n"
-"Language: tl\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1 && n != 2 && n != 3 && (n % 10 == 4 "
-"|| n % 10 == 6 || n % 10 == 9);\n"
-"X-Generator: Weblate 3.5.1\n"
-
 msgid "How long have you been living in Canada?"
 msgstr "Gaano ka na katagal naninirahan sa Canada?"
-
-msgid "Do you have any of the following important Canadian documents?"
-msgstr ""
-"Mayroon ka bang alinman sa sumusunod na mahahalagang dokumentong Pang-"
-"Canadian?"
-
-msgid "Are you arriving with children under 18 years? If yes, how old?"
-msgstr ""
-"Dumating ka ba kasama ang mga anak na wala pang 18 taong gulang? Kung oo, "
-"ilang taon?"
-
-msgid "What is your current housing situation?"
-msgstr "Ano ang kasalukuyan mong sitwasyon sa pabahay?"
-
-msgid "What is your current level of English?"
-msgstr "Ano ang kasalukuyan mong antas sa English?"
-
-msgid "What is your status in Canada?"
-msgstr "Ano ang katayuan mo sa Canada?"
-
-msgid "What is your current work situation?"
-msgstr "Ano ang kasalukuyan mong kalagayan sa trabaho?"
-
-msgid "What kinds of health care are you looking for?"
-msgstr "Anong mga uri ng pangangalang pangkalusugan ang hinahanap mo?"
-
-msgid "Do you need financial assistance or low-income support?"
-msgstr "Kailangan mo ba ng pinansiyal na tulong o suporta sa mababang kita?"
-
-msgid "Anything else you're interested in? Select all that apply"
-msgstr "Kailangan mo ba ng pinansiyal na tulong o suporta sa mababang kita?"
 
 msgid "More than 1 year"
 msgstr "Mahigit 1 taon"
@@ -57,6 +9,9 @@ msgstr "Kulang 1 taon"
 
 msgid "I am planning to move to Canada"
 msgstr "Binabalak kong lumipat sa Canada"
+
+msgid "Do you have any of the following important Canadian documents?"
+msgstr "Mayroon ka bang alinman sa sumusunod na mahahalagang dokumentong Pang-Canadian?"
 
 msgid "I have a Social Insurance Number"
 msgstr "May Social Insurance Number ako"
@@ -76,6 +31,9 @@ msgstr "May BC Services Card (health card) ako"
 msgid "I have a BC Driver's Licence"
 msgstr "May Lisensya ako sa Pagmamaneho sa BC"
 
+msgid "Are you arriving with children under 18 years? If yes, how old?"
+msgstr "Dumating ka ba kasama ang mga anak na wala pang 18 taong gulang? Kung oo, ilang taon?"
+
 msgid "Under 5 years old"
 msgstr "May Lisensya ako sa Pagmamaneho sa BC"
 
@@ -91,6 +49,9 @@ msgstr "Buntis (hindi pa naisisilang)"
 msgid "No children"
 msgstr "Walang mga anak"
 
+msgid "What is your current housing situation?"
+msgstr "Ano ang kasalukuyan mong sitwasyon sa pabahay?"
+
 msgid "I want to rent a place to live"
 msgstr "Nais kong magrenta ng lugar na titirhan"
 
@@ -103,6 +64,9 @@ msgstr "Nagrerenta na ako ng bahay"
 msgid "I already own a home"
 msgstr "May sarili na akong bahay"
 
+msgid "What is your current level of English?"
+msgstr "Ano ang kasalukuyan mong antas sa English?"
+
 msgid "None"
 msgstr "Wala"
 
@@ -114,6 +78,9 @@ msgstr "Katamtaman (Canadian Language Benchmarks 5-8)"
 
 msgid "Fluent (Canadian Language Benchmarks 9-12)"
 msgstr "Matatas (Canadian Language Benchmarks 9-12)"
+
+msgid "What is your status in Canada?"
+msgstr "Ano ang katayuan mo sa Canada?"
 
 msgid "Permanent resident"
 msgstr "Permanenteng Residente"
@@ -133,6 +100,9 @@ msgstr "Student visa"
 msgid "Other"
 msgstr "Iba pa"
 
+msgid "What is your current work situation?"
+msgstr "Ano ang kasalukuyan mong kalagayan sa trabaho?"
+
 msgid "I am looking for work"
 msgstr "Naghahanap ako ng trabaho"
 
@@ -142,15 +112,14 @@ msgstr "Gusto kong malaman ang mga karapatan ko sa trabaho"
 msgid "I have my own business or want to start my own business"
 msgstr "May sarili akong negosyo o nais kong magsimula ng sariling negosyo"
 
+msgid "What kinds of health care are you looking for?"
+msgstr "Anong mga uri ng pangangalang pangkalusugan ang hinahanap mo?"
+
 msgid "General health care and learning about health care costs"
-msgstr ""
-"Pangkalahatang pangangalaga sa kalusugan at pag-alam tungkol sa halaga ng "
-"pangangalagang pangkalusugan"
+msgstr "Pangkalahatang pangangalaga sa kalusugan at pag-alam tungkol sa halaga ng pangangalagang pangkalusugan"
 
 msgid "I need urgent medical attention (for emergencies, call 9-1-1)"
-msgstr ""
-"Kailangan ko ng agarang medikal na atensyon (para sa mga emergency, tumawag "
-"sa 9-1-1)"
+msgstr "Kailangan ko ng agarang medikal na atensyon (para sa mga emergency, tumawag sa 9-1-1)"
 
 msgid "Prescription medication"
 msgstr "Resita ng gamot"
@@ -167,11 +136,8 @@ msgstr "Mga dentista"
 msgid "Support for disabilities"
 msgstr "Suporta sa mga kapansanan"
 
-msgid "Help finding information about services"
-msgstr "Tumulong sa paghahanap ng impormasyon tungkol sa mga serbisyo"
-
-msgid "Help managing stress"
-msgstr "Tumulong na pangasiwaan ang stress"
+msgid "Do you need financial assistance or low-income support?"
+msgstr "Kailangan mo ba ng pinansiyal na tulong o suporta sa mababang kita?"
 
 msgid "Yes"
 msgstr "Oo"
@@ -181,6 +147,9 @@ msgstr "Hindi"
 
 msgid "I have low income support"
 msgstr "May suporta ako sa mababang kita"
+
+msgid "Anything else you're interested in? Select all that apply"
+msgstr "Kailangan mo ba ng pinansiyal na tulong o suporta sa mababang kita?"
 
 msgid "Adult education and training"
 msgstr "Edukasyon ng adulto at pagsasanay"
@@ -217,3 +186,4 @@ msgstr "Pagtulong sa pang-aabuso at karahasan"
 
 msgid "Community services and organizations"
 msgstr "Mga serbisyo ng komunidad at mga organisasyon"
+

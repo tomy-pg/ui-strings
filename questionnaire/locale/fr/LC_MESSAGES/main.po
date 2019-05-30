@@ -1,50 +1,5 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 19:52+0000\n"
-"PO-Revision-Date: 2019-05-28 19:52+0000\n"
-"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
-"Language-Team: French <https://35.182.138.61/projects/test-project/"
-"questionnaire/fr/>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.5.1\n"
-
 msgid "How long have you been living in Canada?"
 msgstr "Depuis combien de temps habitez-vous au Canada?"
-
-msgid "Do you have any of the following important Canadian documents?"
-msgstr "Possédez-vous l’un ou l’autre de ces documents canadiens importants?"
-
-msgid "Are you arriving with children under 18 years? If yes, how old?"
-msgstr "Êtes-vous accompagné(e) d’enfants de moins de 18 ans? Si c’est le cas, quel âge ont-ils?"
-
-msgid "What is your current housing situation?"
-msgstr "Quelle est votre situation actuelle en matière de logement?"
-
-msgid "What is your current level of English?"
-msgstr "Quel est votre niveau d’anglais actuel?"
-
-msgid "What is your status in Canada?"
-msgstr "De quel statut bénéficiez-vous au Canada?"
-
-msgid "What is your current work situation?"
-msgstr "Quelle est votre situation actuelle en matière d’emploi?"
-
-msgid "What kinds of health care are you looking for?"
-msgstr "De quel type de soins de santé avez-vous besoin?"
-
-msgid "Do you need financial assistance or low-income support?"
-msgstr "Avez-vous besoin d’aide financière ou de soutien pour gens à faible revenu?"
-
-msgid "Anything else you're interested in? Select all that apply"
-msgstr ""
-"Y a-t-il d’autres sujets qui vous intéressent? Sélectionnez toutes les "
-"réponses appropriées"
 
 msgid "More than 1 year"
 msgstr "Plus d’un an"
@@ -54,6 +9,9 @@ msgstr "Moins d’un an"
 
 msgid "I am planning to move to Canada"
 msgstr "Je prévois d’emménager au Canada"
+
+msgid "Do you have any of the following important Canadian documents?"
+msgstr "Possédez-vous l’un ou l’autre de ces documents canadiens importants?"
 
 msgid "I have a Social Insurance Number"
 msgstr "J’ai un numéro d'assurance sociale"
@@ -71,7 +29,10 @@ msgid "I have a BC Services Card (health card)"
 msgstr "J’ai une carte BC Services (carte santé)"
 
 msgid "I have a BC Driver's Licence"
-msgstr "J’ai un permis de conduire de la C.-B"
+msgstr "J’ai un permis de conduire de la C.-B."
+
+msgid "Are you arriving with children under 18 years? If yes, how old?"
+msgstr "Êtes-vous accompagné(e) d’enfants de moins de 18 ans? Si c’est le cas, quel âge ont-ils?"
 
 msgid "Under 5 years old"
 msgstr "Moins de 5 ans"
@@ -88,6 +49,9 @@ msgstr "Enceinte (l’enfant n’est pas encore né)"
 msgid "No children"
 msgstr "Pas d'enfant"
 
+msgid "What is your current housing situation?"
+msgstr "Quelle est votre situation actuelle en matière de logement?"
+
 msgid "I want to rent a place to live"
 msgstr "Je veux louer un logement"
 
@@ -100,6 +64,9 @@ msgstr "Je loue déjà un logement"
 msgid "I already own a home"
 msgstr "Je possède déjà un logement"
 
+msgid "What is your current level of English?"
+msgstr "Quel est votre niveau d’anglais actuel?"
+
 msgid "None"
 msgstr "Je ne parle pas anglais"
 
@@ -111,6 +78,9 @@ msgstr "Niveau intermédiaire (niveaux de compétence linguistique canadiens 5 �
 
 msgid "Fluent (Canadian Language Benchmarks 9-12)"
 msgstr "Niveau avancé (niveaux de compétence linguistique canadiens 9 à 12)"
+
+msgid "What is your status in Canada?"
+msgstr "De quel statut bénéficiez-vous au Canada?"
 
 msgid "Permanent resident"
 msgstr "Résident(e) permanent(e)"
@@ -130,6 +100,9 @@ msgstr "Visa d’étudiant(e)"
 msgid "Other"
 msgstr "Autre"
 
+msgid "What is your current work situation?"
+msgstr "Quelle est votre situation actuelle en matière d’emploi?"
+
 msgid "I am looking for work"
 msgstr "Je cherche du travail"
 
@@ -138,6 +111,9 @@ msgstr "Je veux en apprendre davantage sur mes droits au travail"
 
 msgid "I have my own business or want to start my own business"
 msgstr "Je possède ma propre entreprise ou je veux démarrer ma propre entreprise"
+
+msgid "What kinds of health care are you looking for?"
+msgstr "De quel type de soins de santé avez-vous besoin?"
 
 msgid "General health care and learning about health care costs"
 msgstr "Soins de santé généraux. Renseignements quant aux coûts des soins de santé"
@@ -160,11 +136,8 @@ msgstr "Dentiste"
 msgid "Support for disabilities"
 msgstr "Soutien pour personnes handicapées"
 
-msgid "Help finding information about services"
-msgstr "Aide afin de trouver de l'information relative aux services"
-
-msgid "Help managing stress"
-msgstr "Aide afin de gérer le stress"
+msgid "Do you need financial assistance or low-income support?"
+msgstr "Avez-vous besoin d’aide financière ou de soutien pour gens à faible revenu?"
 
 msgid "Yes"
 msgstr "Oui"
@@ -173,7 +146,10 @@ msgid "No"
 msgstr "Non"
 
 msgid "I have low income support"
-msgstr "J’ai droit à du soutien pour gens à faible revenu"
+msgstr "J’ai droit à du soutien pour gens à faible revenu."
+
+msgid "Anything else you're interested in? Select all that apply"
+msgstr "Y a-t-il d’autres sujets qui vous intéressent? Sélectionnez toutes les réponses appropriées."
 
 msgid "Adult education and training"
 msgstr "Éducation et formation des adultes"
@@ -210,3 +186,4 @@ msgstr "Aide dans le cas de mauvais traitements et de violence"
 
 msgid "Community services and organizations"
 msgstr "Services et organisations communautaires"
+

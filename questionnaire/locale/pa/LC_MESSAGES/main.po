@@ -1,49 +1,5 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 20:08+0000\n"
-"PO-Revision-Date: 2019-05-28 20:09+0000\n"
-"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
-"Language-Team: Punjabi <https://35.182.138.61/projects/test-project/"
-"questionnaire/pa/>\n"
-"Language: pa\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.5.1\n"
-
 msgid "How long have you been living in Canada?"
 msgstr "ਤੁਸੀਂ ਕੈਨੇਡਾ ਵਿੱਚ ਕਦੋਂ ਤੋ ਰਹਿ ਰਹੇ ਹੋ?"
-
-msgid "Do you have any of the following important Canadian documents?"
-msgstr "ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਅੱਗੇ ਦਿੱਤਿਆਂ ਖਾਸ ਕੈਨੇਡੀਅਨ ਦਸਤਾਵੇਜਾਂ ਵਿੱਚੋਂ ਕੀ ਹੈ?"
-
-msgid "Are you arriving with children under 18 years? If yes, how old?"
-msgstr ""
-"ਕੀ ਤੁਸੀਂ 18 ਸਾਲ ਤੋਂ ਘੱਟ ਉਮਰ ਦੇ ਬੱਚਿਆਂ ਨਾਲ ਆਏ ਹੋ? ਜੇ ਹਾਂ ਤਾਂ ਕਿੰਨੀ ਉਮਰ ਹੈ?"
-
-msgid "What is your current housing situation?"
-msgstr "ਤੁਹਾਡੀ ਰਿਹਾਇਸ਼ ਦੀ ਸਥਿਤੀ ਕੀ ਹੈ?"
-
-msgid "What is your current level of English?"
-msgstr "ਤੁਹਾਡੀ ਅੰਗਰੇਜੀ ਦਾ ਪੱਧਰ ਕੀ ਹੈ?"
-
-msgid "What is your status in Canada?"
-msgstr "ਕੈਨੇਡਾ ਵਿੱਚ ਤੁਹਾਡੀ ਸਥਿਤੀ ਕੀ ਹੈ?"
-
-msgid "What is your current work situation?"
-msgstr "ਤੁਹਾਡੇ ਕੰਮ ਦੀ ਸਥਿਤੀ ਕੀ ਹੈ?"
-
-msgid "What kinds of health care are you looking for?"
-msgstr "ਤੁਸੀਂ ਕਿਸ ਕਿਸਮ ਦੀ ਹੈਲਥ ਕੇਅਰ ਲੱਭ ਰਹੇ ਹੋ?"
-
-msgid "Do you need financial assistance or low-income support?"
-msgstr "ਕੀ ਤੁਹਾਨੂੰ ਵਿੱਤੀ ਸਹਾਇਤਾ ਜਾਂ ਘੱਟ-ਆਮਦਨ ਸਹਿਯੋਗ ਦੀ ਲੋੜ ਹੈ?"
-
-msgid "Anything else you're interested in? Select all that apply"
-msgstr "ਕਿਸੇ ਹੋਰ ਚੀਜ਼ ਵਿੱਚ ਤੁਹਾਡੀ ਦਿਲਚਸਪੀ ਹੈ? ਜੋ ਵੀ ਲਾਗੂ ਹੋਵੇ, ਸਭ ਚੁਣੋ"
 
 msgid "More than 1 year"
 msgstr "1 ਸਾਲ ਤੋਂ ਵੱਧ"
@@ -53,6 +9,9 @@ msgstr "1 ਸਾਲ ਤੋਂ ਘੱਟ"
 
 msgid "I am planning to move to Canada"
 msgstr "ਮੈਂ ਕੈਨੇਡਾ ਆਉਣ ਬਾਰੇ ਸੋਚ ਰਿਹਾ/ਰਹੀ ਹਾਂ"
+
+msgid "Do you have any of the following important Canadian documents?"
+msgstr "ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਅੱਗੇ ਦਿੱਤਿਆਂ ਖਾਸ ਕੈਨੇਡੀਅਨ ਦਸਤਾਵੇਜਾਂ ਵਿੱਚੋਂ ਕੀ ਹੈ?"
 
 msgid "I have a Social Insurance Number"
 msgstr "ਮੇਰੇ ਕੋਲ ਸ਼ੋਸ਼ਲ ਇੰਸ਼ੋਰੈਂਸ ਨੰਬਰ ਹੈ"
@@ -72,6 +31,9 @@ msgstr "ਮੇਰੇ ਕੋਲ ਬੀ.ਸੀ. ਸਰਵਿਸਜ਼ ਕਾਰਡ
 msgid "I have a BC Driver's Licence"
 msgstr "ਮੇਰੇ ਕੋਲ ਬੀ.ਸੀ. ਡਰਾਇਵਰਜ਼ ਲਾਇਸੈਂਸ ਹੈ"
 
+msgid "Are you arriving with children under 18 years? If yes, how old?"
+msgstr "ਕੀ ਤੁਸੀਂ 18 ਸਾਲ ਤੋਂ ਘੱਟ ਉਮਰ ਦੇ ਬੱਚਿਆਂ ਨਾਲ ਆਏ ਹੋ? ਜੇ ਹਾਂ ਤਾਂ ਕਿੰਨੀ ਉਮਰ ਹੈ?"
+
 msgid "Under 5 years old"
 msgstr "5 ਸਾਲ ਤੋਂ ਘੱਟ ਉਮਰ"
 
@@ -87,6 +49,9 @@ msgstr "ਗਰਭਵਰਤੀ (ਹਾਲੇ ਪੈਦਾ ਨਹੀਂ ਹੋਇ�
 msgid "No children"
 msgstr "ਕੋਈ ਬੱਚਾ ਨਹੀਂ ਹੈ"
 
+msgid "What is your current housing situation?"
+msgstr "ਤੁਹਾਡੀ ਰਿਹਾਇਸ਼ ਦੀ ਸਥਿਤੀ ਕੀ ਹੈ?"
+
 msgid "I want to rent a place to live"
 msgstr "ਮੈਂ ਰਹਿਣ ਲਈ ਕਿਰਾਏ ਦੀ ਥਾਂ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ"
 
@@ -99,6 +64,9 @@ msgstr "ਮੈਂ ਪਹਿਲਾਂ ਹੀ ਘਰ ਕਿਰਾਏ ਉੱਤੇ 
 msgid "I already own a home"
 msgstr "ਮੈਂ ਪਹਿਲਾਂ ਹੀ ਘਰ ਖਰੀਦ ਲਿਆ ਹੈ"
 
+msgid "What is your current level of English?"
+msgstr "ਤੁਹਾਡੀ ਅੰਗਰੇਜੀ ਦਾ ਪੱਧਰ ਕੀ ਹੈ?"
+
 msgid "None"
 msgstr "ਕੋਈ ਨਹੀਂ"
 
@@ -110,6 +78,9 @@ msgstr "ਇੰਟਰਮਿਡੀਏਟ (ਕੈਨੇਡੀਅਨ ਲੈਂਗੂ
 
 msgid "Fluent (Canadian Language Benchmarks 9-12)"
 msgstr "ਫਲੁਏਂਟ (ਕੈਨੇਡੀਅਨ ਲੈਂਗਗੂਏਜ ਬੈਂਚਮਾਰਕਸ 9-12)"
+
+msgid "What is your status in Canada?"
+msgstr "ਕੈਨੇਡਾ ਵਿੱਚ ਤੁਹਾਡੀ ਸਥਿਤੀ ਕੀ ਹੈ?"
 
 msgid "Permanent resident"
 msgstr "ਪੱਕੇ ਨਿਵਾਸੀ"
@@ -129,6 +100,9 @@ msgstr "ਸਟੂਡੈਂਟ ਵੀਜ਼ਾ"
 msgid "Other"
 msgstr "ਹੋਰ"
 
+msgid "What is your current work situation?"
+msgstr "ਤੁਹਾਡੇ ਕੰਮ ਦੀ ਸਥਿਤੀ ਕੀ ਹੈ?"
+
 msgid "I am looking for work"
 msgstr "ਮੈਂ ਕੰਮ ਲੱਭ ਰਿਹਾ/ਰਹੀ ਹਾਂ"
 
@@ -137,6 +111,9 @@ msgstr "ਮੈਂ ਕੰਮ ਉੱਤੇ ਆਪਣੇ ਅਧਿਕਾਰਾਂ �
 
 msgid "I have my own business or want to start my own business"
 msgstr "ਮੇਰਾ ਖੁਦ ਦਾ ਕਾਰੋਬਾਰ ਹੈ ਜਾਂ ਖੁਦ ਦਾ ਕਾਰੋਬਾਰ ਸ਼ੁਰੂ ਕਰਨਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ"
+
+msgid "What kinds of health care are you looking for?"
+msgstr "ਤੁਸੀਂ ਕਿਸ ਕਿਸਮ ਦੀ ਹੈਲਥ ਕੇਅਰ ਲੱਭ ਰਹੇ ਹੋ?"
 
 msgid "General health care and learning about health care costs"
 msgstr "ਜਨਰਲ ਹੈਲਥ ਕੇਅਰ ਅਤੇ ਹੈਲਥ ਕੇਅਰ ਖ਼ਰਚਿਆਂ ਬਾਰੇ ਸਿੱਖਣਾ"
@@ -159,11 +136,8 @@ msgstr "ਡੈਂਟਿਸਟ"
 msgid "Support for disabilities"
 msgstr "ਅਪੰਗਤਾ ਲਈ ਸਹਿਯੋਗ"
 
-msgid "Help finding information about services"
-msgstr "ਸੇਵਾਵਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲੱਭਣ ਲਈ ਮਦਦ"
-
-msgid "Help managing stress"
-msgstr "ਤਣਾਅ ਦੇ ਇੰਤਜ਼ਾਮ ਲਈ ਮਦਦ"
+msgid "Do you need financial assistance or low-income support?"
+msgstr "ਕੀ ਤੁਹਾਨੂੰ ਵਿੱਤੀ ਸਹਾਇਤਾ ਜਾਂ ਘੱਟ-ਆਮਦਨ ਸਹਿਯੋਗ ਦੀ ਲੋੜ ਹੈ?"
 
 msgid "Yes"
 msgstr "ਹਾਂ"
@@ -173,6 +147,9 @@ msgstr "ਨਹੀਂ"
 
 msgid "I have low income support"
 msgstr "ਮੇਰੇ ਕੋਲ ਘੱਟ ਆਮਦਨ ਸਹਿਯੋਗ ਹੈ"
+
+msgid "Anything else you're interested in? Select all that apply"
+msgstr "ਕਿਸੇ ਹੋਰ ਚੀਜ਼ ਵਿੱਚ ਤੁਹਾਡੀ ਦਿਲਚਸਪੀ ਹੈ? ਜੋ ਵੀ ਲਾਗੂ ਹੋਵੇ, ਸਭ ਚੁਣੋ"
 
 msgid "Adult education and training"
 msgstr "ਬਾਲਗ ਸਿੱਖਿਆ ਅਤੇ ਸਿਖਲਾਈ"
@@ -209,3 +186,4 @@ msgstr "ਦੁਰਵਿਹਾਰ ਅਤੇ ਹਿੰਸਾ ਵਿਰਧ ਮਦ�
 
 msgid "Community services and organizations"
 msgstr "ਕਮਿਊਨਟੀ ਸੇਵਾਵਾਂ ਅਤੇ ਸੰਸਥਾਵਾਂ"
+
