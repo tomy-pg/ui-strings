@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 21:24+0000\n"
+"PO-Revision-Date: 2019-06-04 21:24+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Korean <https://35.182.138.61/projects/ui-strings/"
+"questionnaire/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.5.1\n"
+
 msgid "How long have you been living in Canada?"
 msgstr "귀하의 캐나다 거주 기간은 얼마입니까?"
 
@@ -8,28 +24,28 @@ msgid "Less than 1 year"
 msgstr "1년 미만"
 
 msgid "I am planning to move to Canada"
-msgstr "캐나다로 이주를 계획 중입니다."
+msgstr "캐나다로 이주를 계획 중입니다"
 
 msgid "Do you have any of the following important Canadian documents?"
 msgstr "다음의 캐나다 공식 문서들 가운데 귀하가 현재 보유하고 있는 것은 무엇입니까?"
 
 msgid "I have a Social Insurance Number"
-msgstr "사회보험번호(SIN)가 있습니다."
+msgstr "사회보험번호(SIN)가 있습니다"
 
 msgid "I have a Canadian bank account"
-msgstr "캐나다 은행 계좌를 보유하고 있습니다."
+msgstr "캐나다 은행 계좌를 보유하고 있습니다"
 
 msgid "I have a Permanent Resident Card"
-msgstr "영주권 카드를 보유하고 있습니다."
+msgstr "영주권 카드를 보유하고 있습니다"
 
 msgid "I have registered for MSP (Medical Services Plan)"
-msgstr "의료 서비스 플랜(MSP)에 가입되어 있습니다."
+msgstr "의료 서비스 플랜(MSP)에 가입되어 있습니다"
 
 msgid "I have a BC Services Card (health card)"
 msgstr "BC 서비스 카드(의료 카드)를 보유하고 있습니다"
 
 msgid "I have a BC Driver's Licence"
-msgstr "BC주 운전면허증을 보유하고 있습니다."
+msgstr "BC주 운전면허증을 보유하고 있습니다"
 
 msgid "Are you arriving with children under 18 years? If yes, how old?"
 msgstr "귀하는 18세 미만의 자녀와 함께 입국하였습니까? 만일 그렇다면, 자녀의 나이는 몇 살입니까?"
@@ -53,16 +69,16 @@ msgid "What is your current housing situation?"
 msgstr "귀하의 현재 주거 상태는 무엇입니까?"
 
 msgid "I want to rent a place to live"
-msgstr "주거용 공간의 임차를 희망합니다."
+msgstr "주거용 공간의 임차를 희망합니다"
 
 msgid "I want to buy a home"
-msgstr "주택 구매를 희망합니다."
+msgstr "주택 구매를 희망합니다"
 
 msgid "I am already renting a home"
-msgstr "이미 주택을 임차하였습니다."
+msgstr "이미 주택을 임차하였습니다"
 
 msgid "I already own a home"
-msgstr "이미 주택을 보유하고 있습니다."
+msgstr "이미 주택을 보유하고 있습니다"
 
 msgid "What is your current level of English?"
 msgstr "귀하의 현재 영어 구사력은 어느 수준입니까?"
@@ -146,10 +162,10 @@ msgid "No"
 msgstr "아니요"
 
 msgid "I have low income support"
-msgstr "저소득층 지원을 받고 있습니다."
+msgstr "저소득층 지원을 받고 있습니다"
 
 msgid "Anything else you're interested in? Select all that apply"
-msgstr "그 밖에 관심이 있는 사항이 있습니까? 관심사에 해당하는 모든 항목을 선택해주세요."
+msgstr "그 밖에 관심이 있는 사항이 있습니까? 관심사에 해당하는 모든 항목을 선택해주세요"
 
 msgid "Adult education and training"
 msgstr "성인 교육과 연수"
@@ -173,7 +189,7 @@ msgid "Francophone services"
 msgstr "프랑스어 사용자 서비스"
 
 msgid "Support for seniors (age 65+)"
-msgstr "고령자 지원 (65세 이상) "
+msgstr "고령자 지원 (65세 이상)"
 
 msgid "Driving in BC"
 msgstr "BC주 내 운전"
@@ -186,4 +202,3 @@ msgstr "학대와 폭행 피해자 지원"
 
 msgid "Community services and organizations"
 msgstr "커뮤니티 서비스 및 기관"
-
