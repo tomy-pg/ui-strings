@@ -1,5 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 22:35+0000\n"
+"PO-Revision-Date: 2019-06-04 22:35+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Tagalog <https://35.182.138.61/projects/ui-strings/explore/tl/"
+">\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1 && n != 2 && n != 3 && (n % 10 == 4 "
+"|| n % 10 == 6 || n % 10 == 9);\n"
+"X-Generator: Weblate 3.5.1\n"
+
 msgid "Things to do right away"
-msgstr "Mga bagay na gagawin agad"
+msgstr "Mga bagay na gagawin agad."
 
 msgid "Settling in"
 msgstr "Paninirahan"
@@ -57,4 +74,3 @@ msgstr "Pagkuha ng lisensya sa pagmamaneho, mga batas trapiko, pangunahing segur
 
 msgid "For example low-income, disabilities, youth"
 msgstr "Hal. mababa ang sahod, mga kapansanan, kabataan"
-
