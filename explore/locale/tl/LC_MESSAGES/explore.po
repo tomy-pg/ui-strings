@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: Weblate 3.5.1\n"
 
 msgid "Things to do right away"
-msgstr "Mga bagay na gagawin agad."
+msgstr "Mga bagay na gagawin agad"
 
 msgid "Settling in"
 msgstr "Paninirahan"
