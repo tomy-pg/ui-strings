@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 21:23+0000\n"
+"PO-Revision-Date: 2019-06-04 21:23+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Chinese (Traditional) <https://35.182.138.61/projects/"
+"ui-strings/questionnaire/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.5.1\n"
+
 msgid "How long have you been living in Canada?"
 msgstr "您已經在加拿大居住多久？"
 
@@ -146,7 +162,7 @@ msgid "No"
 msgstr "否"
 
 msgid "I have low income support"
-msgstr "我有得到低收入的支助。"
+msgstr "我有得到低收入的支助"
 
 msgid "Anything else you're interested in? Select all that apply"
 msgstr "您對於以下其他項目有興趣嗎？ 可複選"
@@ -186,4 +202,3 @@ msgstr "家暴與受虐者援助"
 
 msgid "Community services and organizations"
 msgstr "社區服務和組織"
-
