@@ -1,5 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 22:31+0000\n"
+"PO-Revision-Date: 2019-06-04 22:31+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Chinese (Traditional) <https://35.182.138.61/projects/"
+"ui-strings/explore/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.5.1\n"
+
 msgid "Things to do right away"
-msgstr "需要立刻做的事情"
+msgstr "需要立刻做的事情."
 
 msgid "Settling in"
 msgstr "定居下來"
@@ -57,4 +73,3 @@ msgstr "申辦駕駛執照，交通法規，基本保險"
 
 msgid "For example low-income, disabilities, youth"
 msgstr "例如：低收入戶、殘障人士、青少年"
-
