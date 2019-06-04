@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 3.5.1\n"
 
 msgid "Things to do right away"
-msgstr "ਹੁਣੇ ਕਰਨ ਵਾਲੇ ਕੰਮ."
+msgstr "ਹੁਣੇ ਕਰਨ ਵਾਲੇ ਕੰਮ"
 
 msgid "Settling in"
 msgstr "ਸੈਟਲ ਹੋਣਾ"
