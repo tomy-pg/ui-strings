@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 3.5.1\n"
 
 msgid "Things to do right away"
-msgstr "需要立即做的事情."
+msgstr "需要立即做的事情"
 
 msgid "Settling in"
 msgstr "安家落户"
