@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 21:21+0000\n"
+"PO-Revision-Date: 2019-06-04 21:21+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Chinese (Simplified) <https://35.182.138.61/projects/"
+"ui-strings/questionnaire/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.5.1\n"
+
 msgid "How long have you been living in Canada?"
 msgstr "您在加拿大生活多久了？"
 
@@ -146,10 +162,10 @@ msgid "No"
 msgstr "不是"
 
 msgid "I have low income support"
-msgstr "我有低收入支持。"
+msgstr "我有低收入支持"
 
 msgid "Anything else you're interested in? Select all that apply"
-msgstr "您还对其他什么主题感兴趣吗？请选择所有适用项。"
+msgstr "您还对其他什么主题感兴趣吗？请选择所有适用项"
 
 msgid "Adult education and training"
 msgstr "成人教育与培训"
@@ -186,4 +202,3 @@ msgstr "帮助解决虐待和暴力问题"
 
 msgid "Community services and organizations"
 msgstr "社区服务和组织"
-
