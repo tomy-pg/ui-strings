@@ -1,8 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 21:25+0000\n"
+"PO-Revision-Date: 2019-06-04 21:25+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Punjabi <https://35.182.138.61/projects/ui-strings/"
+"questionnaire/pa/>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.5.1\n"
+
 msgid "How long have you been living in Canada?"
 msgstr "ਤੁਸੀਂ ਕੈਨੇਡਾ ਵਿੱਚ ਕਦੋਂ ਤੋ ਰਹਿ ਰਹੇ ਹੋ?"
 
 msgid "More than 1 year"
-msgstr "1 ਸਾਲ ਤੋਂ ਵੱਧ"
+msgstr "1 ਸਾਲ ਤੋਂ ਵੱਧ./"
 
 msgid "Less than 1 year"
 msgstr "1 ਸਾਲ ਤੋਂ ਘੱਟ"
@@ -186,4 +202,3 @@ msgstr "ਦੁਰਵਿਹਾਰ ਅਤੇ ਹਿੰਸਾ ਵਿਰਧ ਮਦ�
 
 msgid "Community services and organizations"
 msgstr "ਕਮਿਊਨਟੀ ਸੇਵਾਵਾਂ ਅਤੇ ਸੰਸਥਾਵਾਂ"
-
