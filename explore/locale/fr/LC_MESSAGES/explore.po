@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 3.5.1\n"
 
 msgid "Things to do right away"
-msgstr "Tâches à effectuer tout de suite."
+msgstr "Tâches à effectuer tout de suite"
 
 msgid "Settling in"
 msgstr "S'installer"
