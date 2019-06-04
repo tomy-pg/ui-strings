@@ -1,3 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 21:19+0000\n"
+"PO-Revision-Date: 2019-06-04 21:19+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Arabic <https://35.182.138.61/projects/ui-strings/"
+"questionnaire/ar/>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.5.1\n"
+
 msgid "How long have you been living in Canada?"
 msgstr "كم مضى عليك من الوقت مقيما في كندا؟"
 
@@ -38,7 +55,7 @@ msgid "Under 5 years old"
 msgstr "أقل من 5 سنوات"
 
 msgid "5-12 years old"
-msgstr "من 5 إلى 12 سنة"
+msgstr "من 5 إلى 12 سنة."
 
 msgid "13-18 years old"
 msgstr "من 13 إلى 18 سنة"
@@ -186,4 +203,3 @@ msgstr "مساعدة متعلقة بالعنف والإساءة"
 
 msgid "Community services and organizations"
 msgstr "خدمات المجتمع ومنظمات المجتمع المدني"
-
