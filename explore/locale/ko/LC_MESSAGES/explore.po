@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 22:33+0000\n"
+"PO-Revision-Date: 2019-06-04 22:34+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Korean <https://35.182.138.61/projects/ui-strings/explore/ko/>"
+"\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.5.1\n"
+
 msgid "Things to do right away"
 msgstr "지금 바로 해야 할 일들"
 
@@ -57,4 +73,3 @@ msgstr "운전면허증 취득, 도로교통법, 기본 보험"
 
 msgid "For example low-income, disabilities, youth"
 msgstr "예: 저소득층, 장애인, 청소년"
-
