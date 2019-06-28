@@ -76,3 +76,5 @@ msgstr ""
 msgid "Hello world"
 msgstr ""
 
+msgid "Foo"
+msgstr ""
