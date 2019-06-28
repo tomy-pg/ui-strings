@@ -72,9 +72,3 @@ msgstr ""
 
 msgid "For example low-income, disabilities, youth"
 msgstr ""
-
-msgid "Hello world"
-msgstr ""
-
-msgid "Foo"
-msgstr ""
