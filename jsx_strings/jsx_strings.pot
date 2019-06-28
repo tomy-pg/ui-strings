@@ -420,10 +420,6 @@ msgstr ""
 "project. You can <0>view it on GitHub</0> and <1>contact us</1> to learn how "
 "you can support this project."
 
-#: lib/components/header_menu/header_menu_component.js:53
-msgid "Terms of Use"
-msgstr "Terms of Use"
-
 #: lib/components/disclaimer/disclaimer_component.js:22
 msgid ""
 "The app provides information about relevant newcomer services, and is "
@@ -457,3 +453,7 @@ msgstr "UPDATE MY RECOMMENDATIONS"
 #: lib/components/services/service_list_item_component.js:46
 msgid "Web:"
 msgstr "Web:"
+
+#: lib/components/header_menu/header_menu_component.js:53
+msgid "Terms of Use"
+msgstr "Terms of Use"
