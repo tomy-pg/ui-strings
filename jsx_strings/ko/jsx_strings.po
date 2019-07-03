@@ -52,6 +52,9 @@ msgid ""
 "Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
 "Punjabi, and Tagalog."
 msgstr ""
+"Arrival Advisor는 이민자와 난민이 캐나다 브리티시컬럼비아(BC)주에 정착하는 과정에서 필요한 정보와 서비스를 쉽게 찾도록 "
+"도와주는 다국어 지원 무료 모바일 앱입니다. 현재 앱에서 지원되는 언어는 영어와 프랑스어(캐나다), 아랍어입니다. 조만간 중국어 간체자와 "
+"번체자, 한국어, 펀자브어와 타갈로그어가 추가로 지원될 예정입니다."
 
 #: lib/components/disclaimer/disclaimer_component.js:33
 msgid ""

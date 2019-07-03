@@ -56,6 +56,13 @@ msgid ""
 "Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
 "Punjabi, and Tagalog."
 msgstr ""
+"Arrival Advisor est une application mobile multilingue gratuite qui fournit "
+"aux immigrants et aux réfugiés en Colombie-Britannique (Canada) des "
+"informations et des services pour préparer leur établissement. L’application "
+"est offerte en anglais, en français (canadien) et en arabe. Elle sera "
+"bientôt disponible en chinois (simplifié et traditionnel), en coréen, en "
+"punjabi et en tagalog."
+
 
 #: lib/components/disclaimer/disclaimer_component.js:33
 msgid ""

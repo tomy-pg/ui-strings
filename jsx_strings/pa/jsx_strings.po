@@ -55,6 +55,11 @@ msgid ""
 "Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
 "Punjabi, and Tagalog."
 msgstr ""
+"Arrival Advisor ਮੁਫ਼ਤ, ਬਹੁ-ਭਾਸਾਈ ਮੋਬਾਈਲ ਐਪ ਹੈ, ਜੋ ਕਿ ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ, ਕੈਨੇਡਾ"
+" ਦੇ ਆਵਾਸੀਆਂ ਅਤੇ ਰਿਫਿਊਜੀਆਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਲਈ ਜਾਣਕਾਰੀ ਅਤੇ ਸੇਵਾਵਾਂ "
+"ਲੱਭਣ ਲਈ ਮਦਦ ਕਰਦੀ ਹੈ। ਇਹ ਐਪ ਇਸ ਵੇਲੇ ਅੰਗਰੇਜੀ, ਫਰੈਂਚ (ਕੈਨੇਡਾ) ਅਤੇ ਅਰਬੀ ਵਿੱਚ ਹੈ। "
+"ਇਹ ਛੇਤੀ ਹੀ ਚੀਨੀ ਸਰਲ, ਚੀਨੀ ਰਿਵਾਇਤੀ, ਕੋਰੀਆਈ, ਪੰਜਾਬੀ ਅਤੇ ਟਾਗਾਲੋਗ ਵਿੱਚ ਉਪਲਬਧ "
+"ਹੋਵੇਗੀ।"
 
 #: lib/components/disclaimer/disclaimer_component.js:33
 msgid ""

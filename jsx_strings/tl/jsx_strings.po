@@ -57,6 +57,12 @@ msgid ""
 "Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
 "Punjabi, and Tagalog."
 msgstr ""
+"Ang Arrival Advisor ay isang libre, maramihang wikang mobile app na "
+"tumutulong sa mga imigrante at takas sa British Columbia, Canada na humanap "
+"ng impormasyon at mga serbisyo upang galugarin ang kanilang byahe sa "
+"paninirahan. Ang app ay kasalukuyang magagamit sa English, Pranses (Canadian)"
+", at Arabe. Malapit na rin itong magamit sa Pinasimpleng Chinese, "
+"Tradisyonal na Chinese, Koreano, Punjabi, at Tagalog."
 
 #: lib/components/disclaimer/disclaimer_component.js:33
 msgid ""
