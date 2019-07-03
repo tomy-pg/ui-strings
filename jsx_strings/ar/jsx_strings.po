@@ -1,12 +1,12 @@
-#. extracted from /tmp/messages-ar.csv
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-15 14:55-0700\n"
+"POT-Creation-Date: 2019-02-13 13:45-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,18 +16,16 @@ msgstr ""
 msgid "ABOUT THE APP"
 msgstr "نبذة عن التطبيق"
 
-#: lib%2Fcomponents%2Fabout%2Fabout_component.js%3A16+lib%2Fcomponents%2Fheader_menu%2Fheader_menu_component.js%3A50
+#: lib/components/about/about_component.js:16
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "About Arrival Advisor"
 msgstr "نبذة عن Arrival Advisor"
-
-#: lib/components/services/service_list_item_component.js:27
-msgid "Address:"
-msgstr "العنوان:"
 
 #: lib/components/services/service_list_error_component.js:33
 msgid "An error has occured."
 msgstr "An error has occured."
 
+#: lib/components/onboarding/onboarding_component.js:26
 #: lib/components/recommended_topics/call_to_action.js:46
 msgid ""
 "Answer a few questions about your situation to get personalized "
@@ -55,15 +53,16 @@ msgstr ""
 msgid ""
 "Arrival Advisor is a free, multilingual, mobile app that helps immigrants "
 "and refugees in British Columbia, Canada find information and services to "
-"navigate their settlement journey. The app is currently available in "
-"English, French (Canadian), and Arabic. It will soon be available in Chinese "
-"Simplified, Chinese Traditional, Korean, Punjabi, and Tagalog."
+"navigate their settlement journey. Arrival Advisor is offered in English, "
+"Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
+"Punjabi, and Tagalog."
 msgstr ""
 "تطبيق Arrival Advisor هو تطبيق مجاني متعدد اللغات للأجهزة المحمولة يساعد "
 "المهاجرين واللاجئين في إقليم بريتيش كولومبيا في كندا على البحث عن المعلومات "
 "والخدمات التي توجههم في سعيهم نحو الاستقرار. التطبيق متوفر حاليا باللغات "
 "الإنكليزية والفرنسية (الكندية) والعربية. سوف يتوفر التطبيق لاحقا بالصينية "
 "المبسطة والصينية والتقليدية والكورية والبنجابية والتاغلوغية."
+
 
 #: lib/components/disclaimer/disclaimer_component.js:33
 msgid ""
@@ -89,6 +88,7 @@ msgstr ""
 "الهجرة واللاجئين والجنسية الكندية المعلومات لأي غرض آخر كما أنها لا تستخدم "
 "في اتخاذ أي قرار يتعلق بالهجرة."
 
+#: lib/components/onboarding/onboarding_component.js:112
 #: lib/components/questionnaire/questionnaire_component.js:110
 msgid "Back"
 msgstr "رجوع"
@@ -117,7 +117,8 @@ msgstr "صممته"
 msgid "Delete all user data"
 msgstr "مسح كافة بيانات المستخدم"
 
-#: lib%2Fcomponents%2Fdisclaimer%2Fdisclaimer_component.js%3A12+lib%2Fcomponents%2Fheader_menu%2Fheader_menu_component.js%3A51
+#: lib/components/disclaimer/disclaimer_component.js:12
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Disclaimer"
 msgstr "إخلاء مسؤولية"
 
@@ -129,13 +130,9 @@ msgstr "انتهى"
 msgid "EXPLORE TOPICS"
 msgstr "تصفح الموضوعات"
 
-#: lib/components/services/service_list_item_component.js:55
+#: lib/components/services/service_list_item_component.js:68
 msgid "Email:"
 msgstr "البريد الإلكتروني:"
-
-#: lib/components/services/service_list_component.js:53
-msgid "FIND A SERVICE NEAR YOU"
-msgstr "ابحث عن خدمة بالقرب منك"
 
 #: lib/components/help/help_component.js:59
 msgid "FOR ADDITIONAL ASSISTANCE"
@@ -146,18 +143,26 @@ msgid ""
 "Fetching your location timed out. On Android devices you may need to set "
 "your location mode to \"High accuracy\"."
 msgstr ""
-"استغرق تحديد موقعك أكثر من اللازم. قد تحتاج إلى ضبط وضع تحديد الموقع إلى «"
-"دقة شديدة» على أجهزة أندرويد."
+"استغرق تحديد موقعك أكثر من اللازم. قد تحتاج إلى ضبط وضع تحديد الموقع إلى "
+"«دقة شديدة» على أجهزة أندرويد."
 
 #: lib/components/help/help_component.js:71
 msgid "Find a settlement agency near me"
 msgstr "ابحث عن وكالة استقرار قريبة من."
 
+#: lib/components/onboarding/onboarding_component.js:19
+msgid "Find helpful services nearby"
+msgstr ""
+
+#: lib/components/onboarding/onboarding_component.js:20
+msgid "Find organizations that can help you settle into your new community."
+msgstr ""
+
 #: lib/components/topics/task_detail_content_component.js:103
 msgid "Find related services near me"
 msgstr "ابحث عن خدمات ذات صلة بالقرب مني"
 
-#: lib/components/about/about_component.js:27
+#: lib/components/about/about_component.js:26
 msgid ""
 "From finding a job to learning English, accessing health care, and more, "
 "Arrival Advisor has everything you need to get started in your new "
@@ -185,9 +190,14 @@ msgstr ""
 msgid "GETTING STARTED"
 msgstr "بدء الاستخدام"
 
+#: lib/components/onboarding/onboarding_component.js:25
 #: lib/components/recommended_topics/call_to_action.js:36
 msgid "Get information based on your needs"
 msgstr "أحصل على المعلومات استنادا إلى احتياجاتك"
+
+#: lib/components/onboarding/onboarding_component.js:13
+msgid "Get trusted information"
+msgstr ""
 
 #: lib/components/recommended_topics/call_to_action.js:74
 msgid "Go back to questions"
@@ -205,7 +215,7 @@ msgstr ""
 "لو كنت تواجه مصاعب في الاستقرار داخل كندا، نقترح عليك أن تتواصل مع موظف "
 "استقرار."
 
-#: lib/components/about/about_component.js:47
+#: lib/components/about/about_component.js:46
 msgid ""
 "Information in this app is provided by the <0>Newcomers Guide to British "
 "Columbia</0> Copyright 2018 Province of British Columbia. All rights "
@@ -231,6 +241,12 @@ msgstr "معلومات تتعلق بخدمات الطوارئ (911)"
 msgid "Information on helplines"
 msgstr "معلومات تتعلق بخطوط المساعدة على الهاتف"
 
+#: lib/components/onboarding/onboarding_component.js:14
+msgid ""
+"Learn about employment, health care, and everything else to start your new "
+"life in British Columbia"
+msgstr ""
+
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "تعرف على كل شيء عن بريتيش كولومبيا."
@@ -243,6 +259,7 @@ msgstr "خدمات معلومات صحية مقدمة بعدة لغات"
 msgid "My bookmarks"
 msgstr "علاماتي المرجعية"
 
+#: lib/components/onboarding/onboarding_component.js:118
 #: lib/components/questionnaire/questionnaire_component.js:100
 msgid "Next"
 msgstr "التالي"
@@ -251,15 +268,11 @@ msgstr "التالي"
 msgid "No new topics recommended based on your answers."
 msgstr "لا توجد مواضيع جديدة نوصي بها استنادا إلى إجاباتك."
 
-#: lib/components/services/service_list_component.js:60
-msgid "No related services found"
-msgstr "لم نجد خدمات متعلقة ببحثك"
-
-#: lib/components/topics/task_list_component.js:77
+#: lib/components/topics/task_list_component.js:69
 msgid "No topics to recommend"
 msgstr "لا توجد موضوعات نوصي بها"
 
-#: lib/components/topics/task_list_component.js:76
+#: lib/components/topics/task_list_component.js:68
 msgid "No topics to show"
 msgstr "لا توجد موضوعات كي نعرضها"
 
@@ -282,10 +295,6 @@ msgid ""
 msgstr ""
 "حالما انتهيت من الإجابة عن بضع أسئلة، سوف تظهر توصياتك المخصصة تاليا. إليك "
 "في الوقت الراهن بعض الموضوعات التي نوصي بها للجميع:"
-
-#: lib/components/maps_application_popup/maps_application_popup_component.js:18
-msgid "Open in maps"
-msgstr "فتح في الخرائط"
 
 #: lib/components/disclaimer/disclaimer_component.js:45
 msgid ""
@@ -314,19 +323,20 @@ msgstr "الشرطة والمطافئ والطوارئ الصحية"
 msgid "Privacy policy"
 msgstr "سياسة الخصوصية"
 
-#: lib/components/topics/task_detail_component.js:19
+#: lib/components/topics/task_detail_component.js:21
 msgid "RELATED TOPICS"
 msgstr "موضوعات ذات صلة"
 
-#: lib/components/expandable_content/expandable_content_component.js:79
+#: lib/components/expandable_content/expandable_content_component.js:82
 msgid "Read less"
 msgstr "تقليل النص"
 
-#: lib/components/expandable_content/expandable_content_component.js:79
+#: lib/components/expandable_content/expandable_content_component.js:80
 msgid "Read more"
 msgstr "زيادة النص"
 
-#: lib%2Fcomponents%2Frecommended_topics%2Frecommended_topics_component.js%3A38+lib%2Fcomponents%2Ftopics%2Ftask_detail_content_component.js%3A63
+#: lib/components/recommended_topics/recommended_topics_component.js:38
+#: lib/components/topics/task_detail_content_component.js:63
 msgid "Recommended for you"
 msgstr "توصيات إليك"
 
@@ -342,7 +352,7 @@ msgstr "احفظ الموضوعات المهمة كي تنشئ خطتك للاس
 msgid "Select your language"
 msgstr "اختر لغتك"
 
-#: lib/components/about/about_component.js:56
+#: lib/components/about/about_component.js:55
 msgid "Server version:"
 msgstr "إصدار الخادوم:"
 
@@ -358,21 +368,33 @@ msgstr "أصبح الاستقرار في كندا الآن أسهل من ذي ق
 msgid "Skip"
 msgstr "تخطى"
 
+#: lib/components/onboarding/onboarding_component.js:89
+msgid "Skip personalization"
+msgstr ""
+
 #: lib/components/welcome/welcome_component.js:42
 msgid "Start"
 msgstr "ابدأ"
+
+#: lib/components/onboarding/onboarding_component.js:74
+msgid "Start personalization"
+msgstr ""
 
 #: lib/components/recommended_topics/recommended_topics_component.js:21
 msgid "Start settling in B.C."
 msgstr "بدء الاستقرار في بريتيش كولومبيا."
 
-#: lib/components/about/about_component.js:38
+#: lib/components/header_menu/header_menu_component.js:53
+msgid "Terms of Use"
+msgstr ""
+
+#: lib/components/about/about_component.js:37
 msgid ""
 "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 "settlement organizations in Metro Vancouver, as well as immigrants and "
 "refugees like you. This project is possible thanks to funding by the "
-"Province of British Columbia and Google.org Canada in partnership with LEAP |"
-" Pecaut Centre for Social Impact. Special thanks also goes to individual "
+"Province of British Columbia and Google.org Canada in partnership with LEAP "
+"| Pecaut Centre for Social Impact. Special thanks also goes to individual "
 "donors who make this project possible. Arrival Advisor is an open-source "
 "project. You can <0>view it on GitHub</0> and <1>contact us</1> to learn how "
 "you can support this project."
@@ -405,7 +427,7 @@ msgstr ""
 "توصية لهذه الخدمات دون غيرها. كما أن مسؤولية الاستعانة بالخدمات التي وجدتها "
 "مستخدما هذا التطبيق يقع على المستخدم."
 
-#: lib/components/about/about_component.js:52
+#: lib/components/about/about_component.js:51
 msgid "This is Arrival Advisor version:"
 msgstr "هذا الإصدار من تطبيق Arrival Advisor هو:"
 
@@ -413,6 +435,6 @@ msgstr "هذا الإصدار من تطبيق Arrival Advisor هو:"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "تحديث توصياتي"
 
-#: lib/components/services/service_list_item_component.js:46
+#: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "الموقع الشبكي:"
