@@ -81,7 +81,7 @@ msgid "I already own a home"
 msgstr "我已買房"
 
 msgid "What is your current level of English?"
-msgstr "您目前的居住情況？"
+msgstr "您目前的英文程度？"
 
 msgid "None"
 msgstr "無"
