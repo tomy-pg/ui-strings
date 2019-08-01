@@ -3,14 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-13 13:45-0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2019-08-01 22:55+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Punjabi <https://translate.peacegeeks.org/projects/ui-strings/"
+"jsx_strings/pa/>\n"
+"Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.2.5\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.5.1\n"
 
 #: lib/components/header_menu/header_menu_component.js:45
 msgid "ABOUT THE APP"
@@ -434,26 +436,25 @@ msgid ""
 "Answer a few optional questions to get tailored recommendations for your "
 "needs."
 msgstr ""
-"Answer a few optional questions to get tailored recommendations for your "
-"needs."
+"ਕੁਝ ਚੋਣਵੇਂ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇ ਕੇ ਆਪਣੀ ਲੋੜ ਮੁਤਾਬਕ ਖਾਸ ਬਣਾਈਆਂ ਸਿਫਾਰਸ਼ਾਂ ਲਵੋ।"
 
 #: lib/components/onboarding/onboarding_component.js:29
 msgid ""
 "Arrival Advisor is your go-to guide to getting settled in your new community."
 msgstr ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
+"Arrival Advisor ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਲਈ ਗਾਈਡ ਹੈ।"
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics that you find helpful for future use."
-msgstr "Bookmark the topics that you find helpful for future use."
+msgstr "ਜੋ ਤੁਹਾਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਵਰਤੋਂ ਲਈ ਮਦਦਗਾਰ ਲੱਗਦੇ ਹਨ, ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ।"
 
 #: lib/components/onboarding/onboarding_component.js:37
 msgid ""
 "Find service providers near you that can help you through your settlement "
 "journey."
 msgstr ""
-"Find service providers near you that can help you through your settlement "
-"journey."
+"ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਪੂਰਕ ਲੱਭੋ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਵਿੱਚ ਤੁਹਾਡੀ "
+"ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ।"
 
 #: lib/components/onboarding/onboarding_component.js:44
 #: lib/components/welcome/welcome_component.js:42
