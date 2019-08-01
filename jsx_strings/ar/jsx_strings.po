@@ -374,10 +374,6 @@ msgstr "تخطى"
 msgid "Skip personalization"
 msgstr ""
 
-#: lib/components/welcome/welcome_component.js:42
-msgid "Start"
-msgstr "ابدأ"
-
 #: lib/components/onboarding/onboarding_component.js:74
 msgid "Start personalization"
 msgstr ""
@@ -440,3 +436,34 @@ msgstr "تحديث توصياتي"
 #: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "الموقع الشبكي:"
+
+#: lib/components/onboarding/onboarding_component.js:33
+msgid ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+msgstr ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+
+#: lib/components/onboarding/onboarding_component.js:29
+msgid ""
+"Arrival Advisor is your go-to guide to getting settled in your new community."
+msgstr ""
+"Arrival Advisor is your go-to guide to getting settled in your new community."
+
+#: lib/components/onboarding/onboarding_component.js:41
+msgid "Bookmark the topics that you find helpful for future use."
+msgstr "Bookmark the topics that you find helpful for future use."
+
+#: lib/components/onboarding/onboarding_component.js:37
+msgid ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+msgstr ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+
+#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/welcome/welcome_component.js:42
+msgid "Start"
+msgstr "ابدأ"

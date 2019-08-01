@@ -56,11 +56,10 @@ msgid ""
 "Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
 "Punjabi, and Tagalog."
 msgstr ""
-"Arrival Advisor ਮੁਫ਼ਤ, ਬਹੁ-ਭਾਸਾਈ ਮੋਬਾਈਲ ਐਪ ਹੈ, ਜੋ ਕਿ ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ, ਕੈਨੇਡਾ"
-" ਦੇ ਆਵਾਸੀਆਂ ਅਤੇ ਰਿਫਿਊਜੀਆਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਲਈ ਜਾਣਕਾਰੀ ਅਤੇ ਸੇਵਾਵਾਂ "
-"ਲੱਭਣ ਲਈ ਮਦਦ ਕਰਦੀ ਹੈ। ਇਹ ਐਪ ਇਸ ਵੇਲੇ ਅੰਗਰੇਜੀ, ਫਰੈਂਚ (ਕੈਨੇਡਾ) ਅਤੇ ਅਰਬੀ ਵਿੱਚ ਹੈ। "
-"ਇਹ ਛੇਤੀ ਹੀ ਚੀਨੀ ਸਰਲ, ਚੀਨੀ ਰਿਵਾਇਤੀ, ਕੋਰੀਆਈ, ਪੰਜਾਬੀ ਅਤੇ ਟਾਗਾਲੋਗ ਵਿੱਚ ਉਪਲਬਧ "
-"ਹੋਵੇਗੀ।"
+"Arrival Advisor ਮੁਫ਼ਤ, ਬਹੁ-ਭਾਸਾਈ ਮੋਬਾਈਲ ਐਪ ਹੈ, ਜੋ ਕਿ ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ, ਕੈਨੇਡਾ ਦੇ ਆਵਾਸੀਆਂ "
+"ਅਤੇ ਰਿਫਿਊਜੀਆਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਲਈ ਜਾਣਕਾਰੀ ਅਤੇ ਸੇਵਾਵਾਂ ਲੱਭਣ ਲਈ ਮਦਦ ਕਰਦੀ ਹੈ। ਇਹ "
+"ਐਪ ਇਸ ਵੇਲੇ ਅੰਗਰੇਜੀ, ਫਰੈਂਚ (ਕੈਨੇਡਾ) ਅਤੇ ਅਰਬੀ ਵਿੱਚ ਹੈ। ਇਹ ਛੇਤੀ ਹੀ ਚੀਨੀ ਸਰਲ, ਚੀਨੀ ਰਿਵਾਇਤੀ, "
+"ਕੋਰੀਆਈ, ਪੰਜਾਬੀ ਅਤੇ ਟਾਗਾਲੋਗ ਵਿੱਚ ਉਪਲਬਧ ਹੋਵੇਗੀ।"
 
 #: lib/components/disclaimer/disclaimer_component.js:33
 msgid ""
@@ -368,10 +367,6 @@ msgstr "ਛੱਡੋ"
 msgid "Skip personalization"
 msgstr ""
 
-#: lib/components/welcome/welcome_component.js:42
-msgid "Start"
-msgstr "ਸ਼ੁਰੂ ਕਰੋ"
-
 #: lib/components/onboarding/onboarding_component.js:74
 msgid "Start personalization"
 msgstr ""
@@ -433,3 +428,34 @@ msgstr "ਮੇਰੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਅੱਪਡੇਟ
 #: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "ਵੈੱਬ:"
+
+#: lib/components/onboarding/onboarding_component.js:33
+msgid ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+msgstr ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+
+#: lib/components/onboarding/onboarding_component.js:29
+msgid ""
+"Arrival Advisor is your go-to guide to getting settled in your new community."
+msgstr ""
+"Arrival Advisor is your go-to guide to getting settled in your new community."
+
+#: lib/components/onboarding/onboarding_component.js:41
+msgid "Bookmark the topics that you find helpful for future use."
+msgstr "Bookmark the topics that you find helpful for future use."
+
+#: lib/components/onboarding/onboarding_component.js:37
+msgid ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+msgstr ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+
+#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/welcome/welcome_component.js:42
+msgid "Start"
+msgstr "ਸ਼ੁਰੂ ਕਰੋ"
