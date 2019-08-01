@@ -280,10 +280,6 @@ msgstr "Skip"
 msgid "Skip personalization"
 msgstr "Skip personalization"
 
-#: lib/components/welcome/welcome_component.js:42
-msgid "Start"
-msgstr "Start"
-
 #: lib/components/onboarding/onboarding_component.js:74
 msgid "Start personalization"
 msgstr "Start personalization"
