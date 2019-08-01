@@ -3,14 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-13 13:45-0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2019-08-01 22:34+0000\n"
+"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.peacegeeks.org/"
+"projects/ui-strings/jsx_strings/zh_Hant/>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.2.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.5.1\n"
 
 #: lib/components/header_menu/header_menu_component.js:45
 msgid "ABOUT THE APP"
@@ -56,9 +58,10 @@ msgid ""
 "Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
 "Punjabi, and Tagalog."
 msgstr ""
-"Arrival Advisor 是一個免費的多語言手機應用程式，可協助加拿大不列顛哥倫比亞省（BC省）的移民和難民們，在安家定居過程中取得所需的相關資訊和"
-"服務。本應用程式目前提供英語，法語（加拿大）和阿拉伯語版本，並即將提供簡體中文、繁體中文、韓文、旁遮普文及他加祿文等版本。"
-
+"Arrival Advisor 是一個免費的多語言手機應用程式，可協助加拿大不列顛哥倫比亞省"
+"（BC省）的移民和難民們，在安家定居過程中取得所需的相關資訊和服務。本應用程式"
+"目前提供英語，法語（加拿大）和阿拉伯語版本，並即將提供簡體中文、繁體中文、韓"
+"文、旁遮普文及他加祿文等版本。"
 
 #: lib/components/disclaimer/disclaimer_component.js:33
 msgid ""
@@ -356,10 +359,6 @@ msgstr "跳過"
 msgid "Skip personalization"
 msgstr ""
 
-#: lib/components/welcome/welcome_component.js:42
-msgid "Start"
-msgstr "開始"
-
 #: lib/components/onboarding/onboarding_component.js:74
 msgid "Start personalization"
 msgstr ""
@@ -418,3 +417,29 @@ msgstr "更新我的推薦信息"
 #: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "網址："
+
+#: lib/components/onboarding/onboarding_component.js:33
+msgid ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+msgstr "回答幾個複選題，將可獲得您個人專屬的服務推薦清單。"
+
+#: lib/components/onboarding/onboarding_component.js:29
+msgid ""
+"Arrival Advisor is your go-to guide to getting settled in your new community."
+msgstr "Arrival Advisor 是您在新社區定居的首選指南。"
+
+#: lib/components/onboarding/onboarding_component.js:41
+msgid "Bookmark the topics that you find helpful for future use."
+msgstr "您可藉由我的最愛標記重要主題以便日後查詢。"
+
+#: lib/components/onboarding/onboarding_component.js:37
+msgid ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+msgstr "查尋您附近的服務提供點以便安家樂業。"
+
+#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/welcome/welcome_component.js:42
+msgid "Start"
+msgstr "開始"

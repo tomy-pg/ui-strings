@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-13 13:45-0800\n"
-"PO-Revision-Date: 2019-07-23 17:00+0000\n"
+"PO-Revision-Date: 2019-08-01 22:34+0000\n"
 "Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
 "Language-Team: Arabic <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/ar/>\n"
@@ -374,10 +374,6 @@ msgstr "تخطى"
 msgid "Skip personalization"
 msgstr ""
 
-#: lib/components/welcome/welcome_component.js:42
-msgid "Start"
-msgstr "ابدأ"
-
 #: lib/components/onboarding/onboarding_component.js:74
 msgid "Start personalization"
 msgstr ""
@@ -440,3 +436,31 @@ msgstr "تحديث توصياتي"
 #: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "الموقع الشبكي:"
+
+#: lib/components/onboarding/onboarding_component.js:33
+msgid ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+msgstr ""
+"أجب على بضع أسئلة اختيارية واحصل على قائمة مخصصة بالموضوعات التي نوصي بها. "
+"ضع علامات مرجعية على الموضوعات الهامة كي تصمم خطة شخصية للاستقرار."
+
+#: lib/components/onboarding/onboarding_component.js:29
+msgid ""
+"Arrival Advisor is your go-to guide to getting settled in your new community."
+msgstr "Arrival Advisor دليلك المفضل في رحلتك نحو الاستقرار في مجتمعك الجديد."
+
+#: lib/components/onboarding/onboarding_component.js:41
+msgid "Bookmark the topics that you find helpful for future use."
+msgstr "ضع وسم على الموضوعات التي تجدها مفيدة كي ترجع إليها في وقت لاحق."
+
+#: lib/components/onboarding/onboarding_component.js:37
+msgid ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+msgstr "بحث عن الخدمات القريبة التي يمكنها تساعدك في رح."
+
+#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/welcome/welcome_component.js:42
+msgid "Start"
+msgstr "ابدأ"

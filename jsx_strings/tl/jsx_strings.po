@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-13 13:45-0800\n"
-"PO-Revision-Date: 2019-07-23 17:00+0000\n"
+"PO-Revision-Date: 2019-08-01 22:55+0000\n"
 "Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
 "Language-Team: Tagalog <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/tl/>\n"
@@ -392,10 +392,6 @@ msgstr "Laktawan"
 msgid "Skip personalization"
 msgstr ""
 
-#: lib/components/welcome/welcome_component.js:42
-msgid "Start"
-msgstr "Magsimula"
-
 #: lib/components/onboarding/onboarding_component.js:74
 msgid "Start personalization"
 msgstr ""
@@ -463,3 +459,35 @@ msgstr "I-UPDATE ANG REKOMENDASYON KO"
 #: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "Web:"
+
+#: lib/components/onboarding/onboarding_component.js:33
+msgid ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+msgstr ""
+"Sagutin ang ilan sa opsyonal na mga katanungan upang makagawa ng "
+"rekomendasyon para sa mga pangangailangan mo."
+
+#: lib/components/onboarding/onboarding_component.js:29
+msgid ""
+"Arrival Advisor is your go-to guide to getting settled in your new community."
+msgstr ""
+"Arrival Advisor ang gabay mo habang nagpapatuloy na manirahan sa bago mong "
+"komunidad."
+
+#: lib/components/onboarding/onboarding_component.js:41
+msgid "Bookmark the topics that you find helpful for future use."
+msgstr "Markahan ang mga paksa na sa wari mo ay makatutulong sa iyo sa susunod."
+
+#: lib/components/onboarding/onboarding_component.js:37
+msgid ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+msgstr ""
+"Humanap ng mga service provider malapit sa iyo na makatutulong sa "
+"paninirahan mo."
+
+#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/welcome/welcome_component.js:42
+msgid "Start"
+msgstr "Magsimula"
