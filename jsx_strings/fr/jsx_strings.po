@@ -457,6 +457,7 @@ msgstr "Version d’Arrival Advisor :"
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "METTRE À JOUR MES RECOMMANDATIONS"
 
+#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "

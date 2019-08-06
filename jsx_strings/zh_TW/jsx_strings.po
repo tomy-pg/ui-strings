@@ -374,10 +374,11 @@ msgid ""
 "project. You can view it on <0>GitHub</0> and <1>contact us</1> to learn how "
 "you can support this project."
 msgstr ""
-"Arrival Advisor 應用程式是 PeaceGeeks "
-"與大溫哥華地區（以下簡稱大溫地區）的定居／安置所提供者們，以及像您一樣的移民或難民共同合作設計的。此專案計劃得益於不列顛哥倫比亞省（BC省）和 "
-"Google.org Canada 與 LEAP | Pecaul Centre 社會影響中心的資助。特別感謝使這個項目成功的個人捐助者。Arrival "
-"Advisor 是一個開放式專案。你可以在 <0>Github</0>查看它或<1>聯絡我們</1>來了解如何贊助此專案。"
+"Arrival Advisor 應用程式是 PeaceGeeks 與大溫哥華地區（以下簡稱大溫地區）的定"
+"居／安置所提供者們，以及像您一樣的移民或難民共同合作設計的。此專案計劃得益於"
+"不列顛哥倫比亞省（BC省）和 Google.org Canada 與 LEAP | Pecaul Centre 社會影響"
+"中心的資助。特別感謝使這個項目成功的個人捐助者。Arrival Advisor 是一個開放式"
+"專案。你可以在 <0>Github</0>查看它或<1>聯絡我們</1>來了解如何贊助此專案。"
 
 #: lib/components/disclaimer/disclaimer_component.js:27
 msgid ""
@@ -405,6 +406,7 @@ msgstr "這是 Arrival Advisor 版本："
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新我的推薦信息"
 
+#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "
