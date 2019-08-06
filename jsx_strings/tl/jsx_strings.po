@@ -161,14 +161,6 @@ msgstr ""
 msgid "Find a settlement agency near me"
 msgstr "Humanap ng ahensiya ng paninirahang malapit sa akin"
 
-#: lib/components/onboarding/onboarding_component.js:19
-msgid "Find helpful services nearby"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:20
-msgid "Find organizations that can help you settle into your new community."
-msgstr ""
-
 #: lib/components/topics/task_detail_content_component.js:103
 msgid "Find related services near me"
 msgstr "Humanap ng mga kaugnay na serbisyo malapit sa akin"
@@ -207,10 +199,6 @@ msgstr "PAGSISIMULA"
 #: lib/components/recommended_topics/call_to_action.js:36
 msgid "Get information based on your needs"
 msgstr "Makakuha ng impormasyon batay sa pangangailangan mo"
-
-#: lib/components/onboarding/onboarding_component.js:13
-msgid "Get trusted information"
-msgstr ""
 
 #: lib/components/recommended_topics/call_to_action.js:74
 msgid "Go back to questions"
@@ -253,12 +241,6 @@ msgstr "Impormasyon sa serbisyong pang-emergency (9-1-1)"
 #: lib/components/help/help_component.js:29
 msgid "Information on helplines"
 msgstr "Impormasyon sa mga helpline"
-
-#: lib/components/onboarding/onboarding_component.js:14
-msgid ""
-"Learn about employment, health care, and everything else to start your new "
-"life in British Columbia"
-msgstr ""
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -477,7 +459,8 @@ msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics that you find helpful for future use."
-msgstr "Markahan ang mga paksa na sa wari mo ay makatutulong sa iyo sa susunod."
+msgstr ""
+"Markahan ang mga paksa na sa wari mo ay makatutulong sa iyo sa susunod."
 
 #: lib/components/onboarding/onboarding_component.js:37
 msgid ""

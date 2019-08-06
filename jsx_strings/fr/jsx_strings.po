@@ -160,14 +160,6 @@ msgstr ""
 msgid "Find a settlement agency near me"
 msgstr "Trouver une agence d’établissement à proximité"
 
-#: lib/components/onboarding/onboarding_component.js:19
-msgid "Find helpful services nearby"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:20
-msgid "Find organizations that can help you settle into your new community."
-msgstr ""
-
 #: lib/components/topics/task_detail_content_component.js:103
 msgid "Find related services near me"
 msgstr "Trouver des services connexes à proximité"
@@ -207,10 +199,6 @@ msgstr "DÉBUTER"
 #: lib/components/recommended_topics/call_to_action.js:36
 msgid "Get information based on your needs"
 msgstr "Obtenir des renseignements basés sur vos besoins"
-
-#: lib/components/onboarding/onboarding_component.js:13
-msgid "Get trusted information"
-msgstr ""
 
 #: lib/components/recommended_topics/call_to_action.js:74
 msgid "Go back to questions"
@@ -253,12 +241,6 @@ msgstr "Renseignements relatifs au service d’urgence 9-1-1"
 #: lib/components/help/help_component.js:29
 msgid "Information on helplines"
 msgstr "Renseignements relatifs aux lignes d’aide"
-
-#: lib/components/onboarding/onboarding_component.js:14
-msgid ""
-"Learn about employment, health care, and everything else to start your new "
-"life in British Columbia"
-msgstr ""
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."

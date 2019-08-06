@@ -151,14 +151,6 @@ msgstr ""
 msgid "Find a settlement agency near me"
 msgstr "내 주변 이민자 봉사 단체 찾기"
 
-#: lib/components/onboarding/onboarding_component.js:19
-msgid "Find helpful services nearby"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:20
-msgid "Find organizations that can help you settle into your new community."
-msgstr ""
-
 #: lib/components/topics/task_detail_content_component.js:103
 msgid "Find related services near me"
 msgstr "내 주변 연관 서비스 찾기"
@@ -194,10 +186,6 @@ msgstr "시작하기"
 #: lib/components/recommended_topics/call_to_action.js:36
 msgid "Get information based on your needs"
 msgstr "내 필요에 기반한 정보 얻기"
-
-#: lib/components/onboarding/onboarding_component.js:13
-msgid "Get trusted information"
-msgstr ""
 
 #: lib/components/recommended_topics/call_to_action.js:74
 msgid "Go back to questions"
@@ -239,12 +227,6 @@ msgstr "응급상황 서비스 (9-1-1)에 관한 정보"
 #: lib/components/help/help_component.js:29
 msgid "Information on helplines"
 msgstr "전화 상담 서비스에 관한 정보"
-
-#: lib/components/onboarding/onboarding_component.js:14
-msgid ""
-"Learn about employment, health care, and everything else to start your new "
-"life in British Columbia"
-msgstr ""
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -439,12 +421,14 @@ msgstr "웹:"
 msgid ""
 "Answer a few optional questions to get tailored recommendations for your "
 "needs."
-msgstr "몇 가지 질문에 답하는 것만으로 당신의 필요에 꼭 맞는 추천을 받을 수 있습니다."
+msgstr ""
+"몇 가지 질문에 답하는 것만으로 당신의 필요에 꼭 맞는 추천을 받을 수 있습니다."
 
 #: lib/components/onboarding/onboarding_component.js:29
 msgid ""
 "Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr "Arrival Advisor가 새로운 커뮤니티 적응을 위한 믿음직한 가이드가 되어드립니다."
+msgstr ""
+"Arrival Advisor가 새로운 커뮤니티 적응을 위한 믿음직한 가이드가 되어드립니다."
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics that you find helpful for future use."
