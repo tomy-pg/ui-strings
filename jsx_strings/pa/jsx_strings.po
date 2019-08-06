@@ -150,14 +150,6 @@ msgstr ""
 msgid "Find a settlement agency near me"
 msgstr "ਮੇਰੇ ਨੇੜੇ ਸੈਟਲਮੈਂਟ ਏਜੰਸੀ ਲੱਭੋ"
 
-#: lib/components/onboarding/onboarding_component.js:19
-msgid "Find helpful services nearby"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:20
-msgid "Find organizations that can help you settle into your new community."
-msgstr ""
-
 #: lib/components/topics/task_detail_content_component.js:103
 msgid "Find related services near me"
 msgstr "ਮੇਰੇ ਨੇੜੇ ਸੰਬੰਧਿਤ ਸੇਵਾਵਾਂ ਲੱਭੋ"
@@ -192,10 +184,6 @@ msgstr "ਸ਼ੁਰੂ ਕਰੀਏ"
 #: lib/components/recommended_topics/call_to_action.js:36
 msgid "Get information based on your needs"
 msgstr "ਤੁਹਾਡੀਆਂ ਲੋੜਾਂ ਦੇ ਮੁਤਾਬਕ ਜਾਣਕਾਰੀ ਲਵੋ"
-
-#: lib/components/onboarding/onboarding_component.js:13
-msgid "Get trusted information"
-msgstr ""
 
 #: lib/components/recommended_topics/call_to_action.js:74
 msgid "Go back to questions"
@@ -237,12 +225,6 @@ msgstr "ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ (9-1-1) ਬਾਰੇ ਜ�
 #: lib/components/help/help_component.js:29
 msgid "Information on helplines"
 msgstr "ਮਦਦ-ਲਾਈਨ ਬਾਰੇ ਜਾਣਕਾਰੀ"
-
-#: lib/components/onboarding/onboarding_component.js:14
-msgid ""
-"Learn about employment, health care, and everything else to start your new "
-"life in British Columbia"
-msgstr ""
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -435,14 +417,12 @@ msgstr "ਵੈੱਬ:"
 msgid ""
 "Answer a few optional questions to get tailored recommendations for your "
 "needs."
-msgstr ""
-"ਕੁਝ ਚੋਣਵੇਂ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇ ਕੇ ਆਪਣੀ ਲੋੜ ਮੁਤਾਬਕ ਖਾਸ ਬਣਾਈਆਂ ਸਿਫਾਰਸ਼ਾਂ ਲਵੋ।"
+msgstr "ਕੁਝ ਚੋਣਵੇਂ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇ ਕੇ ਆਪਣੀ ਲੋੜ ਮੁਤਾਬਕ ਖਾਸ ਬਣਾਈਆਂ ਸਿਫਾਰਸ਼ਾਂ ਲਵੋ।"
 
 #: lib/components/onboarding/onboarding_component.js:29
 msgid ""
 "Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr ""
-"Arrival Advisor ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਲਈ ਗਾਈਡ ਹੈ।"
+msgstr "Arrival Advisor ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਲਈ ਗਾਈਡ ਹੈ।"
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics that you find helpful for future use."
@@ -453,8 +433,7 @@ msgid ""
 "Find service providers near you that can help you through your settlement "
 "journey."
 msgstr ""
-"ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਪੂਰਕ ਲੱਭੋ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਵਿੱਚ ਤੁਹਾਡੀ "
-"ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ।"
+"ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਪੂਰਕ ਲੱਭੋ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ।"
 
 #: lib/components/onboarding/onboarding_component.js:44
 #: lib/components/welcome/welcome_component.js:42
