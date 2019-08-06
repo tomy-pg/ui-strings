@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-13 13:45-0800\n"
+"POT-Creation-Date: 2019-08-06 12:45-0700\n"
 "PO-Revision-Date: 2019-08-01 22:34+0000\n"
 "Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
 "Language-Team: Chinese (Traditional) <https://translate.peacegeeks.org/"
@@ -14,12 +14,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.5.1\n"
 
-#: lib/components/header_menu/header_menu_component.js:45
+#: lib/components/header_menu/header_menu_component.js:43
 msgid "ABOUT THE APP"
 msgstr "關於此應用程式"
 
-#: lib/components/about/about_component.js:16
-#: lib/components/header_menu/header_menu_component.js:50
+#: lib/components/about/about_component.js:21
+#: lib/components/header_menu/header_menu_component.js:48
 msgid "About Arrival Advisor"
 msgstr "有關 Arrival Advisor"
 
@@ -27,7 +27,12 @@ msgstr "有關 Arrival Advisor"
 msgid "An error has occured."
 msgstr "發生錯誤。"
 
-#: lib/components/onboarding/onboarding_component.js:26
+#: lib/components/onboarding/onboarding_component.js:33
+msgid ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+msgstr "回答幾個複選題，將可獲得您個人專屬的服務推薦清單。"
+
 #: lib/components/recommended_topics/call_to_action.js:46
 msgid ""
 "Answer a few questions about your situation to get personalized "
@@ -41,7 +46,7 @@ msgstr ""
 msgid "Answer questions"
 msgstr "回答問題"
 
-#: lib/components/disclaimer/disclaimer_component.js:15
+#: lib/components/disclaimer/disclaimer_component.js:20
 msgid ""
 "Arrival Advisor contains information from the BC Government’s Newcomer’s "
 "Guide, available at <0>www.welcomebc.ca</0>, and the BC211 database of "
@@ -50,7 +55,7 @@ msgstr ""
 "Arrival Advisor 訊息包含由不列顛哥倫比亞省（BC省）政府新移民指南（<0>www."
 "welcomebc.ca</0>），以及服務者所提供的BC211數據資料庫（<1>www.bc211.ca</1>）"
 
-#: lib/components/about/about_component.js:19
+#: lib/components/about/about_component.js:24
 msgid ""
 "Arrival Advisor is a free, multilingual, mobile app that helps immigrants "
 "and refugees in British Columbia, Canada find information and services to "
@@ -63,7 +68,12 @@ msgstr ""
 "目前提供英語，法語（加拿大）和阿拉伯語版本，並即將提供簡體中文、繁體中文、韓"
 "文、旁遮普文及他加祿文等版本。"
 
-#: lib/components/disclaimer/disclaimer_component.js:33
+#: lib/components/onboarding/onboarding_component.js:29
+msgid ""
+"Arrival Advisor is your go-to guide to getting settled in your new community."
+msgstr "Arrival Advisor 是您在新社區定居的首選指南。"
+
+#: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
 "Arrival Advisor respects and maintains the privacy and anonymity of its "
 "users. Users do not need to provide personal information in order to use the "
@@ -85,8 +95,7 @@ msgstr ""
 "身份。加拿大移民，難民和公民部也不會將此資訊用於其他目的，或用於任何移民相關"
 "決定。"
 
-#: lib/components/onboarding/onboarding_component.js:112
-#: lib/components/questionnaire/questionnaire_component.js:110
+#: lib/components/questionnaire/questionnaire_component.js:107
 msgid "Back"
 msgstr "返回"
 
@@ -102,11 +111,15 @@ msgstr "新增最愛"
 msgid "Bookmark removed"
 msgstr "移除最愛"
 
+#: lib/components/onboarding/onboarding_component.js:41
+msgid "Bookmark the topics that you find helpful for future use."
+msgstr "您可藉由我的最愛標記重要主題以便日後查詢。"
+
 #: lib/components/help/help_component.js:33
 msgid "Contact Arrival Advisor team"
 msgstr "聯繫Arrival Advisor團隊"
 
-#: lib/components/welcome/welcome_component.js:49
+#: lib/components/welcome/welcome_component.js:54
 msgid "Created by"
 msgstr "創建者"
 
@@ -114,22 +127,18 @@ msgstr "創建者"
 msgid "Delete all user data"
 msgstr "刪除所有用戶數據"
 
-#: lib/components/disclaimer/disclaimer_component.js:12
-#: lib/components/header_menu/header_menu_component.js:51
+#: lib/components/disclaimer/disclaimer_component.js:17
+#: lib/components/header_menu/header_menu_component.js:49
 msgid "Disclaimer"
 msgstr "免責聲明"
 
-#: lib/components/questionnaire/questionnaire_component.js:117
+#: lib/components/questionnaire/questionnaire_component.js:114
 msgid "Done"
 msgstr "完成"
 
 #: lib/components/explore/explore_detail_component.js:19
 msgid "EXPLORE TOPICS"
 msgstr "探索主題"
-
-#: lib/components/services/service_list_item_component.js:68
-msgid "Email:"
-msgstr "電子郵件"
 
 #: lib/components/help/help_component.js:59
 msgid "FOR ADDITIONAL ASSISTANCE"
@@ -145,11 +154,17 @@ msgstr "當定位系統收尋超時。Android手機使用者可將定位模式�
 msgid "Find a settlement agency near me"
 msgstr "就近尋找一家安置機構"
 
-#: lib/components/topics/task_detail_content_component.js:103
+#: lib/components/topics/task_detail_content_component.js:107
 msgid "Find related services near me"
 msgstr "尋找就近相關服務處"
 
-#: lib/components/about/about_component.js:26
+#: lib/components/onboarding/onboarding_component.js:37
+msgid ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+msgstr "查尋您附近的服務提供點以便安家樂業。"
+
+#: lib/components/about/about_component.js:31
 msgid ""
 "From finding a job to learning English, accessing health care, and more, "
 "Arrival Advisor has everything you need to get started in your new "
@@ -173,7 +188,6 @@ msgstr ""
 msgid "GETTING STARTED"
 msgstr "開始"
 
-#: lib/components/onboarding/onboarding_component.js:25
 #: lib/components/recommended_topics/call_to_action.js:36
 msgid "Get information based on your needs"
 msgstr "根據您的需求取得訊息"
@@ -192,7 +206,7 @@ msgid ""
 "in touch with a settlement worker."
 msgstr "幫助和支持"
 
-#: lib/components/about/about_component.js:46
+#: lib/components/about/about_component.js:51
 msgid ""
 "Information in this app is provided by the <0>Newcomers Guide to British "
 "Columbia</0> Copyright 2018 Province of British Columbia. All rights "
@@ -229,8 +243,7 @@ msgstr "多種語言健康資訊服務處"
 msgid "My bookmarks"
 msgstr "我的最愛"
 
-#: lib/components/onboarding/onboarding_component.js:118
-#: lib/components/questionnaire/questionnaire_component.js:100
+#: lib/components/questionnaire/questionnaire_component.js:97
 msgid "Next"
 msgstr "下一個"
 
@@ -250,7 +263,7 @@ msgstr "沒有可顯示的主題"
 msgid "Number of new topics recommended based on your answers:"
 msgstr "根據您的答案所推薦的幾項新主題"
 
-#: lib/components/questionnaire/questionnaire_component.js:78
+#: lib/components/questionnaire/questionnaire_component.js:75
 msgid "OF"
 msgstr "/"
 
@@ -266,7 +279,7 @@ msgstr ""
 "回答完部分問題後，針對您需求的建議項目將顯示在下方。以下是我們目前為大家推薦"
 "的一些主題："
 
-#: lib/components/disclaimer/disclaimer_component.js:45
+#: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
 "PeaceGeeks is not liable for any damages incurred as a result of or related "
 "to the use of the app. PeaceGeeks is not an immigration consultancy network, "
@@ -288,7 +301,7 @@ msgstr "請確保為 Arrival Advisor 開啟定位系統功能。"
 msgid "Police, fire and medical emergencies"
 msgstr "警察、火災、醫療急診"
 
-#: lib/components/header_menu/header_menu_component.js:52
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "Privacy policy"
 msgstr "隱私政策"
 
@@ -296,20 +309,20 @@ msgstr "隱私政策"
 msgid "RELATED TOPICS"
 msgstr "相關主題"
 
-#: lib/components/expandable_content/expandable_content_component.js:82
+#: lib/components/expandable_content/expandable_content_component.js:80
 msgid "Read less"
 msgstr "顯示更少"
 
-#: lib/components/expandable_content/expandable_content_component.js:80
+#: lib/components/expandable_content/expandable_content_component.js:78
 msgid "Read more"
 msgstr "顯示更多"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:38
-#: lib/components/topics/task_detail_content_component.js:63
+#: lib/components/topics/task_detail_content_component.js:62
 msgid "Recommended for you"
 msgstr "為您推薦"
 
-#: lib/components/header_menu/header_menu_component.js:24
+#: lib/components/header_menu/header_menu_component.js:22
 msgid "SELECT YOUR LANGUAGE"
 msgstr "選擇您的語言"
 
@@ -317,11 +330,11 @@ msgstr "選擇您的語言"
 msgid "Save important topics to build your personal plan for settlement."
 msgstr "儲存重要主題以建立個人定居計畫。"
 
-#: lib/components/welcome/welcome_component.js:31
+#: lib/components/welcome/welcome_component.js:36
 msgid "Select your language"
 msgstr "選擇您的語言"
 
-#: lib/components/about/about_component.js:55
+#: lib/components/about/about_component.js:60
 msgid "Server version:"
 msgstr "伺服器版本：{0}"
 
@@ -329,31 +342,38 @@ msgstr "伺服器版本：{0}"
 msgid "Services information and referral"
 msgstr "服務資訊和推薦"
 
-#: lib/components/welcome/welcome_component.js:27
+#: lib/components/welcome/welcome_component.js:32
 msgid "Settling in Canada is now easier."
 msgstr "現在，定居加拿大變得更容易"
 
-#: lib/components/questionnaire/questionnaire_component.js:100
+#: lib/components/questionnaire/questionnaire_component.js:97
 msgid "Skip"
 msgstr "跳過"
 
-#: lib/components/onboarding/onboarding_component.js:89
-msgid "Skip personalization"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:74
-msgid "Start personalization"
-msgstr ""
+#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/welcome/welcome_component.js:47
+msgid "Start"
+msgstr "開始"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:21
 msgid "Start settling in B.C."
 msgstr "開始在B.C.省定居"
 
-#: lib/components/header_menu/header_menu_component.js:53
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Terms of Use"
 msgstr ""
 
-#: lib/components/about/about_component.js:37
+#: lib/components/about/about_component.js:42
+#, fuzzy
+#| msgid ""
+#| "The Arrival Advisor app is created by PeaceGeeks in partnership with "
+#| "settlement organizations in Metro Vancouver, as well as immigrants and "
+#| "refugees like you. This project is possible thanks to funding by the "
+#| "Province of British Columbia and Google.org Canada in partnership with "
+#| "LEAP | Pecaut Centre for Social Impact. Special thanks also goes to "
+#| "individual donors who make this project possible. Arrival Advisor is an "
+#| "open-source project. You can <0>view it on GitHub</0> and <1>contact "
+#| "us</1> to learn how you can support this project."
 msgid ""
 "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 "settlement organizations in Metro Vancouver, as well as immigrants and "
@@ -361,7 +381,7 @@ msgid ""
 "Province of British Columbia and Google.org Canada in partnership with LEAP "
 "| Pecaut Centre for Social Impact. Special thanks also goes to individual "
 "donors who make this project possible. Arrival Advisor is an open-source "
-"project. You can <0>view it on GitHub</0> and <1>contact us</1> to learn how "
+"project. You can view it on <0>GitHub</0> and <1>contact us</1> to learn how "
 "you can support this project."
 msgstr ""
 "Arrival Advisor 應用程式是 PeaceGeeks 與大溫哥華地區（以下簡稱大溫地區）的定"
@@ -370,7 +390,7 @@ msgstr ""
 "中心的資助。特別感謝使這個項目成功的個人捐助者。Arrival Advisor 是一個開放式"
 "專案。你可以在 <0>Github</0>查看它或<1>聯絡</1>我們來了解如何贊助此專案。"
 
-#: lib/components/disclaimer/disclaimer_component.js:22
+#: lib/components/disclaimer/disclaimer_component.js:27
 msgid ""
 "The app provides information about relevant newcomer services, and is "
 "intended for general guidance and reference only. While we aim to provide "
@@ -388,7 +408,7 @@ msgstr ""
 "薦或背書該程式中所列入的服務資訊。 用戶需自行承擔使用此應用程式所搜尋之服務風"
 "險。"
 
-#: lib/components/about/about_component.js:51
+#: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
 msgstr "這是 Arrival Advisor 版本："
 
@@ -396,32 +416,26 @@ msgstr "這是 Arrival Advisor 版本："
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新我的推薦信息"
 
-#: lib/components/services/service_list_item_component.js:57
-msgid "Web:"
-msgstr "網址："
+#: lib/components/about/about_component.js:42
+#~ msgid ""
+#~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
+#~ "settlement organizations in Metro Vancouver, as well as immigrants and "
+#~ "refugees like you. This project is possible thanks to funding by the "
+#~ "Province of British Columbia and Google.org Canada in partnership with "
+#~ "LEAP | Pecaut Centre for Social Impact. Special thanks also goes to "
+#~ "individual donors who make this project possible. Arrival Advisor is an "
+#~ "open-source project. You can <0>view it on GitHub</0> and <1>contact "
+#~ "us</1> to learn how you can support this project."
+#~ msgstr ""
+#~ "Arrival Advisor 應用程式是 PeaceGeeks 與大溫哥華地區（以下簡稱大溫地區）的"
+#~ "定居／安置所提供者們，以及像您一樣的移民或難民共同合作設計的。此專案計劃得"
+#~ "益於不列顛哥倫比亞省（BC省）和 Google.org Canada 與 LEAP | Pecaul Centre "
+#~ "社會影響中心的資助。特別感謝使這個項目成功的個人捐助者。Arrival Advisor 是"
+#~ "一個開放式專案。你可以在 <0>Github</0>查看它或<1>聯絡</1>我們來了解如何贊"
+#~ "助此專案。"
 
-#: lib/components/onboarding/onboarding_component.js:33
-msgid ""
-"Answer a few optional questions to get tailored recommendations for your "
-"needs."
-msgstr "回答幾個複選題，將可獲得您個人專屬的服務推薦清單。"
+#~ msgid "Email:"
+#~ msgstr "電子郵件"
 
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr "Arrival Advisor 是您在新社區定居的首選指南。"
-
-#: lib/components/onboarding/onboarding_component.js:41
-msgid "Bookmark the topics that you find helpful for future use."
-msgstr "您可藉由我的最愛標記重要主題以便日後查詢。"
-
-#: lib/components/onboarding/onboarding_component.js:37
-msgid ""
-"Find service providers near you that can help you through your settlement "
-"journey."
-msgstr "查尋您附近的服務提供點以便安家樂業。"
-
-#: lib/components/onboarding/onboarding_component.js:44
-#: lib/components/welcome/welcome_component.js:42
-msgid "Start"
-msgstr "開始"
+#~ msgid "Web:"
+#~ msgstr "網址："

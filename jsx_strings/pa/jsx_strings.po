@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-13 13:45-0800\n"
+"POT-Creation-Date: 2019-08-06 12:45-0700\n"
 "PO-Revision-Date: 2019-08-01 22:55+0000\n"
 "Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
 "Language-Team: Punjabi <https://translate.peacegeeks.org/projects/ui-strings/"
@@ -14,12 +14,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.5.1\n"
 
-#: lib/components/header_menu/header_menu_component.js:45
+#: lib/components/header_menu/header_menu_component.js:43
 msgid "ABOUT THE APP"
 msgstr "ਐਪ ਬਾਰੇ"
 
-#: lib/components/about/about_component.js:16
-#: lib/components/header_menu/header_menu_component.js:50
+#: lib/components/about/about_component.js:21
+#: lib/components/header_menu/header_menu_component.js:48
 msgid "About Arrival Advisor"
 msgstr "Arrival Advisor ਬਾਰੇ"
 
@@ -27,7 +27,12 @@ msgstr "Arrival Advisor ਬਾਰੇ"
 msgid "An error has occured."
 msgstr "ਗਲਤੀ ਹੋਈ ਹੈ।"
 
-#: lib/components/onboarding/onboarding_component.js:26
+#: lib/components/onboarding/onboarding_component.js:33
+msgid ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+msgstr "ਕੁਝ ਚੋਣਵੇਂ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇ ਕੇ ਆਪਣੀ ਲੋੜ ਮੁਤਾਬਕ ਖਾਸ ਬਣਾਈਆਂ ਸਿਫਾਰਸ਼ਾਂ ਲਵੋ।"
+
 #: lib/components/recommended_topics/call_to_action.js:46
 msgid ""
 "Answer a few questions about your situation to get personalized "
@@ -41,7 +46,7 @@ msgstr ""
 msgid "Answer questions"
 msgstr "ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ"
 
-#: lib/components/disclaimer/disclaimer_component.js:15
+#: lib/components/disclaimer/disclaimer_component.js:20
 msgid ""
 "Arrival Advisor contains information from the BC Government’s Newcomer’s "
 "Guide, available at <0>www.welcomebc.ca</0>, and the BC211 database of "
@@ -50,7 +55,7 @@ msgstr ""
 "Arrival Advisor ਵਿੱਚ ਬੀ.ਸੀ. ਸਰਕਾਰੀ ਦੀ ਨਵੇ ਆਇਆ ਲਈ ਗਾਈਡ <0>www.welcomebc.ca</0> "
 "ਅਤੇ <1>www.bc211.ca</1> ਉੱਤੇ ਮੌਜੂਦ ਸੇਵਾ ਦੇਣ ਵਾਲਿਆਂ ਦੇ BC211 ਡਾਟਾਬੇਸ ਤੋਂ ਜਾਣਕਾਰੀ ਲਈ ਗਈ ਹੈ।"
 
-#: lib/components/about/about_component.js:19
+#: lib/components/about/about_component.js:24
 msgid ""
 "Arrival Advisor is a free, multilingual, mobile app that helps immigrants "
 "and refugees in British Columbia, Canada find information and services to "
@@ -63,7 +68,12 @@ msgstr ""
 "ਐਪ ਇਸ ਵੇਲੇ ਅੰਗਰੇਜੀ, ਫਰੈਂਚ (ਕੈਨੇਡਾ) ਅਤੇ ਅਰਬੀ ਵਿੱਚ ਹੈ। ਇਹ ਛੇਤੀ ਹੀ ਚੀਨੀ ਸਰਲ, ਚੀਨੀ ਰਿਵਾਇਤੀ, "
 "ਕੋਰੀਆਈ, ਪੰਜਾਬੀ ਅਤੇ ਟਾਗਾਲੋਗ ਵਿੱਚ ਉਪਲਬਧ ਹੋਵੇਗੀ।"
 
-#: lib/components/disclaimer/disclaimer_component.js:33
+#: lib/components/onboarding/onboarding_component.js:29
+msgid ""
+"Arrival Advisor is your go-to guide to getting settled in your new community."
+msgstr "Arrival Advisor ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਲਈ ਗਾਈਡ ਹੈ।"
+
+#: lib/components/disclaimer/disclaimer_component.js:38
 msgid ""
 "Arrival Advisor respects and maintains the privacy and anonymity of its "
 "users. Users do not need to provide personal information in order to use the "
@@ -88,8 +98,7 @@ msgstr ""
 "ਰਿਫ਼ਿਊਜ਼ੀ ਅਤੇ ਸਿਟੀਜ਼ਨਸ਼ਿਪ ਕੈਨੇਡਾ ਵਲੋਂ ਕਿਸੇ ਵੀ ਹੋਰ ਮਕਸਦ ਨਹੀਂ ਨਹੀਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਨਾ ਹੀ "
 "ਕਿਸੇ ਵੀ ਇੰਮੀਗਰੇਸ਼ਨ ਫੈਸਲੇ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।"
 
-#: lib/components/onboarding/onboarding_component.js:112
-#: lib/components/questionnaire/questionnaire_component.js:110
+#: lib/components/questionnaire/questionnaire_component.js:107
 msgid "Back"
 msgstr "ਅੱਗੇ"
 
@@ -105,11 +114,15 @@ msgstr "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ"
 msgid "Bookmark removed"
 msgstr "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ"
 
+#: lib/components/onboarding/onboarding_component.js:41
+msgid "Bookmark the topics that you find helpful for future use."
+msgstr "ਜੋ ਤੁਹਾਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਵਰਤੋਂ ਲਈ ਮਦਦਗਾਰ ਲੱਗਦੇ ਹਨ, ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ।"
+
 #: lib/components/help/help_component.js:33
 msgid "Contact Arrival Advisor team"
 msgstr "Arrival Advisor ਟੀਮ ਨਾਲ ਸੰਪਰਕ ਕਰੋ"
 
-#: lib/components/welcome/welcome_component.js:49
+#: lib/components/welcome/welcome_component.js:54
 msgid "Created by"
 msgstr "ਬਣਾਇਆ"
 
@@ -117,22 +130,18 @@ msgstr "ਬਣਾਇਆ"
 msgid "Delete all user data"
 msgstr "ਸਾਰਾ ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਮਿਟਾਓ"
 
-#: lib/components/disclaimer/disclaimer_component.js:12
-#: lib/components/header_menu/header_menu_component.js:51
+#: lib/components/disclaimer/disclaimer_component.js:17
+#: lib/components/header_menu/header_menu_component.js:49
 msgid "Disclaimer"
 msgstr "ਬੇਦਾਅਵਾ"
 
-#: lib/components/questionnaire/questionnaire_component.js:117
+#: lib/components/questionnaire/questionnaire_component.js:114
 msgid "Done"
 msgstr "ਮੁਕੰਮਲ"
 
 #: lib/components/explore/explore_detail_component.js:19
 msgid "EXPLORE TOPICS"
 msgstr "ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ"
-
-#: lib/components/services/service_list_item_component.js:68
-msgid "Email:"
-msgstr "ਈਮੇਲ:"
 
 #: lib/components/help/help_component.js:59
 msgid "FOR ADDITIONAL ASSISTANCE"
@@ -150,11 +159,18 @@ msgstr ""
 msgid "Find a settlement agency near me"
 msgstr "ਮੇਰੇ ਨੇੜੇ ਸੈਟਲਮੈਂਟ ਏਜੰਸੀ ਲੱਭੋ"
 
-#: lib/components/topics/task_detail_content_component.js:103
+#: lib/components/topics/task_detail_content_component.js:107
 msgid "Find related services near me"
 msgstr "ਮੇਰੇ ਨੇੜੇ ਸੰਬੰਧਿਤ ਸੇਵਾਵਾਂ ਲੱਭੋ"
 
-#: lib/components/about/about_component.js:26
+#: lib/components/onboarding/onboarding_component.js:37
+msgid ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+msgstr ""
+"ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਪੂਰਕ ਲੱਭੋ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ।"
+
+#: lib/components/about/about_component.js:31
 msgid ""
 "From finding a job to learning English, accessing health care, and more, "
 "Arrival Advisor has everything you need to get started in your new "
@@ -180,7 +196,6 @@ msgstr ""
 msgid "GETTING STARTED"
 msgstr "ਸ਼ੁਰੂ ਕਰੀਏ"
 
-#: lib/components/onboarding/onboarding_component.js:25
 #: lib/components/recommended_topics/call_to_action.js:36
 msgid "Get information based on your needs"
 msgstr "ਤੁਹਾਡੀਆਂ ਲੋੜਾਂ ਦੇ ਮੁਤਾਬਕ ਜਾਣਕਾਰੀ ਲਵੋ"
@@ -201,7 +216,7 @@ msgstr ""
 "ਜੇ ਤੁਹਾਨੂੰ ਕੈਨੇਡਾ ਵਿੱਚ ਸੈਟਲਮੈਂਟ ਨਾਲ ਔਖਿਆਈ ਆ ਰਹੀ ਹੈ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਸੈਟਲਮੈਂਟ ਵਰਕਰ ਨਾਲ ਸੰਪਰਕ ਕਰਨ "
 "ਦਾ ਸੁਝਾਅ ਦਿੰਦੇ ਹਾਂ।"
 
-#: lib/components/about/about_component.js:46
+#: lib/components/about/about_component.js:51
 msgid ""
 "Information in this app is provided by the <0>Newcomers Guide to British "
 "Columbia</0> Copyright 2018 Province of British Columbia. All rights "
@@ -238,8 +253,7 @@ msgstr "ਬਹੁ-ਭਾਸ਼ਾਈ ਸਿਹਤ ਜਾਣਕਾਰੀ ਸੇਵ�
 msgid "My bookmarks"
 msgstr "ਮੇਰੇ ਬੁੱਕਮਾਰਕ"
 
-#: lib/components/onboarding/onboarding_component.js:118
-#: lib/components/questionnaire/questionnaire_component.js:100
+#: lib/components/questionnaire/questionnaire_component.js:97
 msgid "Next"
 msgstr "ਅੱਗੇ"
 
@@ -259,7 +273,7 @@ msgstr "ਵੇਖਾਉਣ ਲਈ ਕੋਈ ਵਿਸ਼ਾ ਨਹੀਂ ਹੈ"
 msgid "Number of new topics recommended based on your answers:"
 msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਨਵੇਂ ਵਿਸ਼ਿਆਂ ਦੀ ਗਿਣਤੀ:"
 
-#: lib/components/questionnaire/questionnaire_component.js:78
+#: lib/components/questionnaire/questionnaire_component.js:75
 msgid "OF"
 msgstr "/"
 
@@ -275,7 +289,7 @@ msgstr ""
 "ਜਦੋਂ ਤੁਸੀਂ ਕੁਝ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇ ਦਿੱਤੇ ਤਾਂ ਤੁਹਾਡੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਹੇਠਾਂ ਦਿਖਾਈਆਂ ਜਾਣਗੀਆਂ। ਹੁਣ ਇਹ ਕੁਝ "
 "ਵਿਸ਼ੇ ਹਨ, ਜੋ ਕਿ ਅਸੀਂ ਹਰੇਕ ਲਈ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ:"
 
-#: lib/components/disclaimer/disclaimer_component.js:45
+#: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
 "PeaceGeeks is not liable for any damages incurred as a result of or related "
 "to the use of the app. PeaceGeeks is not an immigration consultancy network, "
@@ -298,7 +312,7 @@ msgstr "ਯਕੀਨੀ ਬਣਾਓ ਕਿ Arrival Advisor ਲਈ ਟਿਕਾ�
 msgid "Police, fire and medical emergencies"
 msgstr "ਪੁਲਸ, ਅੱਗ ਬਝਾਉਣ ਅਤੇ ਮੈਡੀਕਲ ਐਮਰਜੈਂਸੀ"
 
-#: lib/components/header_menu/header_menu_component.js:52
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "Privacy policy"
 msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 
@@ -306,20 +320,20 @@ msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 msgid "RELATED TOPICS"
 msgstr "ਸੰਬੰਧਿਤ ਵਿਸ਼ੇ"
 
-#: lib/components/expandable_content/expandable_content_component.js:82
+#: lib/components/expandable_content/expandable_content_component.js:80
 msgid "Read less"
 msgstr "ਘੱਟ ਪੜ੍ਹੋ"
 
-#: lib/components/expandable_content/expandable_content_component.js:80
+#: lib/components/expandable_content/expandable_content_component.js:78
 msgid "Read more"
 msgstr "ਵੱਧ ਪੜ੍ਹੋ"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:38
-#: lib/components/topics/task_detail_content_component.js:63
+#: lib/components/topics/task_detail_content_component.js:62
 msgid "Recommended for you"
 msgstr "ਤੁਹਾਡੇ ਲਈ ਸਿਫਾਰਸ਼ਾਂ ਹਨ"
 
-#: lib/components/header_menu/header_menu_component.js:24
+#: lib/components/header_menu/header_menu_component.js:22
 msgid "SELECT YOUR LANGUAGE"
 msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
 
@@ -327,11 +341,11 @@ msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
 msgid "Save important topics to build your personal plan for settlement."
 msgstr "ਸੈਟਲਮੈਂਟ ਲਈ ਤੁਹਾਡੀ ਨਿੱਜੀ ਵਿਓਂਤ ਬਣਾਉਣ ਲਈ ਖਾਸ ਵਿਸ਼ਿਆਂ ਨੂੰ ਸੰਭਾਲੋ।"
 
-#: lib/components/welcome/welcome_component.js:31
+#: lib/components/welcome/welcome_component.js:36
 msgid "Select your language"
 msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
 
-#: lib/components/about/about_component.js:55
+#: lib/components/about/about_component.js:60
 msgid "Server version:"
 msgstr "ਸਰਵਰ ਵਰਜ਼ਨ: {0}"
 
@@ -339,31 +353,38 @@ msgstr "ਸਰਵਰ ਵਰਜ਼ਨ: {0}"
 msgid "Services information and referral"
 msgstr "ਸੇਵਾਵਾਂ ਜਾਣਕਾਰੀ ਅਤੇ ਹਵਾਲੇ"
 
-#: lib/components/welcome/welcome_component.js:27
+#: lib/components/welcome/welcome_component.js:32
 msgid "Settling in Canada is now easier."
 msgstr "ਕੈਨੇਡਾ ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਹੁਣ ਹੋਰ ਵੀ ਸੌਖਾ ਹੋਇਆ।"
 
-#: lib/components/questionnaire/questionnaire_component.js:100
+#: lib/components/questionnaire/questionnaire_component.js:97
 msgid "Skip"
 msgstr "ਛੱਡੋ"
 
-#: lib/components/onboarding/onboarding_component.js:89
-msgid "Skip personalization"
-msgstr ""
-
-#: lib/components/onboarding/onboarding_component.js:74
-msgid "Start personalization"
-msgstr ""
+#: lib/components/onboarding/onboarding_component.js:44
+#: lib/components/welcome/welcome_component.js:47
+msgid "Start"
+msgstr "ਸ਼ੁਰੂ ਕਰੋ"
 
 #: lib/components/recommended_topics/recommended_topics_component.js:21
 msgid "Start settling in B.C."
 msgstr "ਬੀ.ਸੀ. ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਸ਼ੁਰੂ ਕਰੋ"
 
-#: lib/components/header_menu/header_menu_component.js:53
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Terms of Use"
 msgstr ""
 
-#: lib/components/about/about_component.js:37
+#: lib/components/about/about_component.js:42
+#, fuzzy
+#| msgid ""
+#| "The Arrival Advisor app is created by PeaceGeeks in partnership with "
+#| "settlement organizations in Metro Vancouver, as well as immigrants and "
+#| "refugees like you. This project is possible thanks to funding by the "
+#| "Province of British Columbia and Google.org Canada in partnership with "
+#| "LEAP | Pecaut Centre for Social Impact. Special thanks also goes to "
+#| "individual donors who make this project possible. Arrival Advisor is an "
+#| "open-source project. You can <0>view it on GitHub</0> and <1>contact "
+#| "us</1> to learn how you can support this project."
 msgid ""
 "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 "settlement organizations in Metro Vancouver, as well as immigrants and "
@@ -371,7 +392,7 @@ msgid ""
 "Province of British Columbia and Google.org Canada in partnership with LEAP "
 "| Pecaut Centre for Social Impact. Special thanks also goes to individual "
 "donors who make this project possible. Arrival Advisor is an open-source "
-"project. You can <0>view it on GitHub</0> and <1>contact us</1> to learn how "
+"project. You can view it on <0>GitHub</0> and <1>contact us</1> to learn how "
 "you can support this project."
 msgstr ""
 "Arrival Advisor ਨੂੰ ਪੀਸਗੀਕਸ ਵਲੋਂ ਮੈਟਰੋ ਵੈਨਕੂਵਰ ਵਿੱਚ ਸਟੈਲਮੈਂਟ ਸੰਗਠਨਾਂ ਦੀ ਹਿੱਸੇਦਾਰ ਦੇ ਨਾਲ ਨਾਲ "
@@ -382,7 +403,7 @@ msgstr ""
 "ਨੂੰ <0>Github</0> ਉੱਤੇ ਵੇਖ ਸਕਦੇ ਹੋ ਅਤੇ ਇਸ ਪ੍ਰੋਜੈਕਟ ਲਈ ਤੁਸੀਂ ਸਹਿਯੋਗ ਕਿਵੇਂ ਕਰੋ, ਬਾਰੇ ਸਿੱਖਣ ਲਈ "
 "<1>ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</1>।"
 
-#: lib/components/disclaimer/disclaimer_component.js:22
+#: lib/components/disclaimer/disclaimer_component.js:27
 msgid ""
 "The app provides information about relevant newcomer services, and is "
 "intended for general guidance and reference only. While we aim to provide "
@@ -401,7 +422,7 @@ msgstr ""
 "ਵਿੱਚ ਸੇਵਾਵਾਂ ਤੇ ਸਰੋਤਾਂ ਦੇ ਸ਼ਾਮਲ ਹੋਣ ਦਾ ਅਰਥ ਉਹਨਾਂ ਦੀ ਹੋਰਨਾਂ ਦੀ ਬਜਾਏ ਤਸਦੀਕ ਜਾਂ ਸਿਫਾਰਸ਼ ਕਰਨਾ "
 "ਨਹੀਂ ਹੈ। ਐਪ ਰਾਹੀਂ ਲੱਭੀਆਂ ਗਈਆਂ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਵਰਤੋਂਕਾਰ ਦੇ ਖ਼ਤਰੇ ਦੇ ਅਧੀਨ ਹੈ।"
 
-#: lib/components/about/about_component.js:51
+#: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
 msgstr "ਇਹ Arrival Advisor ਦਾ ਵਰਜ਼ਨ: "
 
@@ -409,33 +430,27 @@ msgstr "ਇਹ Arrival Advisor ਦਾ ਵਰਜ਼ਨ: "
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "ਮੇਰੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ"
 
-#: lib/components/services/service_list_item_component.js:57
-msgid "Web:"
-msgstr "ਵੈੱਬ:"
+#: lib/components/about/about_component.js:42
+#~ msgid ""
+#~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
+#~ "settlement organizations in Metro Vancouver, as well as immigrants and "
+#~ "refugees like you. This project is possible thanks to funding by the "
+#~ "Province of British Columbia and Google.org Canada in partnership with "
+#~ "LEAP | Pecaut Centre for Social Impact. Special thanks also goes to "
+#~ "individual donors who make this project possible. Arrival Advisor is an "
+#~ "open-source project. You can <0>view it on GitHub</0> and <1>contact "
+#~ "us</1> to learn how you can support this project."
+#~ msgstr ""
+#~ "Arrival Advisor ਨੂੰ ਪੀਸਗੀਕਸ ਵਲੋਂ ਮੈਟਰੋ ਵੈਨਕੂਵਰ ਵਿੱਚ ਸਟੈਲਮੈਂਟ ਸੰਗਠਨਾਂ ਦੀ ਹਿੱਸੇਦਾਰ ਦੇ ਨਾਲ "
+#~ "ਨਾਲ ਤੁਹਾਡੇ ਵਰਗੇ ਇਮੀਗਰੈਂਟ ਤੇ ਰਿਊਫ਼ਜੀ ਨਾਲ ਮਿਲ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਇਹ ਪ੍ਰੋਜੈਕਟ ਸਮਾਜਿਕ ਅਸਰ ਲਈ "
+#~ "ਲੀਪ (LEAP) | ਪੀਕੌਟ ਸੈਂਟਰ (Pecaut Centre)ਨਾਲ ਹਿੱਸੇਦਾਰੀ ਵਿੱਚ ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਸੂਬੇ ਅਤੇ "
+#~ "Google.org Canada ਵਲੋਂ ਵਿੱਤੀ ਸਹਿਯੋਗ  ਕਰਕੇ ਸੰਭਵ ਹੋਇਆ ਹੈ। ਇਸ ਤੋਂ ਇਲਾਵਾ ਲੋਕਾਂ ਵਲੋਂ ਦਾਨ ਲਈ "
+#~ "ਖਾਸ ਧੰਨਵਾਦ ਹੈ, ਜਿਹਨਾਂ ਇਸ ਪ੍ਰੋਜੈਕਟ ਨੂੰ ਸੰਭਵ ਬਣਾਇਆ। Arrival Advisor ਖੁੱਲ੍ਹੇ-ਸਰੋਤ ਵਾਲਾ "
+#~ "ਪ੍ਰੋਜੈਕਟ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ <0>Github</0> ਉੱਤੇ ਵੇਖ ਸਕਦੇ ਹੋ ਅਤੇ ਇਸ ਪ੍ਰੋਜੈਕਟ ਲਈ ਤੁਸੀਂ ਸਹਿਯੋਗ ਕਿਵੇਂ "
+#~ "ਕਰੋ, ਬਾਰੇ ਸਿੱਖਣ ਲਈ <1>ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</1>।"
 
-#: lib/components/onboarding/onboarding_component.js:33
-msgid ""
-"Answer a few optional questions to get tailored recommendations for your "
-"needs."
-msgstr "ਕੁਝ ਚੋਣਵੇਂ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇ ਕੇ ਆਪਣੀ ਲੋੜ ਮੁਤਾਬਕ ਖਾਸ ਬਣਾਈਆਂ ਸਿਫਾਰਸ਼ਾਂ ਲਵੋ।"
+#~ msgid "Email:"
+#~ msgstr "ਈਮੇਲ:"
 
-#: lib/components/onboarding/onboarding_component.js:29
-msgid ""
-"Arrival Advisor is your go-to guide to getting settled in your new community."
-msgstr "Arrival Advisor ਤੁਹਾਡੀ ਨਵੀਂ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਲਈ ਗਾਈਡ ਹੈ।"
-
-#: lib/components/onboarding/onboarding_component.js:41
-msgid "Bookmark the topics that you find helpful for future use."
-msgstr "ਜੋ ਤੁਹਾਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਵਰਤੋਂ ਲਈ ਮਦਦਗਾਰ ਲੱਗਦੇ ਹਨ, ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ।"
-
-#: lib/components/onboarding/onboarding_component.js:37
-msgid ""
-"Find service providers near you that can help you through your settlement "
-"journey."
-msgstr ""
-"ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਪੂਰਕ ਲੱਭੋ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਸੈਟਲਮੈਂਟ ਯਾਤਰਾ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ।"
-
-#: lib/components/onboarding/onboarding_component.js:44
-#: lib/components/welcome/welcome_component.js:42
-msgid "Start"
-msgstr "ਸ਼ੁਰੂ ਕਰੋ"
+#~ msgid "Web:"
+#~ msgstr "ਵੈੱਬ:"
