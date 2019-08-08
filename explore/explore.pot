@@ -73,8 +73,6 @@ msgstr ""
 msgid "For example low-income, disabilities, youth"
 msgstr ""
 
-msgid ""
-msgstr ""
 msgid "THINGS TO DO RIGHT AWAY"
 msgstr ""
 msgid "SETTLING IN"
