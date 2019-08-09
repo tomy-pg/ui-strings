@@ -73,3 +73,64 @@ msgstr "申办驾驶执照、交通法规、基本保险"
 
 msgid "For example low-income, disabilities, youth"
 msgstr "例如：低收入、残疾人、青少年"
+
+msgid "THINGS TO DO RIGHT AWAY"
+msgstr "需要立即做的事情"
+
+msgid "SETTLING IN"
+msgstr "安家落户"
+
+msgid "EDUCATION"
+msgstr "教育"
+
+msgid "HEALTH CARE"
+msgstr "医疗保健"
+
+msgid "MONEY & BANKING"
+msgstr "货币与理财"
+
+msgid "HOUSING"
+msgstr "住房"
+
+msgid "EMPLOYMENT"
+msgstr "就业"
+
+msgid "LEGAL SYSTEM & IMMIGRATION"
+msgstr "法律制度和移民"
+
+msgid "DRIVING"
+msgstr "汽车驾驶"
+
+msgid "HELP FOR INDIVIDUALS & FAMILIES"
+msgstr "帮助个人与家庭"
+
+msgid "IMPORTANT TASKS FOR SETTLING IN YOUR COMMUNITY"
+msgstr "在您的社区安顿下来需要做的重要事项"
+
+msgid "SOCIAL CUSTOMS AND GETTING AROUND YOUR COMMUNITY"
+msgstr "社会习俗与融入社区"
+
+msgid "LEARNING ENGLISH, SCHOOLS FOR CHILDREN, YOUTH AND ADULTS"
+msgstr "学习英语，适合儿童、青少年和成人上的学校"
+
+msgid "MEDICAL INSURANCE, FINDING A DOCTOR, MENTAL HEALTH"
+msgstr "医疗保险、找医生、心理健康"
+
+msgid "OPENING A BANK ACCOUNT, FILING TAXES"
+msgstr "开银行账户、报税"
+
+msgid "FINDING A PLACE TO RENT OR BUY, GETTING RENTAL ASSISTANCE"
+msgstr "找租房或买房、寻求租金资助"
+
+msgid "FINDING A JOB, WORKING AND WORKERS’ RIGHTS"
+msgstr "找工作、工作和工作者的权利"
+
+msgid "IMMIGRATION AND CITIZENSHIP, LEGAL SUPPORT, POLICE"
+msgstr "移民和公民、法律支持、警察"
+
+msgid "GETTING A DRIVER'S LICENCE, TRAFFIC LAWS, BASIC INSURANCE"
+msgstr "申办驾驶执照、交通法规、基本保险"
+
+msgid "FOR EXAMPLE LOW-INCOME, DISABILITIES, YOUTH"
+msgstr "例如：低收入、残疾人、青少年"
+

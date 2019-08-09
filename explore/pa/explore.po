@@ -73,3 +73,64 @@ msgstr "ਡਰਾਇਵਰ ਲਾਇਸੈਂਸ, ਟਰੈਫਿਕ ਕਨੂ�
 
 msgid "For example low-income, disabilities, youth"
 msgstr "ਜਿਵੇਂ ਘੱਟ-ਆਮਦਨ, ਅਪੰਗਤਾ, ਨੌਜਵਾਨ"
+
+msgid "THINGS TO DO RIGHT AWAY"
+msgstr "ਹੁਣੇ ਕਰਨ ਵਾਲੇ ਕੰਮ"
+
+msgid "SETTLING IN"
+msgstr "ਸੈਟਲ ਹੋਣਾ"
+
+msgid "EDUCATION"
+msgstr "ਸਿੱਖਿਆ"
+
+msgid "HEALTH CARE"
+msgstr "ਸਿਹਤ ਦੇਖਭਾਲ"
+
+msgid "MONEY & BANKING"
+msgstr "ਧਨ ਤੇ ਬੈਂਕਿੰਗ"
+
+msgid "HOUSING"
+msgstr "ਘਰ"
+
+msgid "EMPLOYMENT"
+msgstr "ਰੁਜ਼ਗਾਰ"
+
+msgid "LEGAL SYSTEM & IMMIGRATION"
+msgstr "ਕਾਨੂੰਨੀ ਸਿਸਟਮ ਅਤੇ ਇਮੀਗਰੇਸ਼ਨ"
+
+msgid "DRIVING"
+msgstr "ਡਰਾਇਵ ਕਰਨਾ"
+
+msgid "HELP FOR INDIVIDUALS & FAMILIES"
+msgstr "ਨਿੱਜੀ ਤੇ ਪਰਿਵਰਾਂ ਲਈ ਮਦਦ"
+
+msgid "IMPORTANT TASKS FOR SETTLING IN YOUR COMMUNITY"
+msgstr "ਤੁਹਾਡੀ ਕਮਿਊਨਟੀ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਲਈ ਖਾਸ ਕੰਮ"
+
+msgid "SOCIAL CUSTOMS AND GETTING AROUND YOUR COMMUNITY"
+msgstr "ਸਮਾਜਕ ਰੀਤੀ-ਰਿਵਾਜ ਅਤੇ ਤੁਹਾਡੇ ਭਾਈਚਾਰੇ ਦੁਆਲੇ ਮਿਲਣਾ"
+
+msgid "LEARNING ENGLISH, SCHOOLS FOR CHILDREN, YOUTH AND ADULTS"
+msgstr "ਅੰਗਰੇਜੀ ਸਿੱਖਣਾ, ਬੱਚਿਆਂ, ਨੌਜਵਾਨਾਂ ਅਤੇ ਬਾਲਗਾਂ ਲਈ ਸਕੂਲ"
+
+msgid "MEDICAL INSURANCE, FINDING A DOCTOR, MENTAL HEALTH"
+msgstr "ਮੈਡੀਕਲ ਇੰਸ਼ੋਅਰੈਂਸ, ਡਾਕਟਰ ਲੱਭਣਾ, ਦਿਮਾਗੀ ਸਿਹਤ"
+
+msgid "OPENING A BANK ACCOUNT, FILING TAXES"
+msgstr "ਬੈਂਕ ਖਾਤਾ ਖੋਲ੍ਹਣਾ, ਟੈਕਸਾਂ ਦੀ ਅਦਾਇਗੀ"
+
+msgid "FINDING A PLACE TO RENT OR BUY, GETTING RENTAL ASSISTANCE"
+msgstr "ਕਿਰਾਏ ਉੱਤੇ ਥਾਂ ਲੱਭਣਾ ਜਾਂ ਖਰੀਦਣਾ, ਕਿਰਾਏ ਦੇ ਮਕਾਨ ਲਈ ਸਹਾਇਤਾ"
+
+msgid "FINDING A JOB, WORKING AND WORKERS’ RIGHTS"
+msgstr "ਨੌਕਰੀ ਲੱਭਣੀ, ਕੰਮ ਕਰਨਾ ਅਤੇ ਵਰਕਰਜ਼ ਦੇ ਹੱਕ"
+
+msgid "IMMIGRATION AND CITIZENSHIP, LEGAL SUPPORT, POLICE"
+msgstr "ਇੰਮੀਗਰੇਸ਼ਨ ਅਤੇ ਸਿਟੀਜ਼ਨਸ਼ਿਪ, ਬਾਲ, ਨੌਜਵਾਨ ਤੇ ਬਾਲਗ"
+
+msgid "GETTING A DRIVER'S LICENCE, TRAFFIC LAWS, BASIC INSURANCE"
+msgstr "ਡਰਾਇਵਰ ਲਾਇਸੈਂਸ, ਟਰੈਫਿਕ ਕਨੂੰਨ, ਮੁੱਢਲਾ ਇੰਸ਼ੋਰੈਂਸ"
+
+msgid "FOR EXAMPLE LOW-INCOME, DISABILITIES, YOUTH"
+msgstr "ਜਿਵੇਂ ਘੱਟ-ਆਮਦਨ, ਅਪੰਗਤਾ, ਨੌਜਵਾਨ"
+
