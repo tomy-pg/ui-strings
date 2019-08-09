@@ -9,7 +9,7 @@ explore_path='./explore'
 
 combine_with_uppercase() {
     echo 
-    for locale in "${LOCALES_WITH_UPPERCASE[@]}"
+    for locale in "${LOCALES_WITHOUT_UPPERCASE[@]}"
     do 
         echo "combing uppercase msgid and msgstr with origin explore po files"
         append_to_explore_copy $locale
@@ -30,8 +30,7 @@ remove_explore_copy() {
 }
 
 help() {
-    echo "$0 ----combine-with-uppercase            to do "
-    echo "$0 --combine-no-uppercase          Nsgbto minimize diffs"
+    echo "$0 ----combine-explore-files   this will combine explore-copy with explore"
 }
 
 

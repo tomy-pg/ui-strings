@@ -73,3 +73,64 @@ msgstr "운전면허증 취득, 도로교통법, 기본 보험"
 
 msgid "For example low-income, disabilities, youth"
 msgstr "예: 저소득층, 장애인, 청소년"
+
+msgid "THINGS TO DO RIGHT AWAY"
+msgstr "지금 바로 해야 할 일들"
+
+msgid "SETTLING IN"
+msgstr "새로운 환경에의 적응"
+
+msgid "EDUCATION"
+msgstr "교육"
+
+msgid "HEALTH CARE"
+msgstr "의료 보건"
+
+msgid "MONEY & BANKING"
+msgstr "화폐와 금융"
+
+msgid "HOUSING"
+msgstr "주거"
+
+msgid "EMPLOYMENT"
+msgstr "고용"
+
+msgid "LEGAL SYSTEM & IMMIGRATION"
+msgstr "사법 제도와 이민"
+
+msgid "DRIVING"
+msgstr "운전"
+
+msgid "HELP FOR INDIVIDUALS & FAMILIES"
+msgstr "개인과 가족을 위한 지원"
+
+msgid "IMPORTANT TASKS FOR SETTLING IN YOUR COMMUNITY"
+msgstr "커뮤니티 정착에 필요한 중요 과제들"
+
+msgid "SOCIAL CUSTOMS AND GETTING AROUND YOUR COMMUNITY"
+msgstr "사회적 풍습과 지역 사회 둘러보기"
+
+msgid "LEARNING ENGLISH, SCHOOLS FOR CHILDREN, YOUTH AND ADULTS"
+msgstr "영어 학습, 아동과 청소년 또는 성인을 위한 교육 기관"
+
+msgid "MEDICAL INSURANCE, FINDING A DOCTOR, MENTAL HEALTH"
+msgstr "의료 보험, 병원 검색, 정신 건강"
+
+msgid "OPENING A BANK ACCOUNT, FILING TAXES"
+msgstr "은행 계좌 개설, 세금 신고서 제출"
+
+msgid "FINDING A PLACE TO RENT OR BUY, GETTING RENTAL ASSISTANCE"
+msgstr "공간 임차 또는 구매, 임차 지원 프로그램 이용"
+
+msgid "FINDING A JOB, WORKING AND WORKERS’ RIGHTS"
+msgstr "구직, 근로와 근로자 권리"
+
+msgid "IMMIGRATION AND CITIZENSHIP, LEGAL SUPPORT, POLICE"
+msgstr "이민과 시민권, 법률 자문, 경찰"
+
+msgid "GETTING A DRIVER'S LICENCE, TRAFFIC LAWS, BASIC INSURANCE"
+msgstr "운전면허증 취득, 도로교통법, 기본 보험"
+
+msgid "FOR EXAMPLE LOW-INCOME, DISABILITIES, YOUTH"
+msgstr "예: 저소득층, 장애인, 청소년"
+
