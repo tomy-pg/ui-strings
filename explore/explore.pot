@@ -75,41 +75,60 @@ msgstr ""
 
 msgid "THINGS TO DO RIGHT AWAY"
 msgstr ""
+
 msgid "SETTLING IN"
 msgstr ""
+
 msgid "EDUCATION"
 msgstr ""
+
 msgid "HEALTH CARE"
 msgstr ""
+
 msgid "MONEY & BANKING"
 msgstr ""
+
 msgid "HOUSING"
 msgstr ""
+
 msgid "EMPLOYMENT"
 msgstr ""
+
 msgid "LEGAL SYSTEM & IMMIGRATION"
 msgstr ""
+
 msgid "DRIVING"
 msgstr ""
+
 msgid "HELP FOR INDIVIDUALS & FAMILIES"
 msgstr ""
+
 msgid "IMPORTANT TASKS FOR SETTLING IN YOUR COMMUNITY"
 msgstr ""
+
 msgid "SOCIAL CUSTOMS AND GETTING AROUND YOUR COMMUNITY"
 msgstr ""
+
 msgid "LEARNING ENGLISH, SCHOOLS FOR CHILDREN, YOUTH AND ADULTS"
 msgstr ""
+
 msgid "MEDICAL INSURANCE, FINDING A DOCTOR, MENTAL HEALTH"
 msgstr ""
+
 msgid "OPENING A BANK ACCOUNT, FILING TAXES"
 msgstr ""
+
 msgid "FINDING A PLACE TO RENT OR BUY, GETTING RENTAL ASSISTANCE"
 msgstr ""
+
 msgid "FINDING A JOB, WORKING AND WORKERS’ RIGHTS"
 msgstr ""
+
 msgid "IMMIGRATION AND CITIZENSHIP, LEGAL SUPPORT, POLICE"
 msgstr ""
+
 msgid "GETTING A DRIVER'S LICENCE, TRAFFIC LAWS, BASIC INSURANCE"
 msgstr ""
+
 msgid "FOR EXAMPLE LOW-INCOME, DISABILITIES, YOUTH"
 msgstr ""
