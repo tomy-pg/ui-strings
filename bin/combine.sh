@@ -35,11 +35,8 @@ help() {
 }
 
 
-if [ "$1" == "--combine-with-uppercase" ]; then
+if [ "$1" == "--combine-explore-files" ]; then
     combine_with_uppercase
-elif [ "$1" == "--combine-no-uppercase" ]; then
-    help
-
 else 
     help
 

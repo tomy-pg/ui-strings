@@ -1,0 +1,61 @@
+
+msgid "THINGS TO DO RIGHT AWAY"
+msgstr "أمور يجب عملها على الفور"
+
+msgid "SETTLING IN"
+msgstr "تستقر في"
+
+msgid "EDUCATION"
+msgstr "التعليم"
+
+msgid "HEALTH CARE"
+msgstr "الرعاية الصحية"
+
+msgid "MONEY & BANKING"
+msgstr "المال والبنوك"
+
+msgid "HOUSING"
+msgstr "الإسكان"
+
+msgid "EMPLOYMENT"
+msgstr "توظيف"
+
+msgid "LEGAL SYSTEM & IMMIGRATION"
+msgstr "النظام القانوني والهجرة"
+
+msgid "DRIVING"
+msgstr "القيادة"
+
+msgid "HELP FOR INDIVIDUALS & FAMILIES"
+msgstr "مساعدة للأفراد والعائلات"
+
+msgid "IMPORTANT TASKS FOR SETTLING IN YOUR COMMUNITY"
+msgstr "مهام لا غنى عنها نحو الاستقرار في مجتمعك"
+
+msgid "SOCIAL CUSTOMS AND GETTING AROUND YOUR COMMUNITY"
+msgstr "العادات الاجتماعية والتنقل داخل مجتمعك"
+
+msgid "LEARNING ENGLISH, SCHOOLS FOR CHILDREN, YOUTH AND ADULTS"
+msgstr "تعلم اللغة الإنجليزية والمدارس للأطفال وللشباب وللكبار"
+
+msgid "MEDICAL INSURANCE, FINDING A DOCTOR, MENTAL HEALTH"
+msgstr "التأمين الطبي والبحث عن طبيب والصحة النفسية"
+
+msgid "OPENING A BANK ACCOUNT, FILING TAXES"
+msgstr "فتح حساب مصرفي وتقديم الإقرار الضريبي"
+
+msgid "FINDING A PLACE TO RENT OR BUY, GETTING RENTAL ASSISTANCE"
+msgstr "إيجاد مسكن للإيجار أو التملك والحصول على دعم في سداد الإيجار"
+
+msgid "FINDING A JOB, WORKING AND WORKERS’ RIGHTS"
+msgstr "البحث عن وظيفة والعمل وحقوق العاملين"
+
+msgid "IMMIGRATION AND CITIZENSHIP, LEGAL SUPPORT, POLICE"
+msgstr "الهجرة والجنسية والدعم القانوني والشرطة"
+
+msgid "GETTING A DRIVER'S LICENCE, TRAFFIC LAWS, BASIC INSURANCE"
+msgstr "الحصول على رخصة القيادة وقوانين المرور والتأمين الأساسي"
+
+msgid "FOR EXAMPLE LOW-INCOME, DISABILITIES, YOUTH"
+msgstr "على سبيل المثال ذوي الدخل المحدود وذوي الاحتياجات الخاصة والشباب"
+
