@@ -60,7 +60,7 @@ def replace_msgid_content(content):
 def replace_msgstr_content(content):
     new_msgstr_content = remove_msgstr(content)
     new_msgstr_content = replace_msg_value(new_msgstr_content)
-    new_msgstr_content = 'msgstr' + new_msgstr_content
+    new_msgstr_content = 'msgstr' + new_msgstr_content+'\n'
     return new_msgstr_content
 
 def remove_msgid(text):

@@ -11,29 +11,22 @@ combine_with_uppercase() {
     echo 
     for locale in "${LOCALES_WITH_UPPERCASE[@]}"
     do 
-        echo "lots of stuff"
-        create_explore_copy $locale
-        remove_original_explore $locale
-        rename_explore_copy $locale
+        echo "combing uppercase msgid and msgstr with origin explore po files"
+        append_to_explore_copy $locale
+        remove_explore_copy $locale
     done    
 }
 
-create_explore_copy() {
+append_to_explore_copy() {
     locale=$1
     echo
-    msgcat $explore_pot_file $explore_path/$locale/explore.po -o $explore_path/$locale/explore-copy.po
+    cat $explore_path/$locale/explore-copy.po >> $explore_path/$locale/explore.po
 }
 
-remove_original_explore() {
+remove_explore_copy() {
     locale=$1
     echo
-    rm -rf $explore_path/$locale/explore.po
-}
-
-rename_explore_copy() {
-    locale=$1
-    echo
-    mv $explore_path/$locale/explore-copy.po $explore_path/$locale/explore.po 
+    rm -rf $explore_path/$locale/explore-copy.po
 }
 
 help() {
