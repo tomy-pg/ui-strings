@@ -300,3 +300,16 @@ msgstr "This is Arrival Advisor version:"
 #: lib/components/recommended_topics/call_to_action.js:70
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "UPDATE MY RECOMMENDATIONS"
+
+#: lib/components/help/help_component.js:77
+msgid "Do you want to delete all user data from this phone? This includes which answers are chosen in the questionnaire and which topics are bookmarked."
+msgstr "Do you want to delete all user data from this phone? This includes which answers are chosen in the questionnaire and which topics are bookmarked."
+
+#: lib/components/help/help_component.js:81
+msgid "Cancel"
+msgstr "Cancel"
+
+#: lib/components/help/help_component.js:82
+msgid "Delete all user data"
+msgstr "Delete all user data"
+
