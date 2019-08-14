@@ -408,6 +408,18 @@ msgstr "Arrival Advisor版本："
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新向我推荐的信息"
 
+#: lib/components/help/help_component.js:77
+msgid ""
+"Do you want to delete all user data from this phone? This includes which "
+"answers are chosen in the questionnaire and which topics are bookmarked."
+msgstr ""
+"Do you want to delete all user data from this phone? This includes which "
+"answers are chosen in the questionnaire and which topics are bookmarked."
+
+#: lib/components/help/help_component.js:81
+msgid "Cancel"
+msgstr "Cancel"
+
 #: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
