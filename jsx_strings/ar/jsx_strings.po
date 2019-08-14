@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
 "PO-Revision-Date: 2019-08-14 16:44+0000\n"
-"Last-Translator: Rasmus Storjohann <rasmus@peacegeeks.org>\n"
+"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
 "Language-Team: Arabic <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/ar/>\n"
 "Language: ar\n"
@@ -377,8 +377,9 @@ msgid "Start settling in B.C."
 msgstr "بدء الاستقرار في بريتيش كولومبيا."
 
 #: lib/components/header_menu/header_menu_component.js:51
+#, fuzzy
 msgid "Terms of Use"
-msgstr ""
+msgstr "Terms of Use"
 
 #: lib/components/about/about_component.js:42
 msgid ""
