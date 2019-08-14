@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-08-01 22:55+0000\n"
-"Last-Translator: UserName LastName <tomy@peacegeeks.org>\n"
+"PO-Revision-Date: 2019-08-14 16:41+0000\n"
+"Last-Translator: Rasmus Storjohann <rasmus@peacegeeks.org>\n"
 "Language-Team: Punjabi <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/pa/>\n"
 "Language: pa\n"
@@ -439,10 +439,10 @@ msgstr ""
 "answers are chosen in the questionnaire and which topics are bookmarked."
 
 #: lib/components/help/help_component.js:81
+#, fuzzy
 msgid "Cancel"
 msgstr "Cancel"
 
-#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "
