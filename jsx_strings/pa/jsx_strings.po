@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-08-14 16:41+0000\n"
+"PO-Revision-Date: 2019-08-14 16:44+0000\n"
 "Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
 "Language-Team: Punjabi <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/pa/>\n"
@@ -371,8 +371,9 @@ msgid "Start settling in B.C."
 msgstr "ਬੀ.ਸੀ. ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਸ਼ੁਰੂ ਕਰੋ"
 
 #: lib/components/header_menu/header_menu_component.js:51
+#, fuzzy
 msgid "Terms of Use"
-msgstr ""
+msgstr "Terms of Use"
 
 #: lib/components/about/about_component.js:42
 #, fuzzy
