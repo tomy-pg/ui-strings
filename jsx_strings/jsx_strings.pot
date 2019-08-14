@@ -308,8 +308,3 @@ msgstr "Do you want to delete all user data from this phone? This includes which
 #: lib/components/help/help_component.js:81
 msgid "Cancel"
 msgstr "Cancel"
-
-#: lib/components/help/help_component.js:82
-msgid "Delete all user data"
-msgstr "Delete all user data"
-
