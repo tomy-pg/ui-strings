@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
 "PO-Revision-Date: 2019-08-14 16:44+0000\n"
 "Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
@@ -420,6 +420,7 @@ msgstr ""
 msgid "Cancel"
 msgstr "Cancel"
 
+#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "
