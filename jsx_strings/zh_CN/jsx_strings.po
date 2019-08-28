@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-08-28 22:49+0000\n"
+"PO-Revision-Date: 2019-08-28 23:20+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Chinese (Simplified) <https://translate.peacegeeks.org/"
 "projects/ui-strings/jsx_strings/zh_Hans/>\n"
@@ -25,7 +25,7 @@ msgstr "有关Arrival Advisor"
 
 #: lib/components/services/service_list_error_component.js:33
 msgid "An error has occured."
-msgstr "An error has occured."
+msgstr "发生错误。"
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid ""
@@ -360,9 +360,8 @@ msgid "Start settling in B.C."
 msgstr "开始在B.C.省安家落户"
 
 #: lib/components/header_menu/header_menu_component.js:51
-#, fuzzy
 msgid "Terms of Use"
-msgstr "Terms of Use"
+msgstr "使用条款"
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -393,11 +392,9 @@ msgid ""
 "those services over others.  Utilization of services located through the app "
 "is undertaken at the risk of the user."
 msgstr ""
-"本应用提供有关新移民服务的信息，仅供作一般指导和参考。虽然我们力争提供准确及"
-"时的信息，但我们无法掌控信息的持续准确性或所提供服务的质量。如果您发现有一条"
-"信息已经过时或没有用，请在本应用的反馈栏内告知我们。本应用列出了各项服务和资"
-"源，这么做并不是要暗示支持或推荐这些服务，而不选择其他服务。使用经本应用找到"
-"的服务，风险由用户承担。 "
+"本应用提供有关新移民服务的信息，仅供作一般指导和参考。虽然我们力争提供准确及时的信息，但我们无法掌控信息的持续准确性或所提供服务的质量。如果您发现有一条信"
+"息已经过时或没有用，请在本应用的反馈栏内告知我们。本应用列出了各项服务和资源，这么做并不是要暗示支持或推荐这些服务，而不选择其他服务。使用经本应用找到的服"
+"务，风险由用户承担。"
 
 #: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
@@ -408,17 +405,14 @@ msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新向我推荐的信息"
 
 #: lib/components/help/help_component.js:77
-#, fuzzy
 msgid ""
 "Do you want to delete all user data from this phone? This includes which "
 "answers are chosen in the questionnaire and which topics are bookmarked."
-msgstr ""
-"Do you want to delete all user data from this phone? This includes which "
-"answers are chosen in the questionnaire and which topics are bookmarked."
+msgstr "你确定要删除这个手机上所有用户数据吗？用户数据包括你问卷回答的答案和你收藏的主题。"
 
 #: lib/components/help/help_component.js:81
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "取消"
 
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
