@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-08-28 22:49+0000\n"
+"PO-Revision-Date: 2019-08-28 23:20+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Chinese (Traditional) <https://translate.peacegeeks.org/"
 "projects/ui-strings/jsx_strings/zh_Hant/>\n"
@@ -358,9 +358,8 @@ msgid "Start settling in B.C."
 msgstr "開始在B.C.省定居"
 
 #: lib/components/header_menu/header_menu_component.js:51
-#, fuzzy
 msgid "Terms of Use"
-msgstr "Terms of Use"
+msgstr "使用條款"
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -406,17 +405,14 @@ msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新我的推薦信息"
 
 #: lib/components/help/help_component.js:77
-#, fuzzy
 msgid ""
 "Do you want to delete all user data from this phone? This includes which "
 "answers are chosen in the questionnaire and which topics are bookmarked."
-msgstr ""
-"Do you want to delete all user data from this phone? This includes which "
-"answers are chosen in the questionnaire and which topics are bookmarked."
+msgstr "你確定要刪除這個手機上所有用戶數據嗎？用戶數據包括你問卷回答的答案和你收藏的主題。"
 
 #: lib/components/help/help_component.js:81
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "取消"
 
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
