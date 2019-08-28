@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-08-14 16:44+0000\n"
-"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
+"PO-Revision-Date: 2019-08-28 22:49+0000\n"
+"Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Chinese (Simplified) <https://translate.peacegeeks.org/"
 "projects/ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -64,10 +64,8 @@ msgid ""
 "Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
 "Punjabi, and Tagalog."
 msgstr ""
-"Arrival Advisor是一个免费的多语种手机应用，它可帮助在加拿大不列颠哥伦比亚省"
-"（又译作“卑诗省”或简称“B.C.省”）的移民和难民查找他们在安家落户过程中所需的信"
-"息和服务，该应用目前提供英语、法语（加拿大）和阿拉伯语版本，简体中文、繁体中"
-"文、韩语、旁遮普语和塔加路语版本即将推出。"
+"Arrival Advisor是一个免费的多语种手机应用，它可帮助在加拿大不列颠哥伦比亚省（又译作“卑诗省”或简称“B.C.省”）的移民和难民查找他们在安"
+"家落户过程中所需的信息和服务，该应用目前提供英语、法语（加拿大,）阿拉伯语，简体中文、繁体中文、韩语、旁遮普语和塔加路语版本。"
 
 #: lib/components/onboarding/onboarding_component.js:29
 msgid ""
@@ -114,7 +112,7 @@ msgstr "网页书签已清除"
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics that you find helpful for future use."
-msgstr "请将您觉得日后用得上的主题添加网页书签。"
+msgstr "收藏您觉得有用的主题，以便日后查询。"
 
 #: lib/components/help/help_component.js:33
 msgid "Contact Arrival Advisor team"
@@ -422,7 +420,6 @@ msgstr ""
 msgid "Cancel"
 msgstr "Cancel"
 
-#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "
