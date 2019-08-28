@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-08-14 16:44+0000\n"
-"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
+"PO-Revision-Date: 2019-08-28 23:20+0000\n"
+"Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Tagalog <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/tl/>\n"
 "Language: tl\n"
@@ -400,9 +400,8 @@ msgid "Start settling in B.C."
 msgstr "Simulan ang paninirahan sa B.C."
 
 #: lib/components/header_menu/header_menu_component.js:51
-#, fuzzy
 msgid "Terms of Use"
-msgstr "Terms of Use"
+msgstr "Mga Termino ng Paggamit"
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -457,19 +456,18 @@ msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "I-UPDATE ANG REKOMENDASYON KO"
 
 #: lib/components/help/help_component.js:77
-#, fuzzy
 msgid ""
 "Do you want to delete all user data from this phone? This includes which "
 "answers are chosen in the questionnaire and which topics are bookmarked."
 msgstr ""
-"Do you want to delete all user data from this phone? This includes which "
-"answers are chosen in the questionnaire and which topics are bookmarked."
+"Gusto mo bang burahin ang lahat ng user data mula sa teleponong ito? "
+"Kabilang dito ang alin sa mga sagot ang napili sa kuwestiyunaryo at aling "
+"mga paksa ang naka-bookmark."
 
 #: lib/components/help/help_component.js:81
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Kanselahin"
 
-#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "

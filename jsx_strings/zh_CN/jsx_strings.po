@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-08-14 16:44+0000\n"
-"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
+"PO-Revision-Date: 2019-08-28 23:20+0000\n"
+"Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Chinese (Simplified) <https://translate.peacegeeks.org/"
 "projects/ui-strings/jsx_strings/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -25,7 +25,7 @@ msgstr "有关Arrival Advisor"
 
 #: lib/components/services/service_list_error_component.js:33
 msgid "An error has occured."
-msgstr "An error has occured."
+msgstr "发生错误。"
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid ""
@@ -64,10 +64,8 @@ msgid ""
 "Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
 "Punjabi, and Tagalog."
 msgstr ""
-"Arrival Advisor是一个免费的多语种手机应用，它可帮助在加拿大不列颠哥伦比亚省"
-"（又译作“卑诗省”或简称“B.C.省”）的移民和难民查找他们在安家落户过程中所需的信"
-"息和服务，该应用目前提供英语、法语（加拿大）和阿拉伯语版本，简体中文、繁体中"
-"文、韩语、旁遮普语和塔加路语版本即将推出。"
+"Arrival Advisor是一个免费的多语种手机应用，它可帮助在加拿大不列颠哥伦比亚省（又译作“卑诗省”或简称“B.C.省”）的移民和难民查找他们在安"
+"家落户过程中所需的信息和服务，该应用目前提供英语、法语（加拿大,）阿拉伯语，简体中文、繁体中文、韩语、旁遮普语和塔加路语版本。"
 
 #: lib/components/onboarding/onboarding_component.js:29
 msgid ""
@@ -114,7 +112,7 @@ msgstr "网页书签已清除"
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics that you find helpful for future use."
-msgstr "请将您觉得日后用得上的主题添加网页书签。"
+msgstr "收藏您觉得有用的主题，以便日后查询。"
 
 #: lib/components/help/help_component.js:33
 msgid "Contact Arrival Advisor team"
@@ -362,9 +360,8 @@ msgid "Start settling in B.C."
 msgstr "开始在B.C.省安家落户"
 
 #: lib/components/header_menu/header_menu_component.js:51
-#, fuzzy
 msgid "Terms of Use"
-msgstr "Terms of Use"
+msgstr "使用条款"
 
 #: lib/components/about/about_component.js:42
 msgid ""
@@ -395,11 +392,9 @@ msgid ""
 "those services over others.  Utilization of services located through the app "
 "is undertaken at the risk of the user."
 msgstr ""
-"本应用提供有关新移民服务的信息，仅供作一般指导和参考。虽然我们力争提供准确及"
-"时的信息，但我们无法掌控信息的持续准确性或所提供服务的质量。如果您发现有一条"
-"信息已经过时或没有用，请在本应用的反馈栏内告知我们。本应用列出了各项服务和资"
-"源，这么做并不是要暗示支持或推荐这些服务，而不选择其他服务。使用经本应用找到"
-"的服务，风险由用户承担。 "
+"本应用提供有关新移民服务的信息，仅供作一般指导和参考。虽然我们力争提供准确及时的信息，但我们无法掌控信息的持续准确性或所提供服务的质量。如果您发现有一条信"
+"息已经过时或没有用，请在本应用的反馈栏内告知我们。本应用列出了各项服务和资源，这么做并不是要暗示支持或推荐这些服务，而不选择其他服务。使用经本应用找到的服"
+"务，风险由用户承担。"
 
 #: lib/components/about/about_component.js:56
 msgid "This is Arrival Advisor version:"
@@ -410,19 +405,15 @@ msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新向我推荐的信息"
 
 #: lib/components/help/help_component.js:77
-#, fuzzy
 msgid ""
 "Do you want to delete all user data from this phone? This includes which "
 "answers are chosen in the questionnaire and which topics are bookmarked."
-msgstr ""
-"Do you want to delete all user data from this phone? This includes which "
-"answers are chosen in the questionnaire and which topics are bookmarked."
+msgstr "你确定要删除这个手机上所有用户数据吗？用户数据包括你问卷回答的答案和你收藏的主题。"
 
 #: lib/components/help/help_component.js:81
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "取消"
 
-#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "
