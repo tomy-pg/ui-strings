@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
 "PO-Revision-Date: 2019-08-28 23:20+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
@@ -63,8 +63,10 @@ msgid ""
 "Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, "
 "Punjabi, and Tagalog."
 msgstr ""
-"Arrival Advisor 是一個免費的多語言手機應用程式，可協助加拿大不列顛哥倫比亞省（BC省）的移民和難民們，在安家定居過程中取得所需的相關資訊和"
-"服務。本應用程式目前提供英語，法語（加拿大）, 阿拉伯語，簡體中文、繁體中文、韓文、旁遮普文及他加祿文等版本。"
+"Arrival Advisor 是一個免費的多語言手機應用程式，可協助加拿大不列顛哥倫比亞省"
+"（BC省）的移民和難民們，在安家定居過程中取得所需的相關資訊和服務。本應用程式"
+"目前提供英語，法語（加拿大）, 阿拉伯語，簡體中文、繁體中文、韓文、旁遮普文及"
+"他加祿文等版本。"
 
 #: lib/components/onboarding/onboarding_component.js:29
 msgid ""
@@ -408,12 +410,15 @@ msgstr "更新我的推薦信息"
 msgid ""
 "Do you want to delete all user data from this phone? This includes which "
 "answers are chosen in the questionnaire and which topics are bookmarked."
-msgstr "你確定要刪除這個手機上所有用戶數據嗎？用戶數據包括你問卷回答的答案和你收藏的主題。"
+msgstr ""
+"你確定要刪除這個手機上所有用戶數據嗎？用戶數據包括你問卷回答的答案和你收藏的"
+"主題。"
 
 #: lib/components/help/help_component.js:81
 msgid "Cancel"
 msgstr "取消"
 
+#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "

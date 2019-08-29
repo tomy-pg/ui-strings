@@ -203,6 +203,3 @@ msgstr "مساعدة متعلقة بالعنف والإساءة"
 
 msgid "Community services and organizations"
 msgstr "خدمات المجتمع ومنظمات المجتمع المدني"
-
-msgid "Hello World"
-msgstr ""
