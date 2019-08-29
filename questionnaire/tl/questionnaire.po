@@ -211,6 +211,3 @@ msgstr "Pagtulong sa pang-aabuso at karahasan"
 
 msgid "Community services and organizations"
 msgstr "Mga serbisyo ng komunidad at mga organisasyon"
-
-msgid "Hello World"
-msgstr ""

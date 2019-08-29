@@ -204,6 +204,3 @@ msgstr "帮助解决虐待和暴力问题"
 
 msgid "Community services and organizations"
 msgstr "社区服务和组织"
-
-msgid "Hello World"
-msgstr ""

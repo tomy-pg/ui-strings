@@ -211,6 +211,3 @@ msgstr "Aide dans le cas de mauvais traitements et de violence"
 
 msgid "Community services and organizations"
 msgstr "Services et organisations communautaires"
-
-msgid "Hello World"
-msgstr ""

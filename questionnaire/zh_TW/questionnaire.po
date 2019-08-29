@@ -202,6 +202,3 @@ msgstr "家暴與受虐者援助"
 
 msgid "Community services and organizations"
 msgstr "社區服務和組織"
-
-msgid "Hello World"
-msgstr ""

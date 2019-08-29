@@ -207,6 +207,3 @@ msgstr "학대와 폭행 피해자 지원"
 
 msgid "Community services and organizations"
 msgstr "커뮤니티 서비스 및 기관"
-
-msgid "Hello World"
-msgstr ""
