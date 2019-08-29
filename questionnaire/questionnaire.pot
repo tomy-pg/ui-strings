@@ -201,7 +201,3 @@ msgstr ""
 
 msgid "Community services and organizations"
 msgstr ""
-
-msgid "Hello World"
-msgstr ""
-
