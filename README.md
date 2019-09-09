@@ -6,7 +6,7 @@ It is integrated with our Weblate application found here: https://translate.peac
 
 ### Source Strings 
 
-The English source strings are found `*.pot` files. The msgid's in these `*.pot` files indicate to Weblate which strings each locale needs to translate. 
+The English source strings are found in the `*.pot` files. The msgid's in the `*.pot` files are used to indicate which strings each locale needs to translate on Weblate. 
 
 ### Git Workflow
 
