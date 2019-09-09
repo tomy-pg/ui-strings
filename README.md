@@ -24,12 +24,14 @@ We have three components in our UI-Strings project on Weblate.
 ### Roles
 
 There are two roles, not including admin: 
-* Translators 
+
+* Translator
     * Translate Strings
     * Add and Accept Suggestions
     * Use Machine Learning Services 
     * Comment on Strings
-* Reviewers
+* Reviewer
+
     * can do everything above as well as:
     * Review strings
     * Push changes to the Github repository designated in the component settings
@@ -41,4 +43,12 @@ Users in either role need to sign up for component and translation notifications
 Component notifications are triggered when there is a merge failure and a new language request.
 
 Translation notifications are triggered when there are new strings to translate, there are new comments/suggestions on their specified language.  
+
+### Version
+
+Currently using Weblate 3.5.1
+
+### For More Informatin
+
+See the Weblate's documentation [here](https://docs.weblate.org/en/weblate-3.5.1/)
 
