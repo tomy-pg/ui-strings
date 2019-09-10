@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
 "PO-Revision-Date: 2019-09-10 18:24+0000\n"
 "Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
@@ -432,6 +432,15 @@ msgstr "地址："
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "就近查找服务"
 
+#: lib/components/services/service_list_item_component.js:68
+msgid "Email:"
+msgstr "电邮："
+
+#: lib/components/services/service_list_item_component.js:57
+msgid "Web:"
+msgstr "网站："
+
+#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "
@@ -448,9 +457,3 @@ msgstr "就近查找服务"
 #~ "Social Impact合作提供的资助。同时也要特别感谢个人捐赠者的捐款。Arrival "
 #~ "Advisor是开源项目。欲了解如何支持该项目，您可以查阅<0>Github网站</0>并<1>"
 #~ "联系我们。</1>"
-
-#~ msgid "Email:"
-#~ msgstr "电邮："
-
-#~ msgid "Web:"
-#~ msgstr "网站："
