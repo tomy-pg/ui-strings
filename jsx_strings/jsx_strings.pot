@@ -320,3 +320,11 @@ msgstr "Address:"
 #: lib/components/services/service_list_component.js:44
 msgid "FIND A SERVICE NEAR YOU"
 msgstr "FIND A SERVICE NEAR YOU"
+
+#: lib/components/services/service_list_item_component.js:68
+msgid "Email:"
+msgstr "Email:"
+
+#: lib/components/services/service_list_item_component.js:57
+msgid "Web:"
+msgstr "Web:"
