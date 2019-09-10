@@ -468,6 +468,18 @@ msgstr ""
 msgid "Cancel"
 msgstr "Kanselahin"
 
+#: lib/components/maps_application_popup/maps_application_popup_component.js:10
+msgid "Open in maps"
+msgstr "Open in maps"
+
+#: lib/components/services/service_list_item_component.js:37
+msgid "Address:"
+msgstr "Address:"
+
+#: lib/components/services/service_list_component.js:44
+msgid "FIND A SERVICE NEAR YOU"
+msgstr "FIND A SERVICE NEAR YOU"
+
 #: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
