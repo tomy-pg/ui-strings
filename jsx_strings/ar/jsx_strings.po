@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-09-09 19:49+0000\n"
+"PO-Revision-Date: 2019-09-10 18:24+0000\n"
 "Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
 "Language-Team: Arabic <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/ar/>\n"
@@ -442,17 +442,16 @@ msgstr "إلغاء"
 
 #: lib/components/maps_application_popup/maps_application_popup_component.js:10
 msgid "Open in maps"
-msgstr "Open in maps"
+msgstr "فتح في الخرائط"
 
 #: lib/components/services/service_list_item_component.js:37
 msgid "Address:"
-msgstr "Address:"
+msgstr "العنوان:"
 
 #: lib/components/services/service_list_component.js:44
 msgid "FIND A SERVICE NEAR YOU"
-msgstr "FIND A SERVICE NEAR YOU"
+msgstr "ابحث عن خدمة بالقرب منك"
 
-#: lib/components/about/about_component.js:42
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "
