@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-09-17 22:43+0000\n"
+"PO-Revision-Date: 2019-09-17 23:22+0000\n"
 "Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
 "Language-Team: Korean <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/ko/>\n"
@@ -120,7 +120,9 @@ msgstr "삭제된 북마크"
 
 #: lib/components/onboarding/onboarding_component.js:41
 msgid "Bookmark the topics that you find helpful for future use."
-msgstr "향후에 유용할 만한 주제는 북마크를 해두세요."
+msgstr ""
+"향후에 유용할 만한 주제는\n"
+" 북마크를 해두세요."
 
 #: lib/components/help/help_component.js:33
 msgid "Contact Arrival Advisor team"
@@ -171,7 +173,9 @@ msgstr "내 주변 연관 서비스 찾기"
 msgid ""
 "Find service providers near you that can help you through your settlement "
 "journey."
-msgstr "정착에 도움을 줄 서비스 제공자를 주변에서 찾아보세요."
+msgstr ""
+"정착에 도움을 줄 서비스 \n"
+"제공자를 주변에서 찾아보세요."
 
 #: lib/components/about/about_component.js:31
 msgid ""
