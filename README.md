@@ -44,6 +44,16 @@ Component notifications are triggered when there is a merge failure and a new la
 
 Translation notifications are triggered when there are new strings to translate, there are new comments/suggestions on their specified language.  
 
+### Fuzzy Entries
+
+When there is a situation where a user must take action on a particular string or set of strings on Weblate, a fuzzy entry will be attached to it. 
+It often looks like this in the .po file:
+```
+#, fuzzy
+```
+It is often the case that you will see this when the same source string is found in different components of a Weblate project, but translated differently in the same locale. 
+For more information please read [gettext's documentation](https://www.gnu.org/savannah-checkouts/gnu/gettext/manual/gettext.html#Fuzzy-Entries).
+
 ### Version
 
 Currently using Weblate 3.5.1
