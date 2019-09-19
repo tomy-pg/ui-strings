@@ -25,7 +25,7 @@ msgstr ""
 msgid "Chinese Traditional, Chinese Simplified, Korean, Punjabi, and Tagalog" 
 msgstr ""
 
-msgid "Onboarding screens for new users"
+msgid "Onboarding screens for new users."
 msgstr ""
 
 msgid "The latest services data from BC211 is now reflected in the service results."
