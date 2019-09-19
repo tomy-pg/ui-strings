@@ -34,7 +34,7 @@ msgstr ""
 msgid "Fixed:"
 msgstr ""
 
-msgid "We've improved the service listings you see when you click \"Find Related Services Near Me\"."
+msgid "We've improved the service listings you see when you click 'Find Related Services Near Me'."
 msgstr ""
 
 msgid "Arrival Advisor is a free, multilingual, mobile app that helps immigrants and refugees in British Columbia, Canada find information and services to plan their settlement journey."
