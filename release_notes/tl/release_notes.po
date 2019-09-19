@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-06 12:45-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tl\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: @lingui/cli\n"
+"Mime-Version: 1.0\n"
+
+msgid "Thanks for using Arrival Advisor! "
+msgstr ""
+
+msgid "We've made updates and improvements to make your experience even better."
+msgstr ""
+
+msgid "New languages: "
+msgstr ""
+
+msgid "Chinese Traditional, Chinese Simplified, Korean, Punjabi, and Tagalog"
+msgstr ""
+
+msgid "Onboarding screens for new users"
+msgstr ""
+
+msgid "The latest services data from BC211 is now reflected in the service results."
+msgstr ""
+
+msgid "Fixed: "
+msgstr ""
+
+msgid "We've improved the service listings you see when you click "Find Related Services Near Me"."
+msgstr ""
+
+msgid "Arrival Advisor is a free, multilingual app that helps immigrants and refugees in British Columbia, Canada find information and services to plan their settlement journey."
+msgstr ""
+
+msgid "Now available in English, French, Arabic, Chinese Simplified, Chinese Traditional, Korean, Punjabi, and Tagalog."
+msgstr ""
+
+msgid "Get reliable and up-to-date information for newcomers, no matter where you are."
+msgstr ""
+
+msgid "Find service providers near you that can help you through your settlement journey."
+msgstr ""
+
+msgid "Answer a few optional questions to get tailored recommendations for your needs."
+msgstr ""
