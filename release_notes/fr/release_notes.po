@@ -14,13 +14,13 @@ msgstr ""
 "X-Generator: Weblate 3.5.1\n"
 "Mime-Version: 1.0\n"
 
-msgid "Thanks for using Arrival Advisor! "
+msgid "Thanks for using Arrival Advisor!"
 msgstr ""
 
 msgid "We've made updates and improvements to make your experience even better."
 msgstr ""
 
-msgid "New languages: "
+msgid "New languages:"
 msgstr ""
 
 msgid "Chinese Traditional, Chinese Simplified, Korean, Punjabi, and Tagalog"
@@ -33,10 +33,7 @@ msgstr ""
 msgid "The latest services data from BC211 is now reflected in the service results."
 msgstr ""
 
-msgid "Fixed: "
-msgstr ""
-
-msgid "We've improved the service listings you see when you click "Find Related Services Near Me"."
+msgid "Fixed:"
 msgstr ""
 
 msgid "Arrival Advisor is a free, multilingual app that helps immigrants and refugees in British Columbia, Canada find information and services to plan their settlement journey."
