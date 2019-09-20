@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-09-20 11:11-0700\n"
-"PO-Revision-Date: 2019-09-10 18:24+0000\n"
+"PO-Revision-Date: 2019-09-20 19:12+0000\n"
 "Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
 "Language-Team: Punjabi <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/pa/>\n"
@@ -28,10 +28,8 @@ msgid "Address:"
 msgstr "ਪਤਾ:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
-#, fuzzy
-#| msgid "An error has occured."
 msgid "An error occured"
-msgstr "ਗਲਤੀ ਹੋਈ ਹੈ।"
+msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid ""
@@ -175,10 +173,8 @@ msgid "Email:"
 msgstr "ਈਮੇਲ:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
-#, fuzzy
-#| msgid "Mutlilingual health information services"
 msgid "Enable location services"
-msgstr "ਬਹੁ-ਭਾਸ਼ਾਈ ਸਿਹਤ ਜਾਣਕਾਰੀ ਸੇਵਾਵਾਂ"
+msgstr ""
 
 #: lib/components/services/service_list_component.js:44
 msgid "FIND A SERVICE NEAR YOU"
@@ -238,10 +234,8 @@ msgid "Go back to questions"
 msgstr "ਸਵਾਲਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ"
 
 #: lib/components/app_settings_button/app_settings_button_component.js:17
-#, fuzzy
-#| msgid "Go back to questions"
 msgid "Go to Settings"
-msgstr "ਸਵਾਲਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+msgstr ""
 
 #: lib/components/help/help_component.js:47
 msgid "Help & Support"
@@ -311,10 +305,8 @@ msgid "No new topics recommended based on your answers."
 msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਕੋਈ ਨਵੇਂ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਵਿਸ਼ੇ ਨਹੀਂ ਹਨ"
 
 #: lib/components/services/service_list_component.js:24
-#, fuzzy
-#| msgid "No topics to show"
 msgid "No services to show"
-msgstr "ਵੇਖਾਉਣ ਲਈ ਕੋਈ ਵਿਸ਼ਾ ਨਹੀਂ ਹੈ"
+msgstr ""
 
 #: lib/components/topics/task_list_component.js:69
 msgid "No topics to recommend"
@@ -401,10 +393,8 @@ msgid "Select your language"
 msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
-#, fuzzy
-#| msgid "Server version:"
 msgid "Server error"
-msgstr "ਸਰਵਰ ਵਰਜ਼ਨ: {0}"
+msgstr ""
 
 #: lib/components/about/about_component.js:60
 msgid "Server version:"
