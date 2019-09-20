@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-06 12:45-0700\n"
+"PO-Revision-Date: 2019-09-19 23:37+0000\n"
+"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.peacegeeks.org/"
+"projects/ui-strings/release_notes/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.5.1\n"
+
+msgid "Thanks for using Arrival Advisor!"
+msgstr ""
+
+msgid ""
+"We've made updates and improvements to make your experience even better."
+msgstr ""
+
+msgid "New languages:"
+msgstr ""
+
+msgid "Chinese Traditional, Chinese Simplified, Korean, Punjabi, and Tagalog"
+msgstr "簡體中文、繁體中文、韓語、旁遮普語及塔加路語版"
+
+msgid "Onboarding screens for new users"
+msgstr ""
+
+msgid ""
+"The latest services data from BC211 is now reflected in the service results."
+msgstr ""
+
+msgid "Fixed:"
+msgstr ""
+
+msgid ""
+"We've improved the service listings you see when you click \"Find Related "
+"Services Near Me\"."
+msgstr ""
+
+msgid ""
+"Arrival Advisor is a free, multilingual, mobile app that helps immigrants "
+"and refugees in British Columbia, Canada find information and services to "
+"navigate their settlement journey."
+msgstr ""
+
+msgid ""
+"Now available in English, French, Arabic, Chinese Simplified, Chinese "
+"Traditional, Korean, Punjabi, and Tagalog."
+msgstr ""
+
+msgid ""
+"Get reliable and up-to-date information for newcomers, no matter where you "
+"are."
+msgstr "無論您身在何處，都可以透過網路即時獲取信賴可靠的最新消息。"
+
+msgid ""
+"Find service providers near you that can help you through your settlement "
+"journey."
+msgstr "查尋您附近的服務提供點以便安家樂業。"
+
+msgid ""
+"Answer a few optional questions to get tailored recommendations for your "
+"needs."
+msgstr "回答幾個複選題，將可獲得您個人專屬的服務推薦清單。"
