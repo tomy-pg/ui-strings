@@ -46,7 +46,7 @@ msgstr ""
 msgid ""
 "Arrival Advisor is a free, multilingual, mobile app that helps immigrants "
 "and refugees in British Columbia, Canada find information and services to "
-"plan their settlement journey."
+"navigate their settlement journey."
 msgstr ""
 
 msgid ""
