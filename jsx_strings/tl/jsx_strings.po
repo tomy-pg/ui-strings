@@ -29,7 +29,7 @@ msgid "Address:"
 msgstr "Address:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
-msgid "An error occured"
+msgid "An error occurred"
 msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:33
