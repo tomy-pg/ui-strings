@@ -22,7 +22,7 @@ msgstr "Address:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
 msgid "An error occured"
-msgstr "An error occured"
+msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid "Answer a few optional questions to get tailored recommendations for your needs."
@@ -74,7 +74,7 @@ msgstr "Bookmark the topics that you find helpful for future use."
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
 msgid "Can't reach the internet"
-msgstr "Can't reach the internet"
+msgstr ""
 
 #: lib/components/help/help_component.js:125
 msgid "Cancel"
@@ -82,7 +82,7 @@ msgstr "Cancel"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Check location services"
-msgstr "Check location services"
+msgstr ""
 
 #: lib/components/help/help_component.js:34
 msgid "Contact Arrival Advisor team"
@@ -120,7 +120,7 @@ msgstr "Email:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Enable location services"
-msgstr "Enable location services"
+msgstr ""
 
 #: lib/components/services/service_list_component.js:44
 msgid "FIND A SERVICE NEAR YOU"
@@ -192,11 +192,11 @@ msgstr "Information on helplines"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
 msgid "It took too long finding your location."
-msgstr "It took too long finding your location."
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
 msgid "It took too long finding your location. Setting your device's Location Services to “High Accuracy” can sometimes fix this problem."
-msgstr "It took too long finding your location. Setting your device's Location Services to “High Accuracy” can sometimes fix this problem."
+msgstr ""
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -220,7 +220,7 @@ msgstr "No new topics recommended based on your answers."
 
 #: lib/components/services/service_list_component.js:24
 msgid "No services to show"
-msgstr "No services to show"
+msgstr ""
 
 #: lib/components/topics/task_list_component.js:69
 msgid "No topics to recommend"
@@ -293,7 +293,7 @@ msgstr "Select your language"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
 msgid "Server error"
-msgstr "Server error"
+msgstr ""
 
 #: lib/components/about/about_component.js:60
 msgid "Server version:"
@@ -301,7 +301,7 @@ msgstr "Server version:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
 msgid "Services are not available offline. Please connect to the internet and try again."
-msgstr "Services are not available offline. Please connect to the internet and try again."
+msgstr ""
 
 #: lib/components/help/help_component.js:26
 msgid "Services information and referral"
@@ -342,11 +342,11 @@ msgstr "This is Arrival Advisor version:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
 msgid "To find services, please turn on Location Services for Arrival Advisor in Settings and try again."
-msgstr "To find services, please turn on Location Services for Arrival Advisor in Settings and try again."
+msgstr ""
 
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
-msgstr "Try again"
+msgstr ""
 
 #: lib/components/recommended_topics/call_to_action.js:70
 msgid "UPDATE MY RECOMMENDATIONS"
@@ -358,4 +358,4 @@ msgstr "Web:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid "We’re having difficulty connecting to the server. Please try again later."
-msgstr "We’re having difficulty connecting to the server. Please try again later."
+msgstr ""
