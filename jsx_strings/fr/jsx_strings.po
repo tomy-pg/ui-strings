@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-09-20 11:11-0700\n"
-"PO-Revision-Date: 2019-09-17 22:43+0000\n"
-"Last-Translator: Arti <arti@peacegeeks.org>\n"
+"PO-Revision-Date: 2019-09-20 19:12+0000\n"
+"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
 "Language-Team: French <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/fr/>\n"
 "Language: fr\n"
@@ -28,10 +28,8 @@ msgid "Address:"
 msgstr "Adresse :"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
-#, fuzzy
-#| msgid "An error has occured."
 msgid "An error occured"
-msgstr "Une erreur s'est produite."
+msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid ""
@@ -191,10 +189,8 @@ msgid "Email:"
 msgstr "Courriel :"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
-#, fuzzy
-#| msgid "Mutlilingual health information services"
 msgid "Enable location services"
-msgstr "Services de conseils médicaux multilingues"
+msgstr ""
 
 #: lib/components/services/service_list_component.js:44
 msgid "FIND A SERVICE NEAR YOU"
@@ -260,10 +256,8 @@ msgid "Go back to questions"
 msgstr "Revenir aux questions"
 
 #: lib/components/app_settings_button/app_settings_button_component.js:17
-#, fuzzy
-#| msgid "Go back to questions"
 msgid "Go to Settings"
-msgstr "Revenir aux questions"
+msgstr ""
 
 #: lib/components/help/help_component.js:47
 msgid "Help & Support"
@@ -334,10 +328,8 @@ msgid "No new topics recommended based on your answers."
 msgstr "Aucun nouveau sujet n’a été recommandé en fonction de vos réponses."
 
 #: lib/components/services/service_list_component.js:24
-#, fuzzy
-#| msgid "No topics to show"
 msgid "No services to show"
-msgstr "Aucun sujet à afficher"
+msgstr ""
 
 #: lib/components/topics/task_list_component.js:69
 msgid "No topics to recommend"
@@ -429,10 +421,8 @@ msgid "Select your language"
 msgstr "Choisir la langue"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
-#, fuzzy
-#| msgid "Server version:"
 msgid "Server error"
-msgstr "Version du serveur :"
+msgstr ""
 
 #: lib/components/about/about_component.js:60
 msgid "Server version:"
