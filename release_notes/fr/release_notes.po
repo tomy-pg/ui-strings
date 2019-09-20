@@ -38,6 +38,11 @@ msgstr ""
 msgid "Fixed:"
 msgstr ""
 
+msgid ""
+"We've improved the service listings you see when you click \"Find Related "
+"Services Near Me\"."
+msgstr ""
+
 #, fuzzy
 #| msgid ""
 #| "Arrival Advisor is a free, multilingual app that helps immigrants and "
