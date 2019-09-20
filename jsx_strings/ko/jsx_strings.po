@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-09-20 11:11-0700\n"
-"PO-Revision-Date: 2019-09-20 19:12+0000\n"
+"PO-Revision-Date: 2019-09-20 19:29+0000\n"
 "Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
 "Language-Team: Korean <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/ko/>\n"
@@ -191,7 +191,7 @@ msgstr "내 주변 서비스 찾기"
 
 #: lib/components/help/help_component.js:60
 msgid "FOR ADDITIONAL ASSISTANCE"
-msgstr "FOR ADDITIONAL ASSISTANCE"
+msgstr "추가 도움을 원할 경우"
 
 #: lib/components/help/help_component.js:72
 msgid "Find a settlement agency near me"
