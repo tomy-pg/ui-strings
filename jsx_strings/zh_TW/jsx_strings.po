@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
 "POT-Creation-Date: 2019-09-20 11:11-0700\n"
-"PO-Revision-Date: 2019-09-20 19:12+0000\n"
-"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
+"PO-Revision-Date: 2019-09-25 03:37+0000\n"
+"Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Chinese (Traditional) <https://translate.peacegeeks.org/"
 "projects/ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -29,7 +29,7 @@ msgstr "地址："
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
 msgid "An error occurred"
-msgstr ""
+msgstr "發生錯誤"
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid ""
@@ -121,7 +121,7 @@ msgstr "您可藉由我的最愛標記重要主題以便日後查詢。"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
 msgid "Can't reach the internet"
-msgstr ""
+msgstr "無法連線"
 
 #: lib/components/help/help_component.js:125
 msgid "Cancel"
@@ -129,7 +129,7 @@ msgstr "取消"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
 msgid "Check location services"
-msgstr ""
+msgstr "檢查網路定位服務"
 
 #: lib/components/help/help_component.js:34
 msgid "Contact Arrival Advisor team"
@@ -171,7 +171,7 @@ msgstr "電子郵件:"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
 msgid "Enable location services"
-msgstr ""
+msgstr "啟動網路定位服務"
 
 #: lib/components/services/service_list_component.js:44
 msgid "FIND A SERVICE NEAR YOU"
@@ -229,7 +229,7 @@ msgstr "回到問題"
 
 #: lib/components/app_settings_button/app_settings_button_component.js:17
 msgid "Go to Settings"
-msgstr ""
+msgstr "前往設置"
 
 #: lib/components/help/help_component.js:47
 msgid "Help & Support"
@@ -268,13 +268,13 @@ msgstr "求助熱線相關資訊"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
 msgid "It took too long finding your location."
-msgstr ""
+msgstr "花了太長時間找到您的位置"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
 msgid ""
 "It took too long finding your location. Setting your device's Location "
 "Services to “High Accuracy” can sometimes fix this problem."
-msgstr ""
+msgstr "花了太長時間找到您的位置。請將手機網路定位服務設置為高精度有時可以解決此問題。"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
@@ -298,7 +298,7 @@ msgstr "根據您的答案，沒有新主題資訊可推薦。"
 
 #: lib/components/services/service_list_component.js:24
 msgid "No services to show"
-msgstr ""
+msgstr "無網路服務顯示"
 
 #: lib/components/topics/task_list_component.js:69
 msgid "No topics to recommend"
@@ -385,7 +385,7 @@ msgstr "選擇您的語言"
 
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
 msgid "Server error"
-msgstr ""
+msgstr "網路服務錯誤"
 
 #: lib/components/about/about_component.js:60
 msgid "Server version:"
@@ -395,7 +395,7 @@ msgstr "伺服器版本：{0}"
 msgid ""
 "Services are not available offline. Please connect to the internet and try "
 "again."
-msgstr ""
+msgstr "目前網路離線無法使用。請連接網路後重試。"
 
 #: lib/components/help/help_component.js:26
 msgid "Services information and referral"
@@ -465,11 +465,11 @@ msgstr "這是 Arrival Advisor 版本："
 msgid ""
 "To find services, please turn on Location Services for Arrival Advisor in "
 "Settings and try again."
-msgstr ""
+msgstr "查尋網路服務，請至手機設置處打開 Arrival Advisor 的網路定位服務, 然後重試。"
 
 #: lib/components/error_screens/ErrorScreenComponent.js:53
 msgid "Try again"
-msgstr ""
+msgstr "重試"
 
 #: lib/components/recommended_topics/call_to_action.js:70
 msgid "UPDATE MY RECOMMENDATIONS"
@@ -482,7 +482,7 @@ msgstr "網址："
 #: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
 msgid ""
 "We’re having difficulty connecting to the server. Please try again later."
-msgstr ""
+msgstr "目前無法連接到伺服器, 請稍候再試。"
 
 #~ msgid ""
 #~ "Fetching your location timed out. On Android devices you may need to set "
