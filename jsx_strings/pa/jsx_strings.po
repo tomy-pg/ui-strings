@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-09-10 18:24+0000\n"
-"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
+"POT-Creation-Date: 2019-09-20 11:11-0700\n"
+"PO-Revision-Date: 2019-09-25 03:37+0000\n"
+"Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Punjabi <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/pa/>\n"
 "Language: pa\n"
@@ -14,18 +14,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.5.1\n"
 
-#: lib/components/header_menu/header_menu_component.js:43
+#: lib/components/header_menu/header_menu_component.js:44
 msgid "ABOUT THE APP"
 msgstr "ਐਪ ਬਾਰੇ"
 
 #: lib/components/about/about_component.js:21
-#: lib/components/header_menu/header_menu_component.js:48
+#: lib/components/header_menu/header_menu_component.js:49
 msgid "About Arrival Advisor"
 msgstr "Arrival Advisor ਬਾਰੇ"
 
-#: lib/components/services/service_list_error_component.js:33
-msgid "An error has occured."
-msgstr "ਗਲਤੀ ਹੋਈ ਹੈ।"
+#: lib/components/services/service_list_item_component.js:37
+msgid "Address:"
+msgstr "ਪਤਾ:"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
+msgid "An error occurred"
+msgstr "ਗਲਤੀ ਵਾਪਰੀ ਹੈ"
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid ""
@@ -118,22 +122,43 @@ msgstr "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ"
 msgid "Bookmark the topics that you find helpful for future use."
 msgstr "ਜੋ ਤੁਹਾਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਵਰਤੋਂ ਲਈ ਮਦਦਗਾਰ ਲੱਗਦੇ ਹਨ, ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ।"
 
-#: lib/components/help/help_component.js:33
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
+msgid "Can't reach the internet"
+msgstr "ਇੰਟਰਨੈੱਟ ਲਈ ਪਹੁੰਚਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ"
+
+#: lib/components/help/help_component.js:125
+msgid "Cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
+msgid "Check location services"
+msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਦੀ ਜਾਂਚ ਕਰੋ"
+
+#: lib/components/help/help_component.js:34
 msgid "Contact Arrival Advisor team"
 msgstr "Arrival Advisor ਟੀਮ ਨਾਲ ਸੰਪਰਕ ਕਰੋ"
 
-#: lib/components/welcome/welcome_component.js:54
+#: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
 msgstr "ਬਣਾਇਆ"
 
-#: lib/components/help/help_component.js:87
+#: lib/components/help/help_component.js:96
+#: lib/components/help/help_component.js:117
 msgid "Delete all user data"
 msgstr "ਸਾਰਾ ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਹਟਾਓ"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
-#: lib/components/header_menu/header_menu_component.js:49
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "Disclaimer"
 msgstr "ਬੇਦਾਅਵਾ"
+
+#: lib/components/help/help_component.js:119
+msgid ""
+"Do you want to delete all user data from this phone? This includes which "
+"answers are chosen in the questionnaire and which topics are bookmarked."
+msgstr ""
+"ਕੀ ਤੁਸੀਂ ਇਸ ਫ਼ੋਨ ਤੋਂ ਸਾਰਾ ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਸ ਵਿੱਚ ਸਵਾਲਨਾਮੇ ਵਿੱਚ ਚੁਣੇ ਜਵਾਬ ਅਤੇ "
+"ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਗਏ ਵਿਸ਼ੇ ਸ਼ਾਮਲ ਹਨ।"
 
 #: lib/components/questionnaire/questionnaire_component.js:114
 msgid "Done"
@@ -143,19 +168,23 @@ msgstr "ਮੁਕੰਮਲ"
 msgid "EXPLORE TOPICS"
 msgstr "ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ"
 
-#: lib/components/help/help_component.js:59
+#: lib/components/services/service_list_item_component.js:65
+msgid "Email:"
+msgstr "ਈਮੇਲ:"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
+msgid "Enable location services"
+msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਸਮਰੱਥ ਕਰੋ"
+
+#: lib/components/services/service_list_component.js:44
+msgid "FIND A SERVICE NEAR YOU"
+msgstr "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਲੱਭੋ"
+
+#: lib/components/help/help_component.js:60
 msgid "FOR ADDITIONAL ASSISTANCE"
 msgstr "ਹੋਰ ਸਹਾਇਤਾ ਲਈ"
 
-#: lib/components/services/service_list_error_component.js:28
-msgid ""
-"Fetching your location timed out. On Android devices you may need to set "
-"your location mode to \"High accuracy\"."
-msgstr ""
-"ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸਮਾਂ ਸਮਾਪਤ ਹੋਇਆ। ਐਂਡਰਾਇਡ (Android) ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਤੁਹਾਨੂੰ "
-"ਆਪਣੇ ਟਿਕਾਣੇ ਮੋਡ ਨੂੰ \"ਉੱਚ ਸਟੀਕਤਾ\" ਨਿਯਤ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।"
-
-#: lib/components/help/help_component.js:71
+#: lib/components/help/help_component.js:72
 msgid "Find a settlement agency near me"
 msgstr "ਮੇਰੇ ਨੇੜੇ ਸੈਟਲਮੈਂਟ ਏਜੰਸੀ ਲੱਭੋ"
 
@@ -204,11 +233,15 @@ msgstr "ਤੁਹਾਡੀਆਂ ਲੋੜਾਂ ਦੇ ਮੁਤਾਬਕ ਜ�
 msgid "Go back to questions"
 msgstr "ਸਵਾਲਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ"
 
-#: lib/components/help/help_component.js:46
+#: lib/components/app_settings_button/app_settings_button_component.js:17
+msgid "Go to Settings"
+msgstr "ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ"
+
+#: lib/components/help/help_component.js:47
 msgid "Help & Support"
 msgstr "ਮਦਦ ਤੇ ਸਹਿਯੋਗ"
 
-#: lib/components/help/help_component.js:49
+#: lib/components/help/help_component.js:50
 msgid ""
 "If you are having difficulty with settlement in Canada, we suggest getting "
 "in touch with a settlement worker."
@@ -225,27 +258,39 @@ msgstr ""
 "ਇਸ ਐਪ ਵਿੱਚ ਜਾਣਕਾਰੀ <0>Newcomers Guide to British Columbia</0> ਵਲੋਂ ਦਿੱਤੀ ਗਈ ਹੈ, "
 "ਕਾਪੀਰਾਈਟ 2018 ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਸੂਬਾ। ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।"
 
-#: lib/components/help/help_component.js:24
+#: lib/components/help/help_component.js:25
 msgid "Information on BC211"
 msgstr "BC211 ਬਾਰੇ ਜਾਣਕਾਰੀ"
 
-#: lib/components/help/help_component.js:19
+#: lib/components/help/help_component.js:20
 msgid "Information on HealthLinkBC (8-1-1)"
 msgstr "ਹੈਲਥਲਿੰਕਬੀਸੀ (8-1-1) ਬਾਰੇ ਜਾਣਕਾਰੀ"
 
-#: lib/components/help/help_component.js:14
+#: lib/components/help/help_component.js:15
 msgid "Information on emergency services (9-1-1)"
 msgstr "ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ (9-1-1) ਬਾਰੇ ਜਾਣਕਾਰੀ"
 
-#: lib/components/help/help_component.js:29
+#: lib/components/help/help_component.js:30
 msgid "Information on helplines"
 msgstr "ਮਦਦ-ਲਾਈਨ ਬਾਰੇ ਜਾਣਕਾਰੀ"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
+msgid "It took too long finding your location."
+msgstr "ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੱਭਣ ਲਈ ਬਹੁਤ ਵੱਧ ਸਮਾਂ ਲੱਗਾ।"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
+msgid ""
+"It took too long finding your location. Setting your device's Location "
+"Services to “High Accuracy” can sometimes fix this problem."
+msgstr ""
+"ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੱਭਣ ਲਈ ਬਹੁਤ ਵੱਧ ਸਮਾਂ ਲੱਗਾ। ਕਈ ਵਾਰ ਇਹ ਸਮੱਸਿਆ ਤੁਹਾਡੇ ਡਿਵਾਈਸ "
+"ਦੀਆਂ ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਦੀਆਂ ਸੈਟਿੰਗਾਂ \"ਉੱਚ ਸਟੀਕਤਾ\" ਨਾਲ ਠੀਕ ਹੋ ਸਕਦੀ ਹੈ।"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "ਬੀ.ਸੀ. ਬਾਰੇ ਸਭ ਜਾਣੋ"
 
-#: lib/components/help/help_component.js:20
+#: lib/components/help/help_component.js:21
 msgid "Mutlilingual health information services"
 msgstr "ਬਹੁ-ਭਾਸ਼ਾਈ ਸਿਹਤ ਜਾਣਕਾਰੀ ਸੇਵਾਵਾਂ"
 
@@ -260,6 +305,10 @@ msgstr "ਅੱਗੇ"
 #: lib/components/questionnaire/new_topics_modal_component.js:55
 msgid "No new topics recommended based on your answers."
 msgstr "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਕੋਈ ਨਵੇਂ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਵਿਸ਼ੇ ਨਹੀਂ ਹਨ"
+
+#: lib/components/services/service_list_component.js:24
+msgid "No services to show"
+msgstr "ਵੇਖਾਉਣ ਲਈ ਕੋਈ ਸੇਵਾਵਾਂ ਨਹੀਂ"
 
 #: lib/components/topics/task_list_component.js:69
 msgid "No topics to recommend"
@@ -289,6 +338,10 @@ msgstr ""
 "ਜਦੋਂ ਤੁਸੀਂ ਕੁਝ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇ ਦਿੱਤੇ ਤਾਂ ਤੁਹਾਡੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਹੇਠਾਂ ਦਿਖਾਈਆਂ ਜਾਣਗੀਆਂ। ਹੁਣ ਇਹ ਕੁਝ "
 "ਵਿਸ਼ੇ ਹਨ, ਜੋ ਕਿ ਅਸੀਂ ਹਰੇਕ ਲਈ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ:"
 
+#: lib/components/maps_application_popup/maps_application_popup_component.js:10
+msgid "Open in maps"
+msgstr "ਨਕਸ਼ੇ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
 "PeaceGeeks is not liable for any damages incurred as a result of or related "
@@ -304,15 +357,11 @@ msgstr ""
 "ਨੂੰ ਮੈਟਰੋ ਵੈਨਕੂਵਰ ਵਿੱਚ ਸੈਟਲ ਹੋਣ ਲਈ ਸਹਾਇਤਾ ਵਾਸਤੇ ਸੇਵਾਵਾਂ ਤੇ ਸਰੋਤਾਂ ਦੀ ਡਾਇਰੈਕਟਰੀ ਦੇਣ ਲਈ ਮੌਜੂਦ ਹੈ "
 "ਅਤੇ ਅਧਿਕਾਰਿਤ ਇੰਮੀਗਰੇਸ਼ਨ ਸੇਵਾ ਸਮਰੱਥਾ ਵਿੱਚ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।"
 
-#: lib/components/services/service_list_error_component.js:23
-msgid "Please ensure location services are enabled for Arrival Advisor."
-msgstr "ਯਕੀਨੀ ਬਣਾਓ ਕਿ Arrival Advisor ਲਈ ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਨੂੰ ਸਮਰੱਥ ਕੀਤਾ ਹੈ"
-
-#: lib/components/help/help_component.js:15
+#: lib/components/help/help_component.js:16
 msgid "Police, fire and medical emergencies"
 msgstr "ਪੁਲਸ, ਅੱਗ ਬਝਾਉਣ ਅਤੇ ਮੈਡੀਕਲ ਐਮਰਜੈਂਸੀ"
 
-#: lib/components/header_menu/header_menu_component.js:50
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Privacy policy"
 msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 
@@ -320,11 +369,11 @@ msgstr "ਪਰਦਦੇਰੀ ਨੀਤੀ"
 msgid "RELATED TOPICS"
 msgstr "ਸੰਬੰਧਿਤ ਵਿਸ਼ੇ"
 
-#: lib/components/expandable_content/expandable_content_component.js:80
+#: lib/components/expandable_content/expandable_content_component.js:77
 msgid "Read less"
 msgstr "ਘੱਟ ਪੜ੍ਹੋ"
 
-#: lib/components/expandable_content/expandable_content_component.js:78
+#: lib/components/expandable_content/expandable_content_component.js:77
 msgid "Read more"
 msgstr "ਵੱਧ ਪੜ੍ਹੋ"
 
@@ -333,7 +382,7 @@ msgstr "ਵੱਧ ਪੜ੍ਹੋ"
 msgid "Recommended for you"
 msgstr "ਤੁਹਾਡੇ ਲਈ ਸਿਫਾਰਸ਼ਾਂ ਹਨ"
 
-#: lib/components/header_menu/header_menu_component.js:22
+#: lib/components/header_menu/header_menu_component.js:23
 msgid "SELECT YOUR LANGUAGE"
 msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
 
@@ -341,19 +390,29 @@ msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
 msgid "Save important topics to build your personal plan for settlement."
 msgstr "ਸੈਟਲਮੈਂਟ ਲਈ ਤੁਹਾਡੀ ਨਿੱਜੀ ਵਿਓਂਤ ਬਣਾਉਣ ਲਈ ਖਾਸ ਵਿਸ਼ਿਆਂ ਨੂੰ ਸੰਭਾਲੋ।"
 
-#: lib/components/welcome/welcome_component.js:36
+#: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
 msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
+msgid "Server error"
+msgstr "ਸਰਵਰ ਗਲਤੀ"
 
 #: lib/components/about/about_component.js:60
 msgid "Server version:"
 msgstr "ਸਰਵਰ ਵਰਜ਼ਨ: {0}"
 
-#: lib/components/help/help_component.js:25
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
+msgid ""
+"Services are not available offline. Please connect to the internet and try "
+"again."
+msgstr "ਸੇਵਾਵਾਂ ਆਫਲਾਈਨ ਮੌਜੂਦ ਨਹੀਂ ਹਨ। ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਕਰਕੇ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#: lib/components/help/help_component.js:26
 msgid "Services information and referral"
 msgstr "ਸੇਵਾਵਾਂ ਜਾਣਕਾਰੀ ਅਤੇ ਹਵਾਲੇ"
 
-#: lib/components/welcome/welcome_component.js:32
+#: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
 msgstr "ਕੈਨੇਡਾ ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਹੁਣ ਹੋਰ ਵੀ ਸੌਖਾ ਹੋਇਆ।"
 
@@ -362,7 +421,7 @@ msgid "Skip"
 msgstr "ਛੱਡੋ"
 
 #: lib/components/onboarding/onboarding_component.js:44
-#: lib/components/welcome/welcome_component.js:47
+#: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "ਸ਼ੁਰੂ ਕਰੋ"
 
@@ -370,7 +429,7 @@ msgstr "ਸ਼ੁਰੂ ਕਰੋ"
 msgid "Start settling in B.C."
 msgstr "ਬੀ.ਸੀ. ਵਿੱਚ ਸੈਟਲ ਹੋਣਾ ਸ਼ੁਰੂ ਕਰੋ"
 
-#: lib/components/header_menu/header_menu_component.js:51
+#: lib/components/header_menu/header_menu_component.js:52
 msgid "Terms of Use"
 msgstr "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ"
 
@@ -416,43 +475,41 @@ msgstr ""
 msgid "This is Arrival Advisor version:"
 msgstr "ਇਹ Arrival Advisor ਦਾ ਵਰਜ਼ਨ:"
 
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
+msgid ""
+"To find services, please turn on Location Services for Arrival Advisor in "
+"Settings and try again."
+msgstr ""
+"ਸੇਵਾਵਾਂ ਲੱਭਣ ਲਈ, ਸੈਟਿੰਗਾਂ ਵਿੱਚ Arrival Advisor ਲਈ ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਚਾਲੂ ਕਰੋ ਤੇ "
+"ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#: lib/components/error_screens/ErrorScreenComponent.js:53
+msgid "Try again"
+msgstr "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+
 #: lib/components/recommended_topics/call_to_action.js:70
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "ਮੇਰੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ"
-
-#: lib/components/help/help_component.js:77
-msgid ""
-"Do you want to delete all user data from this phone? This includes which "
-"answers are chosen in the questionnaire and which topics are bookmarked."
-msgstr ""
-"ਕੀ ਤੁਸੀਂ ਇਸ ਫ਼ੋਨ ਤੋਂ ਸਾਰਾ ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਸ ਵਿੱਚ ਸਵਾਲਨਾਮੇ ਵਿੱਚ ਚੁਣੇ ਜਵਾਬ ਅਤੇ "
-"ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਗਏ ਵਿਸ਼ੇ ਸ਼ਾਮਲ ਹਨ।"
-
-#: lib/components/help/help_component.js:81
-msgid "Cancel"
-msgstr "ਰੱਦ ਕਰੋ"
-
-#: lib/components/maps_application_popup/maps_application_popup_component.js:10
-msgid "Open in maps"
-msgstr "ਨਕਸ਼ੇ ਵਿੱਚ ਖੋਲ੍ਹੋ"
-
-#: lib/components/services/service_list_item_component.js:37
-msgid "Address:"
-msgstr "ਪਤਾ:"
-
-#: lib/components/services/service_list_component.js:44
-msgid "FIND A SERVICE NEAR YOU"
-msgstr "ਆਪਣੇ ਨੇੜੇ ਸੇਵਾ ਲੱਭੋ"
-
-#: lib/components/services/service_list_item_component.js:68
-msgid "Email:"
-msgstr "ਈਮੇਲ:"
 
 #: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "ਵੈੱਬ:"
 
-#: lib/components/about/about_component.js:42
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
+msgid ""
+"We’re having difficulty connecting to the server. Please try again later."
+msgstr "ਸਾਨੂੰ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਔਖਿਆਈ ਹੋ ਰਹੀ ਹੈ। ਬਾਅਦ 'ਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#~ msgid ""
+#~ "Fetching your location timed out. On Android devices you may need to set "
+#~ "your location mode to \"High accuracy\"."
+#~ msgstr ""
+#~ "ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸਮਾਂ ਸਮਾਪਤ ਹੋਇਆ। ਐਂਡਰਾਇਡ (Android) ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਤੁਹਾਨੂੰ "
+#~ "ਆਪਣੇ ਟਿਕਾਣੇ ਮੋਡ ਨੂੰ \"ਉੱਚ ਸਟੀਕਤਾ\" ਨਿਯਤ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।"
+
+#~ msgid "Please ensure location services are enabled for Arrival Advisor."
+#~ msgstr "ਯਕੀਨੀ ਬਣਾਓ ਕਿ Arrival Advisor ਲਈ ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਨੂੰ ਸਮਰੱਥ ਕੀਤਾ ਹੈ"
+
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "

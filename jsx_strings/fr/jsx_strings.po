@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-09-17 22:43+0000\n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
+"POT-Creation-Date: 2019-09-20 11:11-0700\n"
+"PO-Revision-Date: 2019-09-23 21:37+0000\n"
 "Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: French <https://translate.peacegeeks.org/projects/ui-strings/"
 "jsx_strings/fr/>\n"
@@ -14,18 +14,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.5.1\n"
 
-#: lib/components/header_menu/header_menu_component.js:43
+#: lib/components/header_menu/header_menu_component.js:44
 msgid "ABOUT THE APP"
 msgstr "À PROPOS DE L’APPLICATION"
 
 #: lib/components/about/about_component.js:21
-#: lib/components/header_menu/header_menu_component.js:48
+#: lib/components/header_menu/header_menu_component.js:49
 msgid "About Arrival Advisor"
 msgstr "À propos d’Arrival Advisor"
 
-#: lib/components/services/service_list_error_component.js:33
-msgid "An error has occured."
-msgstr "Une erreur s'est produite."
+#: lib/components/services/service_list_item_component.js:37
+msgid "Address:"
+msgstr "Adresse :"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
+msgid "An error occurred"
+msgstr "Une erreur est survenue"
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid ""
@@ -133,22 +137,44 @@ msgstr ""
 "Ajoutez à vos favoris les sujets qui vous sont utiles, et consultez-les plus "
 "tard."
 
-#: lib/components/help/help_component.js:33
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
+msgid "Can't reach the internet"
+msgstr "Ne peut pas se connecter à Internet"
+
+#: lib/components/help/help_component.js:125
+msgid "Cancel"
+msgstr "ANNULER"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
+msgid "Check location services"
+msgstr "Vérifier le service de localisation"
+
+#: lib/components/help/help_component.js:34
 msgid "Contact Arrival Advisor team"
 msgstr "Contacter l’équipe d’Arrival Advisor"
 
-#: lib/components/welcome/welcome_component.js:54
+#: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
 msgstr "Créé par"
 
-#: lib/components/help/help_component.js:87
+#: lib/components/help/help_component.js:96
+#: lib/components/help/help_component.js:117
 msgid "Delete all user data"
 msgstr "Supprimer toutes les données de l’utilisateur(trice)"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
-#: lib/components/header_menu/header_menu_component.js:49
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "Disclaimer"
 msgstr "Avertissement"
+
+#: lib/components/help/help_component.js:119
+msgid ""
+"Do you want to delete all user data from this phone? This includes which "
+"answers are chosen in the questionnaire and which topics are bookmarked."
+msgstr ""
+"Souhaitez-vous que toutes les données de l’utilisateur soient supprimées de "
+"ce téléphone? Sont inclus les réponses données au questionnaire et les "
+"sujets ajoutés aux favoris."
 
 #: lib/components/questionnaire/questionnaire_component.js:114
 msgid "Done"
@@ -158,19 +184,23 @@ msgstr "Terminé"
 msgid "EXPLORE TOPICS"
 msgstr "EXPLORER LES SUJETS"
 
-#: lib/components/help/help_component.js:59
+#: lib/components/services/service_list_item_component.js:65
+msgid "Email:"
+msgstr "Courriel :"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
+msgid "Enable location services"
+msgstr "Activer le service de localisation"
+
+#: lib/components/services/service_list_component.js:44
+msgid "FIND A SERVICE NEAR YOU"
+msgstr "TROUVER UN SERVICE À PROXIMITÉ"
+
+#: lib/components/help/help_component.js:60
 msgid "FOR ADDITIONAL ASSISTANCE"
 msgstr "POUR DU SOUTIEN ADDITIONNEL"
 
-#: lib/components/services/service_list_error_component.js:28
-msgid ""
-"Fetching your location timed out. On Android devices you may need to set "
-"your location mode to \"High accuracy\"."
-msgstr ""
-"La géolocalisation a expiré. Dans le cas des appareils Android, vous devrez "
-"peut-être régler le mode de localisation à « haute précision »."
-
-#: lib/components/help/help_component.js:71
+#: lib/components/help/help_component.js:72
 msgid "Find a settlement agency near me"
 msgstr "Trouver une agence d’établissement à proximité"
 
@@ -225,11 +255,15 @@ msgstr "Obtenir des renseignements basés sur vos besoins"
 msgid "Go back to questions"
 msgstr "Revenir aux questions"
 
-#: lib/components/help/help_component.js:46
+#: lib/components/app_settings_button/app_settings_button_component.js:17
+msgid "Go to Settings"
+msgstr "Aller à Réglages"
+
+#: lib/components/help/help_component.js:47
 msgid "Help & Support"
 msgstr "Aide et soutien"
 
-#: lib/components/help/help_component.js:49
+#: lib/components/help/help_component.js:50
 msgid ""
 "If you are having difficulty with settlement in Canada, we suggest getting "
 "in touch with a settlement worker."
@@ -247,27 +281,40 @@ msgstr ""
 "l'intention des nouveaux arrivants en Colombie-Britannique</0>. Copyright "
 "2018 Province de la Colombie-Britannique. Tous droits réservés."
 
-#: lib/components/help/help_component.js:24
+#: lib/components/help/help_component.js:25
 msgid "Information on BC211"
 msgstr "Renseignements relatifs à BC211"
 
-#: lib/components/help/help_component.js:19
+#: lib/components/help/help_component.js:20
 msgid "Information on HealthLinkBC (8-1-1)"
 msgstr "Renseignements relatifs à HealthLink BC (8-1-1)"
 
-#: lib/components/help/help_component.js:14
+#: lib/components/help/help_component.js:15
 msgid "Information on emergency services (9-1-1)"
 msgstr "Renseignements relatifs au service d’urgence 9-1-1"
 
-#: lib/components/help/help_component.js:29
+#: lib/components/help/help_component.js:30
 msgid "Information on helplines"
 msgstr "Renseignements relatifs aux lignes d’aide"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
+msgid "It took too long finding your location."
+msgstr "Il a fallu trop longtemps pour trouver votre position."
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
+msgid ""
+"It took too long finding your location. Setting your device's Location "
+"Services to “High Accuracy” can sometimes fix this problem."
+msgstr ""
+"Il a fallu trop longtemps pour trouver votre position. Régler le service de "
+"localisation de votre appareil à « haute précision » permet parfois de "
+"résoudre ce problème."
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "Tout savoir sur la C.-B."
 
-#: lib/components/help/help_component.js:20
+#: lib/components/help/help_component.js:21
 msgid "Mutlilingual health information services"
 msgstr "Services de conseils médicaux multilingues"
 
@@ -282,6 +329,10 @@ msgstr "Prochaine question"
 #: lib/components/questionnaire/new_topics_modal_component.js:55
 msgid "No new topics recommended based on your answers."
 msgstr "Aucun nouveau sujet n’a été recommandé en fonction de vos réponses."
+
+#: lib/components/services/service_list_component.js:24
+msgid "No services to show"
+msgstr "Pas de services à proposer"
 
 #: lib/components/topics/task_list_component.js:69
 msgid "No topics to recommend"
@@ -312,6 +363,10 @@ msgstr ""
 "apparaîtront ci-dessous. Pour le moment, voici quelques sujets que nous "
 "recommandons à tous :"
 
+#: lib/components/maps_application_popup/maps_application_popup_component.js:10
+msgid "Open in maps"
+msgstr "Voir sur une carte"
+
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
 "PeaceGeeks is not liable for any damages incurred as a result of or related "
@@ -329,17 +384,11 @@ msgstr ""
 "pour faciliter l’établissement dans le Grand Vancouver. PeaceGeeks n’existe "
 "pas à titre de service d’immigration officiel."
 
-#: lib/components/services/service_list_error_component.js:23
-msgid "Please ensure location services are enabled for Arrival Advisor."
-msgstr ""
-"Veuillez vérifier que les services de localisation sont activés pour Arrival "
-"Advisor."
-
-#: lib/components/help/help_component.js:15
+#: lib/components/help/help_component.js:16
 msgid "Police, fire and medical emergencies"
 msgstr "Police, pompiers et urgences médicales"
 
-#: lib/components/header_menu/header_menu_component.js:50
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Privacy policy"
 msgstr "Politique de confidentialité"
 
@@ -347,11 +396,11 @@ msgstr "Politique de confidentialité"
 msgid "RELATED TOPICS"
 msgstr "SUJETS CONNEXES"
 
-#: lib/components/expandable_content/expandable_content_component.js:80
+#: lib/components/expandable_content/expandable_content_component.js:77
 msgid "Read less"
 msgstr "En lire moins"
 
-#: lib/components/expandable_content/expandable_content_component.js:78
+#: lib/components/expandable_content/expandable_content_component.js:77
 msgid "Read more"
 msgstr "En lire davantage"
 
@@ -360,7 +409,7 @@ msgstr "En lire davantage"
 msgid "Recommended for you"
 msgstr "Recommandé pour vous"
 
-#: lib/components/header_menu/header_menu_component.js:22
+#: lib/components/header_menu/header_menu_component.js:23
 msgid "SELECT YOUR LANGUAGE"
 msgstr "CHOISIR LA LANGUE"
 
@@ -370,19 +419,31 @@ msgstr ""
 "Sauvegardez les sujets importants afin de créer votre plan personnalisé "
 "d’établissement."
 
-#: lib/components/welcome/welcome_component.js:36
+#: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
 msgstr "Choisir la langue"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
+msgid "Server error"
+msgstr "Erreur du serveur"
 
 #: lib/components/about/about_component.js:60
 msgid "Server version:"
 msgstr "Version du serveur :"
 
-#: lib/components/help/help_component.js:25
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
+msgid ""
+"Services are not available offline. Please connect to the internet and try "
+"again."
+msgstr ""
+"Les services ne sont pas offerts hors ligne. Veuillez vous connecter à "
+"Internet et essayer de nouveau."
+
+#: lib/components/help/help_component.js:26
 msgid "Services information and referral"
 msgstr "Renseignements relatifs aux services et à l’orientation"
 
-#: lib/components/welcome/welcome_component.js:32
+#: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
 msgstr "S’établir au Canada est maintenant plus facile."
 
@@ -391,7 +452,7 @@ msgid "Skip"
 msgstr "Ignorer la question"
 
 #: lib/components/onboarding/onboarding_component.js:44
-#: lib/components/welcome/welcome_component.js:47
+#: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "Débuter"
 
@@ -399,7 +460,7 @@ msgstr "Débuter"
 msgid "Start settling in B.C."
 msgstr "Amorcer l’établissement en C.-B."
 
-#: lib/components/header_menu/header_menu_component.js:51
+#: lib/components/header_menu/header_menu_component.js:52
 msgid "Terms of Use"
 msgstr "Conditions d'utilisation"
 
@@ -452,44 +513,45 @@ msgstr ""
 msgid "This is Arrival Advisor version:"
 msgstr "Version d’Arrival Advisor :"
 
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
+msgid ""
+"To find services, please turn on Location Services for Arrival Advisor in "
+"Settings and try again."
+msgstr ""
+"Pour trouver des services, veuillez activer le service de localisation pour "
+"Arrival Advisor dans les réglages et essayer de nouveau."
+
+#: lib/components/error_screens/ErrorScreenComponent.js:53
+msgid "Try again"
+msgstr "Essayer de nouveau"
+
 #: lib/components/recommended_topics/call_to_action.js:70
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "METTRE À JOUR MES RECOMMANDATIONS"
-
-#: lib/components/help/help_component.js:77
-msgid ""
-"Do you want to delete all user data from this phone? This includes which "
-"answers are chosen in the questionnaire and which topics are bookmarked."
-msgstr ""
-"Souhaitez-vous que toutes les données de l’utilisateur soient supprimées de "
-"ce téléphone? Sont inclus les réponses données au questionnaire et les "
-"sujets ajoutés aux favoris."
-
-#: lib/components/help/help_component.js:81
-msgid "Cancel"
-msgstr "ANNULER"
-
-#: lib/components/maps_application_popup/maps_application_popup_component.js:10
-msgid "Open in maps"
-msgstr "Voir sur une carte"
-
-#: lib/components/services/service_list_item_component.js:37
-msgid "Address:"
-msgstr "Adresse :"
-
-#: lib/components/services/service_list_component.js:44
-msgid "FIND A SERVICE NEAR YOU"
-msgstr "TROUVER UN SERVICE À PROXIMITÉ"
-
-#: lib/components/services/service_list_item_component.js:68
-msgid "Email:"
-msgstr "Courriel :"
 
 #: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "Site Web :"
 
-#: lib/components/about/about_component.js:42
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
+msgid ""
+"We’re having difficulty connecting to the server. Please try again later."
+msgstr ""
+"Nous éprouvons de la difficulté à nous connecter au serveur. Veuillez "
+"essayer de nouveau plus tard."
+
+#~ msgid ""
+#~ "Fetching your location timed out. On Android devices you may need to set "
+#~ "your location mode to \"High accuracy\"."
+#~ msgstr ""
+#~ "La géolocalisation a expiré. Dans le cas des appareils Android, vous "
+#~ "devrez peut-être régler le mode de localisation à « haute précision »."
+
+#~ msgid "Please ensure location services are enabled for Arrival Advisor."
+#~ msgstr ""
+#~ "Veuillez vérifier que les services de localisation sont activés pour "
+#~ "Arrival Advisor."
+
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "

@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-06 12:45-0700\n"
-"PO-Revision-Date: 2019-09-10 21:03+0000\n"
-"Last-Translator: Tomy Reyes <tomy@peacegeeks.org>\n"
+"Report-Msgid-Bugs-To: tomy@peacegeeks.org\n"
+"POT-Creation-Date: 2019-09-20 11:11-0700\n"
+"PO-Revision-Date: 2019-09-25 03:37+0000\n"
+"Last-Translator: Arti <arti@peacegeeks.org>\n"
 "Language-Team: Chinese (Traditional) <https://translate.peacegeeks.org/"
 "projects/ui-strings/jsx_strings/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -14,18 +14,22 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.5.1\n"
 
-#: lib/components/header_menu/header_menu_component.js:43
+#: lib/components/header_menu/header_menu_component.js:44
 msgid "ABOUT THE APP"
 msgstr "關於此應用程式"
 
 #: lib/components/about/about_component.js:21
-#: lib/components/header_menu/header_menu_component.js:48
+#: lib/components/header_menu/header_menu_component.js:49
 msgid "About Arrival Advisor"
 msgstr "有關 Arrival Advisor"
 
-#: lib/components/services/service_list_error_component.js:33
-msgid "An error has occured."
-msgstr "發生錯誤。"
+#: lib/components/services/service_list_item_component.js:37
+msgid "Address:"
+msgstr "地址："
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
+msgid "An error occurred"
+msgstr "發生錯誤"
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid ""
@@ -115,22 +119,43 @@ msgstr "移除最愛"
 msgid "Bookmark the topics that you find helpful for future use."
 msgstr "您可藉由我的最愛標記重要主題以便日後查詢。"
 
-#: lib/components/help/help_component.js:33
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
+msgid "Can't reach the internet"
+msgstr "無法連線"
+
+#: lib/components/help/help_component.js:125
+msgid "Cancel"
+msgstr "取消"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
+msgid "Check location services"
+msgstr "檢查網路定位服務"
+
+#: lib/components/help/help_component.js:34
 msgid "Contact Arrival Advisor team"
 msgstr "聯繫Arrival Advisor團隊"
 
-#: lib/components/welcome/welcome_component.js:54
+#: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
 msgstr "創建者"
 
-#: lib/components/help/help_component.js:87
+#: lib/components/help/help_component.js:96
+#: lib/components/help/help_component.js:117
 msgid "Delete all user data"
 msgstr "刪除所有用戶數據"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
-#: lib/components/header_menu/header_menu_component.js:49
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "Disclaimer"
 msgstr "免責聲明"
+
+#: lib/components/help/help_component.js:119
+msgid ""
+"Do you want to delete all user data from this phone? This includes which "
+"answers are chosen in the questionnaire and which topics are bookmarked."
+msgstr ""
+"你確定要刪除這個手機上所有用戶數據嗎？用戶數據包括你問卷回答的答案和你收藏的"
+"主題。"
 
 #: lib/components/questionnaire/questionnaire_component.js:114
 msgid "Done"
@@ -140,17 +165,23 @@ msgstr "完成"
 msgid "EXPLORE TOPICS"
 msgstr "探索主題"
 
-#: lib/components/help/help_component.js:59
+#: lib/components/services/service_list_item_component.js:65
+msgid "Email:"
+msgstr "電子郵件:"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
+msgid "Enable location services"
+msgstr "啟動網路定位服務"
+
+#: lib/components/services/service_list_component.js:44
+msgid "FIND A SERVICE NEAR YOU"
+msgstr "尋找就近服務"
+
+#: lib/components/help/help_component.js:60
 msgid "FOR ADDITIONAL ASSISTANCE"
 msgstr "對於額外協助的需求"
 
-#: lib/components/services/service_list_error_component.js:28
-msgid ""
-"Fetching your location timed out. On Android devices you may need to set "
-"your location mode to \"High accuracy\"."
-msgstr "當定位系統收尋超時。Android手機使用者可將定位模式設置為“高準確度”。"
-
-#: lib/components/help/help_component.js:71
+#: lib/components/help/help_component.js:72
 msgid "Find a settlement agency near me"
 msgstr "就近尋找一家安置機構"
 
@@ -196,11 +227,15 @@ msgstr "根據您的需求取得訊息"
 msgid "Go back to questions"
 msgstr "回到問題"
 
-#: lib/components/help/help_component.js:46
+#: lib/components/app_settings_button/app_settings_button_component.js:17
+msgid "Go to Settings"
+msgstr "前往設置"
+
+#: lib/components/help/help_component.js:47
 msgid "Help & Support"
 msgstr "幫助和支持"
 
-#: lib/components/help/help_component.js:49
+#: lib/components/help/help_component.js:50
 msgid ""
 "If you are having difficulty with settlement in Canada, we suggest getting "
 "in touch with a settlement worker."
@@ -215,27 +250,37 @@ msgstr ""
 "本應用程式資訊由<0>Newcomers Guide to British Columbia</0>所提供；不列顛哥倫"
 "比亞省（BC省）2018 版權所有"
 
-#: lib/components/help/help_component.js:24
+#: lib/components/help/help_component.js:25
 msgid "Information on BC211"
 msgstr "BC211 相關資訊"
 
-#: lib/components/help/help_component.js:19
+#: lib/components/help/help_component.js:20
 msgid "Information on HealthLinkBC (8-1-1)"
 msgstr "HealthLink BC 相關資訊（8-1-1）"
 
-#: lib/components/help/help_component.js:14
+#: lib/components/help/help_component.js:15
 msgid "Information on emergency services (9-1-1)"
 msgstr "緊急求助資訊（9-1-1）"
 
-#: lib/components/help/help_component.js:29
+#: lib/components/help/help_component.js:30
 msgid "Information on helplines"
 msgstr "求助熱線相關資訊"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
+msgid "It took too long finding your location."
+msgstr "花了太長時間找到您的位置"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
+msgid ""
+"It took too long finding your location. Setting your device's Location "
+"Services to “High Accuracy” can sometimes fix this problem."
+msgstr "花了太長時間找到您的位置。請將手機網路定位服務設置為高精度有時可以解決此問題。"
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "了解所有關於B.C.的資訊"
 
-#: lib/components/help/help_component.js:20
+#: lib/components/help/help_component.js:21
 msgid "Mutlilingual health information services"
 msgstr "多種語言健康資訊服務處"
 
@@ -250,6 +295,10 @@ msgstr "下一個"
 #: lib/components/questionnaire/new_topics_modal_component.js:55
 msgid "No new topics recommended based on your answers."
 msgstr "根據您的答案，沒有新主題資訊可推薦。"
+
+#: lib/components/services/service_list_component.js:24
+msgid "No services to show"
+msgstr "無網路服務顯示"
 
 #: lib/components/topics/task_list_component.js:69
 msgid "No topics to recommend"
@@ -279,6 +328,10 @@ msgstr ""
 "回答完部分問題後，針對您需求的建議項目將顯示在下方。以下是我們目前為大家推薦"
 "的一些主題："
 
+#: lib/components/maps_application_popup/maps_application_popup_component.js:10
+msgid "Open in maps"
+msgstr "在地圖中顯示"
+
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid ""
 "PeaceGeeks is not liable for any damages incurred as a result of or related "
@@ -293,15 +346,11 @@ msgstr ""
 "在是為新移民提供所需資源服務目錄，以便利大溫地區的新移民，而不具備官方移民服"
 "務之身份。"
 
-#: lib/components/services/service_list_error_component.js:23
-msgid "Please ensure location services are enabled for Arrival Advisor."
-msgstr "請確保為 Arrival Advisor 開啟定位系統功能。"
-
-#: lib/components/help/help_component.js:15
+#: lib/components/help/help_component.js:16
 msgid "Police, fire and medical emergencies"
 msgstr "警察、火災、醫療急診"
 
-#: lib/components/header_menu/header_menu_component.js:50
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Privacy policy"
 msgstr "隱私政策"
 
@@ -309,11 +358,11 @@ msgstr "隱私政策"
 msgid "RELATED TOPICS"
 msgstr "相關主題"
 
-#: lib/components/expandable_content/expandable_content_component.js:80
+#: lib/components/expandable_content/expandable_content_component.js:77
 msgid "Read less"
 msgstr "顯示更少"
 
-#: lib/components/expandable_content/expandable_content_component.js:78
+#: lib/components/expandable_content/expandable_content_component.js:77
 msgid "Read more"
 msgstr "顯示更多"
 
@@ -322,7 +371,7 @@ msgstr "顯示更多"
 msgid "Recommended for you"
 msgstr "為您推薦"
 
-#: lib/components/header_menu/header_menu_component.js:22
+#: lib/components/header_menu/header_menu_component.js:23
 msgid "SELECT YOUR LANGUAGE"
 msgstr "選擇您的語言"
 
@@ -330,19 +379,29 @@ msgstr "選擇您的語言"
 msgid "Save important topics to build your personal plan for settlement."
 msgstr "儲存重要主題以建立個人定居計畫。"
 
-#: lib/components/welcome/welcome_component.js:36
+#: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
 msgstr "選擇您的語言"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
+msgid "Server error"
+msgstr "網路服務錯誤"
 
 #: lib/components/about/about_component.js:60
 msgid "Server version:"
 msgstr "伺服器版本：{0}"
 
-#: lib/components/help/help_component.js:25
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
+msgid ""
+"Services are not available offline. Please connect to the internet and try "
+"again."
+msgstr "目前網路離線無法使用。請連接網路後重試。"
+
+#: lib/components/help/help_component.js:26
 msgid "Services information and referral"
 msgstr "服務資訊和推薦"
 
-#: lib/components/welcome/welcome_component.js:32
+#: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
 msgstr "現在，定居加拿大變得更容易"
 
@@ -351,7 +410,7 @@ msgid "Skip"
 msgstr "跳過"
 
 #: lib/components/onboarding/onboarding_component.js:44
-#: lib/components/welcome/welcome_component.js:47
+#: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "開始"
 
@@ -359,7 +418,7 @@ msgstr "開始"
 msgid "Start settling in B.C."
 msgstr "開始在B.C.省定居"
 
-#: lib/components/header_menu/header_menu_component.js:51
+#: lib/components/header_menu/header_menu_component.js:52
 msgid "Terms of Use"
 msgstr "使用條款"
 
@@ -402,43 +461,37 @@ msgstr ""
 msgid "This is Arrival Advisor version:"
 msgstr "這是 Arrival Advisor 版本："
 
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
+msgid ""
+"To find services, please turn on Location Services for Arrival Advisor in "
+"Settings and try again."
+msgstr "查尋網路服務，請至手機設置處打開 Arrival Advisor 的網路定位服務, 然後重試。"
+
+#: lib/components/error_screens/ErrorScreenComponent.js:53
+msgid "Try again"
+msgstr "重試"
+
 #: lib/components/recommended_topics/call_to_action.js:70
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "更新我的推薦信息"
-
-#: lib/components/help/help_component.js:77
-msgid ""
-"Do you want to delete all user data from this phone? This includes which "
-"answers are chosen in the questionnaire and which topics are bookmarked."
-msgstr ""
-"你確定要刪除這個手機上所有用戶數據嗎？用戶數據包括你問卷回答的答案和你收藏的"
-"主題。"
-
-#: lib/components/help/help_component.js:81
-msgid "Cancel"
-msgstr "取消"
-
-#: lib/components/maps_application_popup/maps_application_popup_component.js:10
-msgid "Open in maps"
-msgstr "在地圖中顯示"
-
-#: lib/components/services/service_list_item_component.js:37
-msgid "Address:"
-msgstr "地址："
-
-#: lib/components/services/service_list_component.js:44
-msgid "FIND A SERVICE NEAR YOU"
-msgstr "尋找就近服務"
-
-#: lib/components/services/service_list_item_component.js:68
-msgid "Email:"
-msgstr "電子郵件:"
 
 #: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "網址："
 
-#: lib/components/about/about_component.js:42
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
+msgid ""
+"We’re having difficulty connecting to the server. Please try again later."
+msgstr "目前無法連接到伺服器, 請稍候再試。"
+
+#~ msgid ""
+#~ "Fetching your location timed out. On Android devices you may need to set "
+#~ "your location mode to \"High accuracy\"."
+#~ msgstr "當定位系統收尋超時。Android手機使用者可將定位模式設置為“高準確度”。"
+
+#~ msgid "Please ensure location services are enabled for Arrival Advisor."
+#~ msgstr "請確保為 Arrival Advisor 開啟定位系統功能。"
+
 #~ msgid ""
 #~ "The Arrival Advisor app is created by PeaceGeeks in partnership with "
 #~ "settlement organizations in Metro Vancouver, as well as immigrants and "

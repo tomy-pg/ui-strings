@@ -1,30 +1,28 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2019-08-06 12:45-0700\n"
+"POT-Creation-Date: 2019-09-20 11:11-0700\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
 "Language: en\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Plural-Forms: \n"
 
-#: lib/components/header_menu/header_menu_component.js:43
+#: lib/components/header_menu/header_menu_component.js:44
 msgid "ABOUT THE APP"
 msgstr "ABOUT THE APP"
 
 #: lib/components/about/about_component.js:21
-#: lib/components/header_menu/header_menu_component.js:48
+#: lib/components/header_menu/header_menu_component.js:49
 msgid "About Arrival Advisor"
 msgstr "About Arrival Advisor"
 
-#: lib/components/services/service_list_error_component.js:33
-msgid "An error has occured."
-msgstr "An error has occured."
+#: lib/components/services/service_list_item_component.js:37
+msgid "Address:"
+msgstr "Address:"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:25
+msgid "An error occurred"
+msgstr ""
 
 #: lib/components/onboarding/onboarding_component.js:33
 msgid "Answer a few optional questions to get tailored recommendations for your needs."
@@ -74,22 +72,39 @@ msgstr "Bookmark removed"
 msgid "Bookmark the topics that you find helpful for future use."
 msgstr "Bookmark the topics that you find helpful for future use."
 
-#: lib/components/help/help_component.js:33
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:15
+msgid "Can't reach the internet"
+msgstr ""
+
+#: lib/components/help/help_component.js:125
+msgid "Cancel"
+msgstr "Cancel"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:19
+msgid "Check location services"
+msgstr ""
+
+#: lib/components/help/help_component.js:34
 msgid "Contact Arrival Advisor team"
 msgstr "Contact Arrival Advisor team"
 
-#: lib/components/welcome/welcome_component.js:54
+#: lib/components/welcome/welcome_component.js:56
 msgid "Created by"
 msgstr "Created by"
 
-#: lib/components/help/help_component.js:87
+#: lib/components/help/help_component.js:96
+#: lib/components/help/help_component.js:117
 msgid "Delete all user data"
 msgstr "Delete all user data"
 
 #: lib/components/disclaimer/disclaimer_component.js:17
-#: lib/components/header_menu/header_menu_component.js:49
+#: lib/components/header_menu/header_menu_component.js:50
 msgid "Disclaimer"
 msgstr "Disclaimer"
+
+#: lib/components/help/help_component.js:119
+msgid "Do you want to delete all user data from this phone? This includes which answers are chosen in the questionnaire and which topics are bookmarked."
+msgstr "Do you want to delete all user data from this phone? This includes which answers are chosen in the questionnaire and which topics are bookmarked."
 
 #: lib/components/questionnaire/questionnaire_component.js:114
 msgid "Done"
@@ -99,15 +114,23 @@ msgstr "Done"
 msgid "EXPLORE TOPICS"
 msgstr "EXPLORE TOPICS"
 
-#: lib/components/help/help_component.js:59
+#: lib/components/services/service_list_item_component.js:65
+msgid "Email:"
+msgstr "Email:"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:17
+msgid "Enable location services"
+msgstr ""
+
+#: lib/components/services/service_list_component.js:44
+msgid "FIND A SERVICE NEAR YOU"
+msgstr "FIND A SERVICE NEAR YOU"
+
+#: lib/components/help/help_component.js:60
 msgid "FOR ADDITIONAL ASSISTANCE"
 msgstr "FOR ADDITIONAL ASSISTANCE"
 
-#: lib/components/services/service_list_error_component.js:28
-msgid "Fetching your location timed out. On Android devices you may need to set your location mode to \"High accuracy\"."
-msgstr "Fetching your location timed out. On Android devices you may need to set your location mode to \"High accuracy\"."
-
-#: lib/components/help/help_component.js:71
+#: lib/components/help/help_component.js:72
 msgid "Find a settlement agency near me"
 msgstr "Find a settlement agency near me"
 
@@ -135,11 +158,15 @@ msgstr "Get information based on your needs"
 msgid "Go back to questions"
 msgstr "Go back to questions"
 
-#: lib/components/help/help_component.js:46
+#: lib/components/app_settings_button/app_settings_button_component.js:17
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: lib/components/help/help_component.js:47
 msgid "Help & Support"
 msgstr "Help & Support"
 
-#: lib/components/help/help_component.js:49
+#: lib/components/help/help_component.js:50
 msgid "If you are having difficulty with settlement in Canada, we suggest getting in touch with a settlement worker."
 msgstr "If you are having difficulty with settlement in Canada, we suggest getting in touch with a settlement worker."
 
@@ -147,27 +174,35 @@ msgstr "If you are having difficulty with settlement in Canada, we suggest getti
 msgid "Information in this app is provided by the <0>Newcomers Guide to British Columbia</0> Copyright 2018 Province of British Columbia. All rights reserved."
 msgstr "Information in this app is provided by the <0>Newcomers Guide to British Columbia</0> Copyright 2018 Province of British Columbia. All rights reserved."
 
-#: lib/components/help/help_component.js:24
+#: lib/components/help/help_component.js:25
 msgid "Information on BC211"
 msgstr "Information on BC211"
 
-#: lib/components/help/help_component.js:19
+#: lib/components/help/help_component.js:20
 msgid "Information on HealthLinkBC (8-1-1)"
 msgstr "Information on HealthLinkBC (8-1-1)"
 
-#: lib/components/help/help_component.js:14
+#: lib/components/help/help_component.js:15
 msgid "Information on emergency services (9-1-1)"
 msgstr "Information on emergency services (9-1-1)"
 
-#: lib/components/help/help_component.js:29
+#: lib/components/help/help_component.js:30
 msgid "Information on helplines"
 msgstr "Information on helplines"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:47
+msgid "It took too long finding your location."
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:42
+msgid "It took too long finding your location. Setting your device's Location Services to “High Accuracy” can sometimes fix this problem."
+msgstr ""
 
 #: lib/components/explore/explore_all_component.js:11
 msgid "Learn all about B.C."
 msgstr "Learn all about B.C."
 
-#: lib/components/help/help_component.js:20
+#: lib/components/help/help_component.js:21
 msgid "Mutlilingual health information services"
 msgstr "Mutlilingual health information services"
 
@@ -182,6 +217,10 @@ msgstr "Next"
 #: lib/components/questionnaire/new_topics_modal_component.js:55
 msgid "No new topics recommended based on your answers."
 msgstr "No new topics recommended based on your answers."
+
+#: lib/components/services/service_list_component.js:24
+msgid "No services to show"
+msgstr ""
 
 #: lib/components/topics/task_list_component.js:69
 msgid "No topics to recommend"
@@ -207,19 +246,19 @@ msgstr "OK"
 msgid "Once you answer some questions, your recommendations will show up below. For now, here are some topics we recommend for everyone:"
 msgstr "Once you answer some questions, your recommendations will show up below. For now, here are some topics we recommend for everyone:"
 
+#: lib/components/maps_application_popup/maps_application_popup_component.js:10
+msgid "Open in maps"
+msgstr "Open in maps"
+
 #: lib/components/disclaimer/disclaimer_component.js:50
 msgid "PeaceGeeks is not liable for any damages incurred as a result of or related to the use of the app. PeaceGeeks is not an immigration consultancy network, and therefore cannot provide advice or support directly related to immigration. Arrival Advisor exists to offer newcomers a directory of services and resources to assist settlement in Metro Vancouver and does not exist in an official Immigration Service capacity."
 msgstr "PeaceGeeks is not liable for any damages incurred as a result of or related to the use of the app. PeaceGeeks is not an immigration consultancy network, and therefore cannot provide advice or support directly related to immigration. Arrival Advisor exists to offer newcomers a directory of services and resources to assist settlement in Metro Vancouver and does not exist in an official Immigration Service capacity."
 
-#: lib/components/services/service_list_error_component.js:23
-msgid "Please ensure location services are enabled for Arrival Advisor."
-msgstr "Please ensure location services are enabled for Arrival Advisor."
-
-#: lib/components/help/help_component.js:15
+#: lib/components/help/help_component.js:16
 msgid "Police, fire and medical emergencies"
 msgstr "Police, fire and medical emergencies"
 
-#: lib/components/header_menu/header_menu_component.js:50
+#: lib/components/header_menu/header_menu_component.js:51
 msgid "Privacy policy"
 msgstr "Privacy policy"
 
@@ -227,11 +266,11 @@ msgstr "Privacy policy"
 msgid "RELATED TOPICS"
 msgstr "RELATED TOPICS"
 
-#: lib/components/expandable_content/expandable_content_component.js:80
+#: lib/components/expandable_content/expandable_content_component.js:77
 msgid "Read less"
 msgstr "Read less"
 
-#: lib/components/expandable_content/expandable_content_component.js:78
+#: lib/components/expandable_content/expandable_content_component.js:77
 msgid "Read more"
 msgstr "Read more"
 
@@ -240,7 +279,7 @@ msgstr "Read more"
 msgid "Recommended for you"
 msgstr "Recommended for you"
 
-#: lib/components/header_menu/header_menu_component.js:22
+#: lib/components/header_menu/header_menu_component.js:23
 msgid "SELECT YOUR LANGUAGE"
 msgstr "SELECT YOUR LANGUAGE"
 
@@ -248,19 +287,27 @@ msgstr "SELECT YOUR LANGUAGE"
 msgid "Save important topics to build your personal plan for settlement."
 msgstr "Save important topics to build your personal plan for settlement."
 
-#: lib/components/welcome/welcome_component.js:36
+#: lib/components/welcome/welcome_component.js:38
 msgid "Select your language"
 msgstr "Select your language"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:22
+msgid "Server error"
+msgstr ""
 
 #: lib/components/about/about_component.js:60
 msgid "Server version:"
 msgstr "Server version:"
 
-#: lib/components/help/help_component.js:25
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:31
+msgid "Services are not available offline. Please connect to the internet and try again."
+msgstr ""
+
+#: lib/components/help/help_component.js:26
 msgid "Services information and referral"
 msgstr "Services information and referral"
 
-#: lib/components/welcome/welcome_component.js:32
+#: lib/components/welcome/welcome_component.js:34
 msgid "Settling in Canada is now easier."
 msgstr "Settling in Canada is now easier."
 
@@ -269,7 +316,7 @@ msgid "Skip"
 msgstr "Skip"
 
 #: lib/components/onboarding/onboarding_component.js:44
-#: lib/components/welcome/welcome_component.js:47
+#: lib/components/welcome/welcome_component.js:49
 msgid "Start"
 msgstr "Start"
 
@@ -277,13 +324,9 @@ msgstr "Start"
 msgid "Start settling in B.C."
 msgstr "Start settling in B.C."
 
-#: lib/components/header_menu/header_menu_component.js:51
+#: lib/components/header_menu/header_menu_component.js:52
 msgid "Terms of Use"
 msgstr "Terms of Use"
-
-#: lib/components/about/about_component.js:42
-#~ msgid "The Arrival Advisor app is created by PeaceGeeks in partnership with settlement organizations in Metro Vancouver, as well as immigrants and refugees like you. This project is possible thanks to funding by the Province of British Columbia and Google.org Canada in partnership with LEAP | Pecaut Centre for Social Impact. Special thanks also goes to individual donors who make this project possible. Arrival Advisor is an open-source project. You can <0>view it on GitHub</0> and <1>contact us</1> to learn how you can support this project."
-#~ msgstr "The Arrival Advisor app is created by PeaceGeeks in partnership with settlement organizations in Metro Vancouver, as well as immigrants and refugees like you. This project is possible thanks to funding by the Province of British Columbia and Google.org Canada in partnership with LEAP | Pecaut Centre for Social Impact. Special thanks also goes to individual donors who make this project possible. Arrival Advisor is an open-source project. You can <0>view it on GitHub</0> and <1>contact us</1> to learn how you can support this project."
 
 #: lib/components/about/about_component.js:42
 msgid "The Arrival Advisor app is created by PeaceGeeks in partnership with settlement organizations in Metro Vancouver, as well as immigrants and refugees like you. This project is possible thanks to funding by the Province of British Columbia and Google.org Canada in partnership with LEAP | Pecaut Centre for Social Impact. Special thanks also goes to individual donors who make this project possible. Arrival Advisor is an open-source project. You can view it on <0>GitHub</0> and <1>contact us</1> to learn how you can support this project."
@@ -297,34 +340,22 @@ msgstr "The app provides information about relevant newcomer services, and is in
 msgid "This is Arrival Advisor version:"
 msgstr "This is Arrival Advisor version:"
 
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:36
+msgid "To find services, please turn on Location Services for Arrival Advisor in Settings and try again."
+msgstr ""
+
+#: lib/components/error_screens/ErrorScreenComponent.js:53
+msgid "Try again"
+msgstr ""
+
 #: lib/components/recommended_topics/call_to_action.js:70
 msgid "UPDATE MY RECOMMENDATIONS"
 msgstr "UPDATE MY RECOMMENDATIONS"
 
-#: lib/components/help/help_component.js:77
-msgid "Do you want to delete all user data from this phone? This includes which answers are chosen in the questionnaire and which topics are bookmarked."
-msgstr "Do you want to delete all user data from this phone? This includes which answers are chosen in the questionnaire and which topics are bookmarked."
-
-#: lib/components/help/help_component.js:81
-msgid "Cancel"
-msgstr "Cancel"
-
-#: lib/components/maps_application_popup/maps_application_popup_component.js:10
-msgid "Open in maps"
-msgstr "Open in maps"
-
-#: lib/components/services/service_list_item_component.js:37
-msgid "Address:"
-msgstr "Address:"
-
-#: lib/components/services/service_list_component.js:44
-msgid "FIND A SERVICE NEAR YOU"
-msgstr "FIND A SERVICE NEAR YOU"
-
-#: lib/components/services/service_list_item_component.js:68
-msgid "Email:"
-msgstr "Email:"
-
 #: lib/components/services/service_list_item_component.js:57
 msgid "Web:"
 msgstr "Web:"
+
+#: lib/components/error_screens/ErrorScreenSwitcherComponent.js:50
+msgid "We’re having difficulty connecting to the server. Please try again later."
+msgstr ""
