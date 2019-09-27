@@ -23,6 +23,9 @@ msgstr ""
 "Nous avons fait des mises à jour et apporté des améliorations afin que votre "
 "expérience soit encore meilleure."
 
+msgid "What's new"
+msgstr ""
+
 msgid "New languages:"
 msgstr "Nouvelles langues offertes :"
 
@@ -46,8 +49,8 @@ msgid ""
 "We've improved the service listings you see when you click \"Find Related "
 "Services Near Me\"."
 msgstr ""
-"Nous avons amélioré la liste des services offerts quand vous cliquez sur « "
-"Trouver des services connexes à proximité »."
+"Nous avons amélioré la liste des services offerts quand vous cliquez sur "
+"« Trouver des services connexes à proximité »."
 
 msgid ""
 "Arrival Advisor is a free, multilingual, mobile app that helps immigrants "

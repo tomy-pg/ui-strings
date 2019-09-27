@@ -21,6 +21,9 @@ msgid ""
 "We've made updates and improvements to make your experience even better."
 msgstr "更新和改进使您能获得更好的体验。"
 
+msgid "What's new"
+msgstr ""
+
 msgid "New languages:"
 msgstr "新增语言："
 
@@ -46,12 +49,15 @@ msgid ""
 "Arrival Advisor is a free, multilingual, mobile app that helps immigrants "
 "and refugees in British Columbia, Canada find information and services to "
 "navigate their settlement journey."
-msgstr "Arrival Advisor是一款免费的、可使用多种语言的、为加拿大英属不列颠省的移民和难民提供安顿信息和服务的移动应用。"
+msgstr ""
+"Arrival Advisor是一款免费的、可使用多种语言的、为加拿大英属不列颠省的移民和难"
+"民提供安顿信息和服务的移动应用。"
 
 msgid ""
 "Now available in English, French, Arabic, Chinese Simplified, Chinese "
 "Traditional, Korean, Punjabi, and Tagalog."
-msgstr "目前可以使用英语、法语、阿拉伯语、中文简体和繁体、韩语、旁遮普语和塔加路语。"
+msgstr ""
+"目前可以使用英语、法语、阿拉伯语、中文简体和繁体、韩语、旁遮普语和塔加路语。"
 
 msgid ""
 "Get reliable and up-to-date information for newcomers, no matter where you "

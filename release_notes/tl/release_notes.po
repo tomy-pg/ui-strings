@@ -24,6 +24,9 @@ msgstr ""
 "Nagawa mo na ang mga update at pagbabago para mas mapahusay pa ang paggamit "
 "mo."
 
+msgid "What's new"
+msgstr ""
+
 msgid "New languages:"
 msgstr "Mga bagong wika:"
 

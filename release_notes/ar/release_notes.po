@@ -22,6 +22,9 @@ msgid ""
 "We've made updates and improvements to make your experience even better."
 msgstr "نفذنا تحديثات وتحسينات كي نجعل من خبرة استخدامك أفضل من ذي قبل."
 
+msgid "What's new"
+msgstr ""
+
 msgid "New languages:"
 msgstr "لغات جديدة:"
 
