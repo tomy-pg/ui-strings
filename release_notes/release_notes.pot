@@ -19,6 +19,9 @@ msgstr ""
 msgid "We've made updates and improvements to make your experience even better."
 msgstr ""
 
+msgid "What's new"
+msgstr ""
+
 msgid "New languages:"
 msgstr ""
 
