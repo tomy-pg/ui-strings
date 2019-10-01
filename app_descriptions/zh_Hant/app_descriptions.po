@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-06 12:45-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_Hant\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: @lingui/cli\n"
+"Mime-Version: 1.0\n"
+
+msgid "Multilingual guide and services directory for newcomers to B.C., Canada"
+msgstr ""
+
+msgid "Arrival Advisor is a free, multilingual app that helps immigrants and refugees in British Columbia, Canada find information and services to plan their settlement journey."
+msgstr ""
+
+msgid "New to British Columbia? Arrival Advisor is your trusted companion: from your arrival in Canada to when you feel comfortably settled and at home. Whether it’s getting a job, learning English, or connecting with your community, Arrival Advisor is here to help immigrants and refugees succeed. Easily find all the information and services you need—in your language and personalized for you."
+msgstr ""
+
+msgid "Arrival Advisor helps you:"
+msgstr ""
+
+msgid "Access information in your own language. Arrival Advisor is offered in English, Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, Punjabi, and Tagalog."
+msgstr ""
+
+msgid "Get reliable and up-to-date information for newcomers, no matter where you are. Topic areas include: Settling In, Employment, Health Care, Money & Banking, Housing, Legal System & Immigration, Education, Driving, and Help for Individuals & Families. The newcomer topics are saved to your phone so you can view the information even without Internet."
+msgstr ""
+
+msgid "Find services nearby that can help you. Arrival Advisor is compatible with Maps, so you can easily navigate to service provider locations."
+msgstr ""
+
+msgid "Get recommendations based on your situation. By answering some optional questions, you’ll get tailored information and services based on your needs."
+msgstr ""
+
+msgid "Keep track of what you need to do. You can build a personal plan by bookmarking important topics that will help you navigate your settlement journey step-by-step."
+msgstr ""
+
+msgid "Arrival Advisor is anonymous. No account needed to use the app. We never keep or share your personal data with third parties. You can delete the information you save to the app at any time."
+msgstr ""
+
+msgid "The Arrival Advisor app is created by PeaceGeeks in partnership with settlement organizations in Metro Vancouver, as well as immigrants and refugees like you. This project is possible thanks to funding by the Province of British Columbia and the Google.org Impact Challenge Canada."
+msgstr ""
+
+msgid "Settling in British Columbia is now easier, with Arrival Advisor. Learn more at https://arrival-advisor.ca"
+msgstr ""
