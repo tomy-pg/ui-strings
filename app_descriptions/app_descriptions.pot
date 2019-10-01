@@ -25,7 +25,7 @@ msgstr ""
 msgid "Arrival Advisor helps you:"
 msgstr ""
 
-msgid "Access information in your own language. Arrival Advisor is offered in English, French, and Arabic. Chinese Simplified, Chinese Traditional, Korean, Punjabi, and Tagalog are coming soon!"
+msgid "Access information in your own language. Arrival Advisor is offered in English, Arabic, Chinese Simplified, Chinese Traditional, French (Canadian), Korean, Punjabi, and Tagalog."
 msgstr ""
 
 msgid "Get reliable and up-to-date information for newcomers, no matter where you are. Topic areas include: Settling In, Employment, Health Care, Money & Banking, Housing, Legal System & Immigration, Education, Driving, and Help for Individuals & Families. The newcomer topics are saved to your phone so you can view the information even without Internet."
